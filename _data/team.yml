@@ -70,17 +70,6 @@
    - {name: "twitter", link: "https://twitter.com/oronowiczg"}
 -
   id: 6
-  name: "Michał"
-  surname: "Ręczkowicz"
-  title: "PrimeBit Studio"
-  thumbnailUrl: team-mre.png
-  team: true
-  ribbon:
-    - {abbr: "PrimeBit Studio", title: "PrimeBit Studio"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/MikeReczkowicz"}
--
-  id: 7
   name: "Maciej"
   surname: "Rząsa"
   title: "RRUG"
@@ -91,7 +80,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/mjrzasa"}
 -
-  id: 8
+  id: 7
   name: "Mateusz"
   surname: "Bielec"
   title: "RRUG"
@@ -103,7 +92,7 @@
     - {name: "twitter", link: "https://twitter.com/mbie"}
     - {name: "github", link: "https://github.com/mbie"}
 -
-  id: 9
+  id: 8
   name: "Konrad"
   surname: "Kotula"
   title: ""

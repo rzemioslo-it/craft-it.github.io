@@ -9,11 +9,11 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hackathon.html', '_posts', 'cod.md']
 
 # Site Settings
-title: "RZEmiosło.IT | Konferencja programistyczna w Rzeszowie"
+title: "Craft.IT | Konferencja programistyczna w Rzeszowie"
 email: ""
 description: "Pierwsza konferencja programistyczna w Rzeszowie poświęcona tematyce Software Craftsmanship - dobrym praktykom i metodykom, nie związanymi ściśle z konkretnymi technologiami."
 baseurl: ""
-url: "http://rzemioslo.it"
+url: "http://craft-it.it"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-92615330-1"
 googleAnalyticsSiteUrl: "auto"
@@ -28,7 +28,7 @@ organizerLogo: ""
 organizerLink: ""
 
 # Head
-metaKeywords: "RZEmiosloIT, Rzeszów, konferencja, programowanie, software, craftsmanship, IT"
+metaKeywords: "CraftIT, RZEmiosloIT, Rzeszów, konferencja, programowanie, software, craftsmanship, IT"
 twitterAccount: "@RZEmiosloIT"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-fb-2019.jpg"
@@ -39,16 +39,17 @@ socialImageSrcFacebook: "/img/seo/sharing-fb-2019.jpg"
 
 # Navigation
 navigationLinks:
-- {permalink: "/schedule/", text: "Program"}
-- {permalink: "/speakers/", text: "Prelegenci"}
+# - {permalink: "/schedule/", text: "Program"}
+# - {permalink: "/speakers/", text: "Prelegenci"}
 - {permalink: "/team/", text: "Zespół"}
 #- {permalink: "/logistics/", text: "Logistyka"}
+- {link: "http://rzemioslo.it", text: "2019"}
 - {link: "http://2018.rzemioslo.it", text: "2018"}
 - {link: "http://2017.rzemioslo.it", text: "2017"}
 navigationButtons:
- - {permalink: "/#tickets", text: "Kup bilet"}
+ # - {permalink: "/#tickets", text: "Kup bilet"}
 bottomNavigationLinks:
- - {permalink: "/#tickets", text: "Kup bilet"}
+ # - {permalink: "/#tickets", text: "Kup bilet"}
 #rightNavigationButtons:
 # - {link: "#tickets", text: "Kup bilet"}
 
@@ -61,9 +62,9 @@ heroImage: "hero2019.jpg"
 # About Block
 aboutTitle: "O konferencji"
 aboutText:
- - "RZEmiosło.IT to pierwsza konferencja programistyczna na Podkarpaciu poświęcona tematyce \"Software Craftsmanship\"."
+ - "Craft.IT (dawniej RZEmiosło.IT) to pierwsza konferencja programistyczna na Podkarpaciu poświęcona tematyce \"Software Craftsmanship\"."
  - "Nowe technologie pojawiają się i znikają. My wierzymy, że warto inwestować we własne programistyczne rzemiosło, w warsztat, który zawsze będzie aktualny, niezależnie od aktualnych trendów."
- - "Serdecznie zapraszamy: Rzeszów. 25 maja 2019"
+ - "Serdecznie zapraszamy: Rzeszów. 2020"
  - "Zapewniamy świetne prelekcje techniczne, catering przez cały dzień i after party."
 #aboutBlock:
 # - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
@@ -82,7 +83,7 @@ latestNewsTitle: "Aktualności"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: ""
-twitterHashTag: "RZEmiosloIT"
+twitterHashTag: "Craft.IT"
 twitterFeed: ""
 
 # Location Block
@@ -124,15 +125,16 @@ partnersC4sponsorsButton: "Zostań sponsorem"
 
 # Last edition Block
 lastEditionImage: "edition2018.jpg"
-lastEditionTitle: "Jak było w 2018 roku?"
+lastEditionTitle: "Jak było w 2019 roku?"
 lastEditionButtons:
-   - {link: "https://www.facebook.com/pg/rzemiosloit/photos/?tab=album&album_id=1925327751060337", text: "Relacja fotograficzna"}
-   - {link: "https://www.youtube.com/watch?v=Y3-QhMx5FFg", text: "Relacja wideo"}
+   - {link: "https://www.facebook.com/pg/rzemiosloit/photos/?tab=album&album_id=2154230958170014", text: "Relacja fotograficzna"}
+   - {link: "https://www.youtube.com/watch?v=-8FR3slXJ8Q", text: "Relacja wideo"}
+   # - {link: "https://rzemioslo.it", text: "Media o nas"}
 
 # Tickets Block
 ticketsTitle: "Bilety"
-ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
-# ticketsInfo: "Informację o sprzedaży biletów podamy na stronie i kanałach social media."
+# ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
+ticketsInfo: "Informację o sprzedaży biletów podamy na stronie i kanałach social media."
 
 # Footer
 socialLinks:

@@ -48,11 +48,11 @@ layout: compress
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyBhH8BoDfgUZ-ky18n5ycNX_5TzGH6mbMc"><\/script>')
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyDF6hvtaswRTX_RMJjG30oA0qfhzAqp87c"><\/script>')
         }
     </script>
     {% elsif page.permalink == '/logistics/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry&key=AIzaSyBhH8BoDfgUZ-ky18n5ycNX_5TzGH6mbMc"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry&key=AIzaSyDF6hvtaswRTX_RMJjG30oA0qfhzAqp87c"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
@@ -133,8 +133,8 @@ layout: compress
     {% endif %}
 
     <!--script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script-->
-    <script type="text/javascript" src="//cdn.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
-    <script type="text/javascript">
+    <!-- <script type="text/javascript" src="//cdn.evenea.pl/js/iframe/new/iframeResizer2.js"></script> -->
+<!--     <script type="text/javascript">
      $(window).load(function() {
        var f = document.createElement('iframe');
        f.src = "https://rzemiosloIT.evenea.pl?out=1&source=event_iframe";
@@ -145,7 +145,7 @@ layout: compress
        $('iframe').iFrameResize([{}]);
      });
     </script>
-
+ -->
     <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@11.0.6/dist/lazyload.min.js"></script>
     <script type="text/javascript">
       var lazyLoadInstance = new LazyLoad({
