@@ -1,5 +1,5 @@
-$nav-color: #fff;
-$nav-color-hover: #cfcfcf;
+$nav-color: #373737;
+$nav-color-hover: #0d0d0d;
 $nav-scroll-color: rgba(0, 0, 0, .5);
 $nav-scroll-color-hover: rgba(0, 0, 0, .8);
 
@@ -7,7 +7,10 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     position: fixed;
     z-index: 500;
     width: 100%;
-    padding: 0 45px;
+    padding: 20px 45px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+    background-color: #fff; 
+    height: 111px;
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
@@ -21,8 +24,10 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     .overlay {
         opacity: 0;
         transition: $base-transition;
+        
     }
 }
+
 .logo-header {
     display: block;
     transform: translateY(20px);
@@ -39,13 +44,13 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     .logo {
         display: inline-block;
         float: left;
-        width: 185px;
-        height: 60px;
-        margin-right: 20px;
-        transform: scale(.7);
+        width: 200px;
+        height: 37px;
+        margin: 0 192px 4px 0;
+        //transform: scale(.7);
         vertical-align: middle;
          @media (max-width: 767px) {
-            transform: scale(.6);
+         //   transform: scale(.6);
         }
     }
 }
@@ -53,7 +58,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     width: 185px;
     height: 60px;
     margin: 8px 20px 0 -10px;
-    transform: scale(.6);
+   // transform: scale(.6);
     vertical-align: middle;
 }
 nav {
@@ -79,7 +84,7 @@ nav {
         padding: 0;
         list-style: none;
         text-align: left;
-        transform: translateY(40px);
+        transform: translateY(10px);
         transition: $base-transition;
         @media (max-width: 767px) {
             line-height: 20px;
@@ -105,8 +110,13 @@ nav {
             font-size: $base-font-size;
             font-weight: $regular;
             transition: $base-transition;
-            text-transform: uppercase;
             color: $nav-color;
+            margin: 10px 30px 10px 0px;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            
+            letter-spacing: normal;
             @media (max-width: 767px) {
                 font-size: 16px;
                 display: block;
@@ -115,6 +125,11 @@ nav {
                 text-transform: none;
                 color: rgba(0, 0, 0, .3);
                 outline: 0;
+            }
+            &.buy-button{
+                border-radius: 32px;
+                background-color: #046ab4;
+                top: -6px;
             }
             &.current, &:hover {
                 text-decoration: none;
