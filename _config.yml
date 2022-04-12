@@ -5,7 +5,6 @@ safe: false
 
 # Build Settings
 markdown: kramdown
-permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hackathon.html', '_posts', 'cod.md']
 
 # Site Settings
@@ -61,11 +60,10 @@ heroImage: "hero.png"
 # About Block
 aboutTitle: "O konferencji"
 aboutText:
- - TBD
-# - "RZEmiosło.IT to pierwsza konferencja programistyczna na Podkarpaciu poświęcona tematyce \"Software Craftsmanship\"."
-# - "Nowe technologie pojawiają się i znikają. My wierzymy, że warto inwestować we własne programistyczne rzemiosło, w warsztat, który zawsze będzie aktualny, niezależnie od aktualnych trendów."
-# - "Serdecznie zapraszamy: Rzeszów. 25 maja 2019"
-# - "Zapewniamy świetne prelekcje techniczne, catering przez cały dzień i after party."
+ - "Craft-IT.pl to konferencja programistyczna na Podkarpaciu poświęcona tematyce \"Software Craftsmanship\"."
+ - "Nowe technologie pojawiają się i znikają. My wierzymy, że warto inwestować we własne programistyczne rzemiosło, w warsztat, który zawsze będzie aktualny, niezależnie od aktualnych trendów."
+ - "Serdecznie zapraszamy: Rzeszów. 4 czerwca 2022"
+ - "Zapewniamy świetne prelekcje techniczne, catering przez cały dzień i after party."
 #aboutBlock:
 # - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -125,10 +123,10 @@ partnersC4sponsorsButton: "Zostań sponsorem"
 
 # Last edition Block
 lastEditionImage: "edition2018.jpg"
-lastEditionTitle: "Jak było w 2018 roku?"
+lastEditionTitle: "Jak było w 2019 roku?"
 lastEditionButtons:
-   - {link: "https://www.facebook.com/pg/rzemiosloit/photos/?tab=album&album_id=1925327751060337", text: "Relacja fotograficzna"}
-   - {link: "https://www.youtube.com/watch?v=Y3-QhMx5FFg", text: "Relacja wideo"}
+   - {link: "https://www.facebook.com/media/set/?set=a.2154230958170014&type=3", text: "Relacja fotograficzna"}
+   - {link: "https://www.youtube.com/watch?v=-8FR3slXJ8Q", text: "Relacja wideo"}
 
 # Tickets Block
 ticketsTitle: "Bilety"
@@ -139,7 +137,7 @@ ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawo
 socialLinks:
 #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=RZEmiosloIT", icon: "twitter"}
- - {link: "https://facebook.com/rzemiosloit/", icon: "facebook"}
+ - {link: "https://facebook.com/craftitpl/", icon: "facebook"}
 # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -

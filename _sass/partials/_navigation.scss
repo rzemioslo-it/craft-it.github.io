@@ -15,7 +15,8 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         padding: 13px 0 0 34px;
     }
     &.after-scroll {
-        padding-top: 0;
+        height: 70px;
+        padding: 15px 45px;
         box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
         .overlay {
             opacity: 1;
@@ -93,7 +94,7 @@ nav {
             transform: translateY(0);  
         }
         .top-header.after-scroll & {
-            transform: translateY(20px);  
+            transform: translateY(-8px);  
             @media (max-width: 767px) {
                 transform: translateY(0);  
             }

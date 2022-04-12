@@ -134,23 +134,24 @@
     padding: 200px 100px;
     
     .title {
-      font-family: Montserrat;
+      font-family: "Montserrat Bold";
       font-size: 63px;
       font-weight: bold;
       color: #373737;
     }
 
     .date {
-      font-family: Montserrat;
+      font-family: "Montserrat Bold";
       font-size: 41px;
       font-weight: bold;
       color: #096ab4;
+      margin-top: 52px;
     }
 
     .place {
       color: #5b5b5b;
       line-height: 1.82;
-      font-family: Lato;
+      font-family: LatoWeb;
       font-size: 22px;
 
     }
@@ -158,8 +159,10 @@
     .buy-button {
       line-height: 1.82;
       color: #fff;
-      font-family: Lato;
+      font-family: LatoWeb;
       font-size: 22px;
+      border-radius: 38px;
+      margin-top: 38px;
     }
   }
 
