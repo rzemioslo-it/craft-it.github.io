@@ -7,13 +7,15 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     position: fixed;
     z-index: 500;
     width: 100%;
-    padding: 20px 45px;
+    padding: 20px 45px 20px 145px;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
     background-color: #fff; 
     height: 111px;
-    @media (min-width: 768px) and (max-width: 991px) {
-       // padding: 13px 0 0 34px;
+    @media (max-width: 1300px) {
+
+        padding: 20px 45px 20px 45px;
     }
+
     @media (max-width: 768px) {
         height: 72px;
     }
