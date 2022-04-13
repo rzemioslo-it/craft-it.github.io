@@ -4,46 +4,49 @@
     {% include navigation.html %}
     <div class="content-wrapper">
         <div class="jumbotron">
-        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% for button in site.heroButtons %}
-            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            {% endfor %}
+            <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+                {% for button in site.heroButtons %}
+                <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}"
+                   class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link !=null
+                   %}target="_blank" {% endif %}>{{ button.text }}</a>
+                {% endfor %}
+            </div>
         </div>
-    </div>
-    <div class="content-hero">
-        <div class="title">
-            Craft-IT <br />
-            Konferencja  <br />
-            Programistyczna
+        <div class="content-icons">
+            <div class="big-circle"></div>
+            <div class="icon-circles"></div>
+            <div class="content-icon icon1"></div>
+            <div class="content-icon icon2"></div>
+            <div class="content-icon icon3"></div>
+            <div class="content-icon icon5"></div>
+            <div class="content-icon icon7"></div>
+            <div class="content-icon icon8"></div>
+            <div class="content-icon icon9"></div>
+            <div class="content-icon icon10"></div>
+            <div class="icon-heroes"></div>
+            <div class="content-icon icon4"></div>
+            <div class="content-icon icon6"></div>
         </div>
-        <div class="date">
-            4 czerwca 2022
+        <div class="content-hero">
+            <div class="title">
+                Craft-IT 
+                Konferencja 
+                Programistyczna
+            </div>
+            <div class="date">
+                4 czerwca 2022
+            </div>
+            <div class="place">
+                Hotel Bristol Tradition & Luxury w Rzeszowie
+            </div>
+            <a href="#tickets" class="btn btn-primary waves-effect waves-button
+                waves-light waves-float buy-button">Kup bilet na konferencję</a>
         </div>
-        <div class="place">
-            Hotel Bristol Tradition & Luxury w Rzeszowie
-        </div>
-        <a href="#tickets" class="btn btn-primary waves-effect waves-button
-                waves-light waves-float hidden-xs buy-button" >Kup bilet na konferencję</a>
-    </div>
-    <div class="content-icons">
-        <div class="icon-circles"></div>
-        <div class="content-icon icon1"></div>
-        <div class="content-icon icon2"></div>
-        <div class="content-icon icon3"></div>
-        <div class="content-icon icon5"></div>
-        <div class="content-icon icon7"></div>
-        <div class="content-icon icon8"></div>
-        <div class="content-icon icon9"></div>
-        <div class="content-icon icon10"></div>
-        <div class="icon-heroes"></div>
-        <div class="content-icon icon4"></div>
-        <div class="content-icon icon6"></div>
-    </div>
-    <a href="#about" class="explore">
-        <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
-            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
-        </svg>
-    </a>
+        <a href="#about" class="explore">
+            <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
+                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
+            </svg>
+        </a>
     </div>
 </section>
 <!-- End Hero Section -->

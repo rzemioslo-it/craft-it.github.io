@@ -12,7 +12,10 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     background-color: #fff; 
     height: 111px;
     @media (min-width: 768px) and (max-width: 991px) {
-        padding: 13px 0 0 34px;
+       // padding: 13px 0 0 34px;
+    }
+    @media (max-width: 768px) {
+        height: 72px;
     }
     &.after-scroll {
         height: 70px;
@@ -25,7 +28,6 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     .overlay {
         opacity: 0;
         transition: $base-transition;
-        
     }
 }
 
@@ -34,12 +36,12 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     transform: translateY(20px);
     transition: $base-transition;
     @media (max-width: 767px) {
-        transform: translateX(-45px);
+        transform: translateX(-30px);
     }
     .top-header.after-scroll & {
         transform: translateY(1px);
         @media (max-width: 767px) {
-            transform: translateX(-45px);
+            transform: translateX(-30px);
         }    
     }
     .logo {
@@ -52,13 +54,14 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         vertical-align: middle;
          @media (max-width: 767px) {
          //   transform: scale(.6);
+             margin: 0;
         }
     }
 }
 .logo-navbar {
     width: 185px;
     height: 60px;
-    margin: 8px 20px 0 -10px;
+    margin: 17px 0px -15px 10px;
    // transform: scale(.6);
     vertical-align: middle;
 }
@@ -87,6 +90,7 @@ nav {
         text-align: left;
         transform: translateY(10px);
         transition: $base-transition;
+        
         @media (max-width: 767px) {
             line-height: 20px;
             width: 95%;
@@ -118,6 +122,12 @@ nav {
             line-height: normal;
             
             letter-spacing: normal;
+
+            @media (min-width: 767px)  and (min-width: 992px){
+
+                margin: 10px 10px 10px 0px;
+                
+            }
             @media (max-width: 767px) {
                 font-size: 16px;
                 display: block;
@@ -180,7 +190,7 @@ nav {
 }
 .menu-trigger {
     float: right;
-    transform: translateY(20px);
+    transform: translateY(10px);
     right: 45px;
     transition: $base-transition;
 }

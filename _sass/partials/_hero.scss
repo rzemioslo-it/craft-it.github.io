@@ -20,12 +20,49 @@
   }
 
   .content-icons {
-    background: url("/img/sections-background/hero.png") no-repeat right top;
+   // background: url("/img/sections-background/hero.png") no-repeat right top;
     top: 111px;
     width: 100%;
     height: 100%;
     position: absolute;
+    transform-origin: top right;
+    @media (max-width: 1200px) {
+      transform: scale(0.9);
+    }
+    @media (max-width: 1100px) {
+      transform: scale(0.8);
+    }
+    @media (max-width: 992px) {
+      transform: scale(0.7);
+    }
+    @media (max-width: 768px) {   
+      top: 72px;
+    }
+    @media (max-width: 500px) {
+      transform: scale(0.6);
+    }
+    @media (max-width: 440px) {
+      transform: scale(0.5);
+    }
+    @media (max-width: 360px) {
+      transform: scale(0.4);
+    }
+    @media (max-width: 300px) {
+      transform: scale(0.2);
+    }
+    @media (max-width: 220px) {
+      transform: scale(0.2);
+    }
 
+    .big-circle {
+      background: url("/img/sections-background/hero.png") no-repeat right top;;
+      right: 0px;
+      top: 0px;
+      width: 581px;
+      height: 683px;
+      position: absolute;
+    }
+    
     .icon-circles {
       background: url("/img/sections-background/icons/group-34.png") no-repeat;
       right: 424px;
@@ -131,9 +168,56 @@
 
   .content-hero {
     text-align: left;
-    padding: 200px 100px;
+    padding: 200px 65px;
+
+    @media (max-width: 500px){
+      margin-top: 370px;
+    }
+    @media (max-width: 992px){
+      text-align: center;
+      margin-top: 450px;
+
+      div {
+        max-width: 100%;
+      }
+      .title {
+        word-spacing: normal;
+        font-size: 38px;
+      }
+      .date {
+        font-size: 30px;
+        margin-top: 10px;
+      }
+    }
+    
+    @media (max-width: 1300px) {
+
+      .title {
+        font-size: 43px;
+      }
+
+      .date {
+        font-size: 35px;
+      }
+
+      .place {
+        font-size: 22px;
+      }
+
+      .buy-button {
+        font-size: 18px;
+      }
+    }
+    
+    @media (min-width: 993px) and (max-width: 1300px) {
+      div {
+        max-width: calc(100% - 600px);
+      }
+   
+    }
     
     .title {
+      word-spacing: 9999999px;
       font-family: "Montserrat Bold";
       font-size: 63px;
       font-weight: bold;
@@ -153,7 +237,6 @@
       line-height: 1.82;
       font-family: LatoWeb;
       font-size: 22px;
-
     }
 
     .buy-button {

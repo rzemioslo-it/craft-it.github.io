@@ -42,8 +42,9 @@ navigationLinks:
 #- {permalink: "/speakers/", text: "Prelegenci"}
 #- {permalink: "/team/", text: "Zespół"}
 #- {permalink: "/logistics/", text: "Logistyka"}
-- {link: "http://2018.rzemioslo.it", text: "2018"}
-- {link: "http://2017.rzemioslo.it", text: "2017"}
+- {link: "https://2019.rzemioslo.it", text: "2019"}
+- {link: "https://2018.rzemioslo.it", text: "2018"}
+- {link: "https://2017.rzemioslo.it", text: "2017"}
 navigationButtons:
  - {permalink: "/#tickets", text: "Kup bilet"}
 bottomNavigationLinks:
