@@ -90,7 +90,9 @@ time {
     display: block;
 }
 .st-content, .st-container, .st-pusher {
-    height: 100%;
+    @media (min-width: 993px) {
+        height: 100%;
+    }
 }
 .st-content, .st-container, .st-content-inner {
     position: relative;
