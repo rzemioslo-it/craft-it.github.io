@@ -123,7 +123,7 @@ nav {
             
             letter-spacing: normal;
 
-            @media (min-width: 767px)  and (min-width: 992px){
+            @media (min-width: 767px)  and (max-width: 992px){
 
                 margin: 10px 10px 10px 0px;
                 
