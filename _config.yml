@@ -8,7 +8,7 @@ markdown: kramdown
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hackathon.html', '_posts', 'cod.md']
 
 # Site Settings
-title: "RZEmiosło.IT | Konferencja programistyczna w Rzeszowie"
+title: "Craft-IT | Konferencja programistyczna w Rzeszowie"
 email: ""
 description: "Pierwsza konferencja programistyczna w Rzeszowie poświęcona tematyce Software Craftsmanship - dobrym praktykom i metodykom, nie związanymi ściśle z konkretnymi technologiami."
 baseurl: ""
@@ -27,7 +27,7 @@ organizerLogo: ""
 organizerLink: ""
 
 # Head
-metaKeywords: "RZEmiosloIT, Rzeszów, konferencja, programowanie, software, craftsmanship, IT"
+metaKeywords: "Craft-IT, RZEmiosloIT, Rzeszów, konferencja, programowanie, software, craftsmanship, IT"
 twitterAccount: "@RZEmiosloIT"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-fb-2019.jpg"
