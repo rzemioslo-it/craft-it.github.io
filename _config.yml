@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hac
 # Site Settings
 title: "Craft-IT | Konferencja programistyczna w Rzeszowie"
 email: ""
-description: "Pierwsza konferencja programistyczna w Rzeszowie poświęcona tematyce Software Craftsmanship - dobrym praktykom i metodykom, nie związanymi ściśle z konkretnymi technologiami."
+description: "Konferencja programistyczna w Rzeszowie poświęcona tematyce Software Craftsmanship - dobrym praktykom i metodykom, nie związanymi ściśle z konkretnymi technologiami."
 baseurl: ""
 url: "http://craft-it.pl"
 permalink: "/blog/:title"
@@ -29,8 +29,8 @@ organizerLink: ""
 # Head
 metaKeywords: "Craft-IT, RZEmiosloIT, Rzeszów, konferencja, programowanie, software, craftsmanship, IT"
 twitterAccount: "@RZEmiosloIT"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-fb-2019.jpg"
+socialImageSrcTwitter: "/img/seo/craft-it-2022-sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/craft-it-2022-sharing-fb.png"
 
 # Documents
 #c4pUrl: ""
