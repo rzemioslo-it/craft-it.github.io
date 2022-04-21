@@ -23,6 +23,7 @@ $small-rockstar-image-size: 120px;
     padding-bottom: 13px;
 }
 .rockstar-speaker-img {
+    cursor: pointer;
     width: $rockstar-image-size;
     height: $rockstar-image-size;
     margin: 0 auto;

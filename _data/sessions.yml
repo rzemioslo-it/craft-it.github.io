@@ -1,55 +1,47 @@
-#-
-#  id: 201
-#  title: "JVM: przez dziurkę od klucza"
-#  place: ""
-#  subtype: workshop
-#  description: >
-#    <p>JVM to złożona maszyna, która napędza nasze systemy. Codziennie w pocie czoła
-#    przerzuca terabajty obiektów pomiędzy kolejnymi generacjami w GC, generuje
-#    strumienie optymalnego kodu skompilowanego przez jeden z kompilatorów JIT,
-#    w międzyczasie próbując dogadać się z systemem operacyjnym.
-#    Jednak nie zawsze w naszej maszynowni wszystko przebiega zgodnie z planem.
-#    Gdzie szukać informacji? Jak odczytywać i interpretować wartości metryk?
-#    Kiedy winny jest JVM, nasza aplikacja, a w jakim przypadku system operacyjny?</p>
-#
-#    <h5>Za uchyloną kotarą</h5>
-#
-#    <p>Podczas tej sesji postaram się pokazać dostępne narzędzia,
-#    magiczne przełączniki i dostępne rozwiązania potrzebne w pracy
-#    każdego "kryminologa" JVM.
-#    Sesja będzie przeznaczona dla osób, które zaczynają przygodę z optymalizacją JVM.
-#    Porozmawiamy o zapisywaniu zdarzeń z JVM, narzędziach ukrytych w JDK,w tym także
-#    Java Mission Control i Flight Recorder i zobaczymy jak Java płonie :).
-#    Nie zapomnimy też o narzędziach dostępnych w systemie operacyjnym Linux.</p>
-#
-#    <h5>Przyłapani w akcie</h5>
-#
-#    <p>Uzbrojeni w narzędzia i wiedzę, podczas tej sesji spróbujemy przekuć teorię
-#    w praktykę.
-#    Na naszej drodze staną zasobożerne procesy, wściekle pożerające CPU, RAM
-#    i IOOPS naszego systemu.
-#    Spróbujemy je odnaleźć i, korzystając z narzędzi, zidentyfikować źródło problemu.
-#    Na dostarczonych serwerach uruchomione będą procesy JVM, a my bez dostępu do kodu
-#    źródłowego oddamy się zawiłościom inwestygacji i wkroczymy w świat
-#    kryminalistyki JVM.</p>
-#
-#    <h5>Błogosławieni, którzy ujrzeli maszynę</h5>
-#
-#    <p>Ten rozdział poświęcimy JMH (Java Microbenchmark Harness), narzędziu które
-#    pozowoli nam pisać testy wydajnościowe naszego kodu.
-#    Poznamy API JMH, bogaty zestaw opcji oraz jak konstruować testy wydajnościowe
-#    by nie ulec iluzji, iż wszystko działa poprawnie.
-#    To wszystko na kilku przykładach, które między innymi porównają wydajność
-#    struktur danych dostępnych w Java SDK.</p>
-#
-#    <h5>Epilog</h5>
-#
-#    <p>Zapraszam Was na podróż w głąb maszyny. Zabierzcie ze sobą terminal, Java 11,
-#    ulubione IDE i dziecięcą ciekawość.
-#    Warsztaty zakładają, że programujecie w Java na przyzwoitym poziomie,
-#    a JVM jest Wam obcy, jednak macie w sobie głód zrozumienia,
-#    jak to wszystko działa.</p>
-#  speakers: [8]
+-
+  id: 201
+  title: "Event-Driven – to jednak nie takie proste"
+  place: ""
+  subtype: presentation
+  description: >
+    Po wielu latach ciężkiej pracy, nasz Gwidon zostaje Cloud-Native-Event-Driven-Data-Intensive-Hyper-Scale 
+    Architektem w jednej z renomowanych firm.
+    Jeśli istnieje jedna rzecz, której jest on pewien, będąc na tym stanowisku, to jest to fakt, 
+    że komunikacja oparta o zdarzenia (eventy), zmniejsza zależności (coupling)
+    pomiędzy komponentami (mikro-serwisami) i daje im autonomiczność (cokolwiek to znaczy). 
+    Nie wie jeszcze, że najbliższe wydarzenia pokażą mu, w jak wielkim tkwił błędzie …
+  speakers: [1]
+-
+  id: 202
+  title: "Bounded Context - jak modularyzować systemy w kilku krokach"
+  place: ""
+  subtype: presentation
+  description: >
+    <p>Ilu z was było w systemach, gdzie wprowadzenie najmniejszej funkcjonalności wiązało się ze zmiami przez cały system?
+    Gdy dodanie dodatkowego pola na fakturze wymagało zmiany w zamówieniach i sklepie? 
+    A przecież to powinny być całkowicie odseparowane od siebie obszary. 
+    Powinny - gdyby budowano system mając z tyłu głowy technikę Bounded Context.</p>
+     <p>W prezentacji chciałbym pokazać czym jest technika Bounded Context i jak pozwala nam 
+    tworzyć zmodularyzowane systemy.
+    Dzięki niej zamkniemy funkcje biznesowe wewnątrz autonomicznych obszarów, ochronimy się przed zmianami z zewnątrz, 
+    udostępnimy tylko kluczowe informacje. Dzięki temu nasz system będzie rozwijalny, a nowe funkcje 
+    wdrażalne szybciej i z mniejszą ilością problemów</p>
+  speakers: [2]
+-
+  id: 203
+  title: "Blaski i Cienie Architektur Opartych na Zdarzeniach."
+  place: ""
+  subtype: presentation
+  description: >
+    Ostatnio Architektury Oparte na Zdarzeniach stały się jednym z najpopularniejszych "buzz-wordów". 
+    Pokazywane są jako modelowa droga nowoczesnych, skalowalnych systemów. 
+    W trakcie prezentacji zagram adwokata diabła i pokażę, co może się nie udać. 
+    Pokażę, że to doświadczenie może być bolesne. Opowiem, jak można skończyć z rozproszonym monolitem 
+    i konkretnymi wskazówkami, jak temu zapobiec. 
+    Wyjaśnię wszystkie te enigmatyczne terminy, takie jak idempotentność, eventual consistency, 
+    at-least once delivery itp. Obalę kilka mitów i pokażę fakty bez ewangelizacji. 
+    Całość doprawiona będzie dawką zdrowego pragmatyzmu.
+  speakers: [3]
 #
 #-
 #  id: 202
