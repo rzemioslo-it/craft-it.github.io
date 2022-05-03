@@ -2,10 +2,14 @@
 #  group: "Główny Partner Konferencji"
 #  elements:
 #    - {name: "Fabrity", description: "Fabrity", link: "https://www.fabrity.pl/", imageUrl: "fabrity-v2.png", class: "special"}
-#-
-#  group: "Partnerzy złoci"
-#  elements:
-##    - {name: "Nexocode", description: "Nexocode", link: "https://www.nexocode.com/", imageUrl: "nexocode.png", class: "special"}    
+-
+  group: "Partnerzy złoci"
+  elements:
+    - {name: "SII", description: "Fabrity", link: "https://sii.pl/", imageUrl: "sii.svg", class: "special-2"}
+    - {name: "GumGum", description: "GumGum", link: "https://www.gumgum.com/", imageUrl: "gumgum.png", class: "special"}
+    - {name: "PGS Software S.A.", description: "PGS Software S.A.", link: "https://www.pgs-soft.com/", imageUrl: "pgs-soft.svg", class: "special-2"}
+    - {name: "New Orbit", description: "New Orbit", link: "https://neworbit.pl/", imageUrl: "new-orbit.svg", class: "special"}
+    - {name: "Fabrity", description: "Fabrity", link: "https://www.fabrity.pl/", imageUrl: "fabrity-v2.png", class: "special"}
 #-
 #  group: "Partnerzy srebrni"
 #  elements:
