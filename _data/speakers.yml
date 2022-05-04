@@ -85,11 +85,12 @@
   surname: "Kokosa"
   title: ""
   bio: >
-    Autor książki Pro .NET Memory Management. Współzałożyciel inicjatywy Dotnetos propagującej wiedzę 
-    nt. .NET w różnej formie, m.in. konferencji i kursów. 
-    Niezależny konsultant, blogger, prelegent i ćwierkacz (@konradkokosa). 
-    Swoją pasją dzieli się również jako trener w obszarze .NET, m.in. wydajności i diagnostyki aplikacji. 
-    Microsoft MVP w kategorii Visual Studio and Development Tools.
+    Konrad Kokosa jest autorem książki Pro .NET Memory Management, 
+    Microsoft MVP w kategorii Developer Technologies, architektem, fanem wydajności i Mechanical Sympathy, 
+    a nawet Software Craftsmanship! Związany z wytwarzaniem oprogramowania w .NET od kilkunastu lat, 
+    rozwiązuje problemy wydajnościowe, zagadnienia diagnostyczne 
+    i także wspiera zespoły w wytwarzaniu rozwiązań opartych o dobrą architekturę. 
+    Jego ostatnimi pasjami staje się również gamedev oraz Web3.
   thumbnailUrl: konrad-kokosa.jpg
   rockstar: true
   social:

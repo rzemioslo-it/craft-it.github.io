@@ -1,5 +1,4 @@
--
-  id: 201
+- id: 201
   title: "Event-Driven – to jednak nie takie proste"
   place: ""
   subtype: presentation
@@ -10,9 +9,8 @@
     że komunikacja oparta o zdarzenia (eventy), zmniejsza zależności (coupling)
     pomiędzy komponentami (mikro-serwisami) i daje im autonomiczność (cokolwiek to znaczy). 
     Nie wie jeszcze, że najbliższe wydarzenia pokażą mu, w jak wielkim tkwił błędzie …
-  speakers: [1]
--
-  id: 202
+  speakers: [ 1 ]
+- id: 202
   title: "Bounded Context - jak modularyzować systemy w kilku krokach"
   place: ""
   subtype: presentation
@@ -26,9 +24,8 @@
     Dzięki niej zamkniemy funkcje biznesowe wewnątrz autonomicznych obszarów, ochronimy się przed zmianami z zewnątrz, 
     udostępnimy tylko kluczowe informacje. Dzięki temu nasz system będzie rozwijalny, a nowe funkcje 
     wdrażalne szybciej i z mniejszą ilością problemów</p>
-  speakers: [2]
--
-  id: 203
+  speakers: [ 2 ]
+- id: 203
   title: "Blaski i Cienie Architektur Opartych na Zdarzeniach."
   place: ""
   subtype: presentation
@@ -41,7 +38,27 @@
     Wyjaśnię wszystkie te enigmatyczne terminy, takie jak idempotentność, eventual consistency, 
     at-least once delivery itp. Obalę kilka mitów i pokażę fakty bez ewangelizacji. 
     Całość doprawiona będzie dawką zdrowego pragmatyzmu.
-  speakers: [3]
+  speakers: [ 3 ]
+
+- id: 204
+  title: "Divide & Conquer - Context Mapping"
+  place: ""
+  subtype: presentation
+  description: >
+    TBD
+  speakers: [ 4 ]
+
+- id: 205
+  title: "Web3 - co i po co? hit czy kit, i jak w to wejść jako programista"
+  place: ""
+  subtype: presentation
+  description: >
+    Jesteś znudzony programowaniem aplikacji biznesowych? Chcesz poczuć dreszczyk emocji? 
+    Napisz, że jesteś fanem NFT albo Web 3.0 i przygotuj się na hejt. Albo napisz, że uważasz to za scam. 
+    Ale odkładając żarty i skrajne opinie na bok - jak właściwie jest? Czy może jesteśmy świadkami większej rewolucji? 
+    Czy jest się czemu przyglądać, by nie przegapić "okazji"? Hit czy kit? Jak to wszystko działa? 
+    I jak to wszystko możemy skonsumować jako programiści?
+  speakers: [ 5 ]
 #
 #-
 #  id: 202
