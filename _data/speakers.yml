@@ -99,21 +99,85 @@
     - {name: "twitter", link: "https://twitter.com/konradkokosa"}
 -
   id: 6
-  name: "Mystery"
-  surname: "Speaker"
-  thumbnailUrl: placeholder.png
+  name: "Maciej"
+  surname: "Kołodziej"
+  thumbnailUrl: maciej-kolodziej.jpg
+  title: ""
+  bio: >
+    Jestem miłośnikiem projektów R&D i programowania, pracowałem z wizją komputerowa, SI, Pythonem i C++. 
+    Brałem udział w pracach nad robotem Legendary Rover na międzynarodowe zawody URC jako programista. 
+    Aktualnie skupiam się na technologiach z rodziny MS z naciskiem na .NET i rozwiązania chmury Azure 
+    pracując nad innowacyjnych inteligentnym „timesheetem”.
 -
   id: 7
-  name: "Mystery"
-  surname: "Speaker"
-  thumbnailUrl: placeholder.png
+  name: "Dawid"
+  surname: "Dragan"
+  thumbnailUrl: dawid-dragan.jpg
+  title: ""
+  bio: >
+    Dawid is a Full Stack Software Developer working for NewOrbit, also as a member of the Security Skill Center. 
+    He is interested in software architecture, and security - especially OAuth and OpenID. 
+    He likes challenges and sharing knowledge with other people.
 -
   id: 8
+  name: "Krzysztof"
+  surname: "Polewiak"
+  thumbnailUrl: krzysztof-polewiak.jpg  
+  title: "Architekt rozwiązań w Sii Polska"
+  bio: >
+    Architekt rozwiązań w Sii Polska <br /><br />
+
+    Konsultant, architekt i trener rozwiązań chmury Microsoft Azure. <br /><br />
+
+    Realizował wdrożenia informatyczne i wspierał rozwiązania dla wielu firm w Polsce i za granicą. 
+    Pracował m.in. dla Banku Millennium współtworząc nowoczesne rozwiązania oparte o chmurę Azure. 
+    Przez 5 lat pracował jako konsultant i architekt w Microsoft, 
+    gdzie wspierał partnerów w zdobywaniu wiedzy w zakresie chmury. 
+    Obecnie pracuje w Sii jako Architekt rozwiązań chmury. <br /><br />
+
+    Prelegent na wielu konferencjach branżowych oraz trener dla klientów jak i partnerów. 
+    Prowadził szkolenia i spotkania na żywo jak też nagrywał szkolenia on-line. 
+    Swoją wiedzą i doświadczeniem dzieli się również poprzez social media, blog czy platformę GitHub. <br /><br />
+
+    Pasjonat chmury, automatyzacji, IoT, AI oraz rozwiązań open-source, 
+    posiadacz m.in. certyfikatów Azure Solution Architect Expert oraz Azure Administrator Associate. 
+-
+  id: 9
+  name: "Artur"
+  surname: "Molendowski"
+  thumbnailUrl: artur-molendowski.jpg
+  title: "Microsoft Certified Trainer (MCT)."
+  bio: >
+    W Sii Polska pracuje na stanowisku devops/cloud engineer. Na co dzień wykorzystuje usługi Microsoft Azure.
+    Wprowadza w świat chmury również studentów w Wyższej Szkole Bankowej w Warszawie. 
+    Zanim wszedł do chmury skupiał się na rozwiązaniach wirtualizacji Vmware i serwerach on-prem (Windows server, AD). 
+    Buduje i programuje roboty z klocków Lego. <br /><br />
+
+    Prywatnie uwielbia aktywność fizyczną: biega, jeździ rowerem i trenuje na siłowni. 
+    W wolnych chwilach prowadzi podcast „Chwila dla Admina” (chwiladlaadmina.pl) 
+    skupiający się szeroko na obszarach IT i nowych technologii. 
+#-
+#  id: 10
+#  name: "Paweł"
+#  surname: "Grochowicz"
+#  thumbnailUrl: placeholder.png
+#-
+#  id: 11
+#  name: "Rafał"
+#  surname: "Cisło"
+#  thumbnailUrl: placeholder.png
+-
+  id: 12
   name: "Mystery"
   surname: "Speaker"
   thumbnailUrl: placeholder.png
 -
-  id: 9
+  id: 13
+  name: "Mystery"
+  surname: "Speaker"
+  thumbnailUrl: placeholder.png
+-
+  id: 14
   name: "Mystery"
   surname: "Speaker"
   thumbnailUrl: placeholder.png

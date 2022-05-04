@@ -59,6 +59,85 @@
     Czy jest się czemu przyglądać, by nie przegapić "okazji"? Hit czy kit? Jak to wszystko działa? 
     I jak to wszystko możemy skonsumować jako programiści?
   speakers: [ 5 ]
+
+- id: 206
+  title: "TITLE"
+  place: ""
+  subtype: presentation
+  description: >
+    Kolejki są prostym sposobem na to, by twoja aplikacja zyskała na skalowalności i odporności na awarie. 
+    W przypadku coraz popularniejszej Event-driven architecture, są one kluczowym komponentem, 
+    odpowiedzialnym za komunikację, można je również spotkać w postaci przeróżnych natywnych implementacji 
+    na większości chmur. W mojej prezentacji skupię się na tym, 
+    jak zacząć ich używać i czerpać płynące z nich korzyści już dziś! Nie musisz zmieniać całej architektury, 
+    aby usprawnić kluczowe bootlenecki w twojej aplikacji. Czasem wystarczy zwykła... kolejka. 
+  speakers: [ 6 ]
+
+- id: 207
+  title: "Czy jesteś pewny, że twoje tokeny oAuth2 są bezpieczne?"
+  place: ""
+  subtype: presentation
+  description: >
+    Using tokens for authorization in your front-end app is easy and comes with a lot of benefits. 
+    But, it is easy to introduce security holes that make your application vulnerable to 
+    token-stealing attacks - not just from your own code but also from other packages you depend on. <br /><br />
+
+    When you use oAuth2 for authorization in your javascript application, 
+    it is common to store the tokens in the session or local storage of your browser. 
+    The problem is that any cross-site scripting vulnerability in your application - including from 3rd party packages 
+    - may make it possible for attackers to steal the access and refresh tokens and impersonate your users.
+    In this talk, we will examine various mitigation patterns that can help you to hide or revoke tokens, 
+    including Refresh Token Rotation and more. 
+    Finally, we will compare to the "Backend For Frontend" (BFF) pattern, 
+    to help you understand whether you should do that instead of your current implementation.
+  speakers: [ 7 ]
+
+- id: 208
+  title: "Tworzenie inteligentnych aplikacji"
+  place: ""
+  subtype: presentation
+  description: >
+    Podczas wykładu zaprezentujemy popularne rozwiązania API, które można w prosty sposób dodać do naszej aplikacji, 
+    wzbogacając ją o dodatkowe inteligentne funkcjonalności. <br /><br />
+    Nie zabraknie kilku demonstracji rozwiązań jak i historii z użycia. <br /><br />
+    Rozwiązania, które będziemy omawiać nie wymagają wiedzy w zakresie sztucznej inteligencji 
+    – nie musisz być ekspertem od matematyki czy statystyki, by Twoja aplikacja zyskała dodatkowe umiejętności 😊
+  speakers: [ 8 ]
+
+- id: 209
+  title: "Usługa Azure Functions jako punkt końcowy dla elementów Runbook"
+  place: ""
+  subtype: presentation
+  description: >
+    W jaki sposób możemy tworzyć niezawodny punkt końcowy? <br /><br />
+    Zabezpieczając go za pomocą usługi Azure AD, a także zapewnić swoim zespołom, 
+    klientom lub aplikacjom bezpieczny dostęp do interfejsu API, który będzie koordynował proces udostępniania zasobów?
+    <br /><br />
+    Weźmy prosty przypadek użycia, aby zilustrować możliwości korzystania 
+    z usługi Azure Function w połączeniu z usługą Azure Automation. To, co chcemy osiągnąć, to:  <br />
+    <ul>
+      <li>Uwierzytelnianie przy użyciu usługi Azure AD;</li>
+      <li>Zapewnienie jednego niezawodnego punktu końcowego, który mogę udostępniać innym zespołom, klientom lub aplikacjom;</li>
+      <li>Mieć wiele elementów Runbook; </li>
+      <li>Wdrożyć aplikację sieci Web w planie usług Standard lub Performance App.</li>
+    <ul>
+  speakers: [ 9 ]
+
+- id: 210
+  title: "TITLE"
+  place: ""
+  subtype: presentation
+  description: >
+    TBD
+  speakers: [ ]
+
+- id: 211
+  title: "TITLE"
+  place: ""
+  subtype: presentation
+  description: >
+    TBD
+  speakers: [ ]
 #
 #-
 #  id: 202

@@ -88,6 +88,8 @@ layout: compress
                 ];
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()}).sort(function(item){
                     return item.rockstar === "true" ? 1 : -1;
+                }).sort(function(item){
+                    return item.name !== "Mystery Speaker" ? 1 : -1;
                 });
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
