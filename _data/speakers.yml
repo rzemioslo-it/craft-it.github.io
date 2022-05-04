@@ -155,7 +155,11 @@
 
     Prywatnie uwielbia aktywność fizyczną: biega, jeździ rowerem i trenuje na siłowni. 
     W wolnych chwilach prowadzi podcast „Chwila dla Admina” (chwiladlaadmina.pl) 
-    skupiający się szeroko na obszarach IT i nowych technologii. 
+    skupiający się szeroko na obszarach IT i nowych technologii.
+  social:
+    - {name: "site", link: "http://chwiladlaadmina.pl/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/artur-molendowski/"}
+    - {name: "twitter", link: "https://twitter.com/AMolendowski"}
 #-
 #  id: 10
 #  name: "Paweł"
