@@ -123,21 +123,29 @@
     </ul>
   speakers: [ 9 ]
 
-- id: 210
-  title: "TITLE"
+- id: 212
+  title: "TBD"
   place: ""
   subtype: presentation
   description: >
     TBD
-  speakers: [ ]
+  speakers: [ 12 ]
 
-- id: 211
-  title: "TITLE"
+- id: 213
+  title: "TBD"
   place: ""
   subtype: presentation
   description: >
     TBD
-  speakers: [ ]
+  speakers: [ 13 ]
+
+- id: 214
+  title: "TBD"
+  place: ""
+  subtype: presentation
+  description: >
+    TBD
+  speakers: [ 14 ]
 #
 #-
 #  id: 202
@@ -145,49 +153,6 @@
 #  place: ""
 #  subtype: workshop
 #  description: >
-#    <p>Szkolenie z EventSourcingu w .NET to nie czysta teoria, ale także <strong>dużo praktyki</strong>. W każdym module wykonamy kilka ćwiczeń ewoluując projekt od fazy wymagań i modelowania, po ostateczny jego kształt. Podczas rozwiązywania zadań ugruntujecie swoją wiedzę i zderzycie ją z realnymi wymaganiami projektowymi.</p>
-#
-#    <strong>Plan szkolenia</strong>
-#    <ol>
-#    <li>Podstawy Domain Driven Design
-#    <ol>
-#    <li>Wzorce strategiczne</li>
-#    <li>Wzorce taktyczne</li>
-#    </ol>
-#    </li>
-#    <li>Event Sourcing
-#    <ol>
-#    <li>Zdarzenia i agregaty</li>
-#    <li>Event Sourcing vs Domain Events</li>
-#    <li>Tworzenia agregatów w oparciu o zdarzenia</li>
-#    <li>Testowanie agregatów</li>
-#    </ol>
-#    </li>
-#    <li>Zorientowanie na zdarzenia
-#    <ol>
-#    <li>Widoki</li>
-#    <li>Procesy</li>
-#    <li>Testowanie widoków i procesów</li>
-#    </ol>
-#    </li>
-#    <li>Struktura zdarzeń
-#    <ol>
-#    <li>Schemat i jego brak</li>
-#    <li>Serializacja</li>
-#    <li>Wersjonowanie</li>
-#    <li>Metadane</li>
-#    </ol>
-#    </li>
-#    <li>Scenariusze zaawansowane
-#    <ol>
-#    <li>Podejście ewolucyjne</li>
-#    <li>Wdrożenia</li>
-#    <li>Błędy i aktualizacje danych</li>
-#    <li>Kontrakty</li>
-#    <li>Kiedy nie stosować?</li>
-#    </ol>
-#    </li>
-#    </ol>
 #  speakers: [1]
 #
 #-
@@ -197,43 +162,41 @@
 #  service: true
 #  description: "Rozgrzewkowe spotkanie grupy RG-Dev. W planie dwie prezentacje. Wstęp wolny."
 #
-#-
-#  id: 100
-#  title: "Rejestracja uczestników"
-#  place: "Hall"
-#  service: true
-#  description: ""
-#-
-#  id: 101
-#  title: "Rozpoczęcie konferencji"
-#  place: "Sala"
-#  service: true
-#  description: ""
-#-
-#  id: 102
-#  title: "Przerwa obiadowa"
-#  place: "Hall"
-#  service: true
-#  description: ""
-#-
-#  id: 103
-#  title: "Zakończenie konferencji"
-#  place: "Sala"
-#  service: true
-#  description: ""
-#-
-#  id: 104
-#  title: "Przerwa kawowa"
-#  place: "Hall"
-#  service: true
-#  description: ""
-#-
-#  id: 105
-#  title: "After Party"
-#  place: "Stary Browar Rzeszowski"
-#  service: true
-#  description: <a href='http://www.browar-rzeszow.pl/'>Stary Browar Rzeszowski</a>, Rynek, tuż obok Bristolu.
-#
+- id: 100
+  title: "Rejestracja uczestników"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 101
+  title: "Rozpoczęcie konferencji"
+  place: "Sala"
+  service: true
+  description: ""
+-
+  id: 102
+  title: "Przerwa obiadowa"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 103
+  title: "Zakończenie konferencji"
+  place: "Sala"
+  service: true
+  description: ""
+-
+  id: 104
+  title: "Przerwa kawowa"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 105
+  title: "After Party"
+  place: "Stary Browar Rzeszowski"
+  service: true
+  description: <a href='http://www.browar-rzeszow.pl/'>Stary Browar Rzeszowski</a>, Rynek, tuż obok Bristolu.
 #-
 #  id: 001
 #  title: "Architekt i jego skrzynka z narzędziami"
