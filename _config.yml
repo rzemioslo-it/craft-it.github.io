@@ -136,24 +136,41 @@ ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawo
 
 # Footer
 socialLinks:
-#- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=RZEmiosloIT", icon: "twitter"}
+ - {link: "https://twitter.com/craftit_pl", icon: "twitter"}
  - {link: "https://facebook.com/craftitpl/", icon: "facebook"}
+ - {link: "https://www.youtube.com/channel/UCKuLHBJ7bMib3JcKN7eP5-Q", icon: "youtube"}
 # - {permalink: "/feed.xml", icon: "rss"}
-footerBlocks:
+footerInfo:
  -
-  title: "Linki"
+  title: Stowarzyszenie CRAFT.IT
+  data:
+   - {text: ""}
+footerBlocks:
+ - title: "Menu"
+   links:
+    - { permalink: "/speakers/", text: "Prelegenci" }
+    - { permalink: "/schedule/", text: "Agenda" }
+    - { permalink: "/team/", text: "Zespół" }
+    - { permalink: "/files/regulamin.pdf", text: "Regulamin" }
+ - title: "Archiwum"
+   links:
+    - { link: "https://2019.rzemioslo.it", text: "2019" }
+    - { link: "https://2018.rzemioslo.it", text: "2018" }
+    - { link: "https://2017.rzemioslo.it", text: "2017" }
+    - { link: "https://www.facebook.com/media/set/?set=a.2154230958170014&type=3", text: "Galeria zdjęć" }
+    - { link: "https://www.youtube.com/watch?v=-8FR3slXJ8Q&ab_channel=RZEmios%C5%82o.IT", text: "Relacja video" }
+ -
+  title: "Social"
   links:
+   - {link: "https://twitter.com/craftit_pl", icon: "twitter"}
+   - {link: "https://facebook.com/craftitpl/", icon: "facebook"}
    - {link: "https://www.meetup.com/rg-dev/", text: "rg-dev"}
    - {link: "http://rrug.pl/", text: "rrug"}
 #-
 # title: "Kontakt"
 # links:
 #  - {link: "mailto:kontakt@rzemioslo.it", text: "kontakt@rzemioslo.it"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/files/Regulamin.pdf", text: "Regulamin"}
+
 #  - {permalink: "", text: "FAQ"}
 
 # Blog

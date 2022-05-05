@@ -1,22 +1,38 @@
 <!-- Begin Footer -->
 <footer id="footer" class="footer">
+
 	<div class="row">
-		<div class="pull-left col-md-6 col-xs-6">
-		</div>
-		<div class="logo logo-footer logo-gray pull-right"></div>
-	</div>
-	<div class="row">
-		{% for block in site.footerBlocks %}
-        {% assign colWidth = 12 | divided_by: forloop.length %}
-		<div class="col-md-{{ colWidth }} col-xs-6">
-			<h5>{{ block.title }}</h5>
-			<ul>
-				{% for linkElement in block.links %}
-				<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
+		<div class="col-md-4">
+			<div class="row">
+				<div class="pull-left col-md-6 col-xs-6">
+				</div>
+				<div class="logo logo-footer logo-gray"></div>
+			</div>
+			<br />
+			{% for block in site.footerInfo %}
+				<h5>{{ block.title }}</h5>
+				{% for element in block.data %}
+					<ul>
+						<li>{{ element.text }}</li>
+					</ul>
 				{% endfor %}
-			</ul>
+			{% endfor %}
 		</div>
-		{% endfor %}
+		<div class="col-md-8">
+			<div class="row">
+				{% for block in site.footerBlocks %}
+				{% assign colWidth = 12 | divided_by: forloop.length %}
+				<div class="col-md-{{ colWidth }} col-xs-6">
+					<h4>{{ block.title }}</h4>
+					<ul>
+						{% for linkElement in block.links %}
+						<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
+						{% endfor %}
+					</ul>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-6 col-xs-12">
