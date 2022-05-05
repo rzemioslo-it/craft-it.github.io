@@ -82,10 +82,12 @@ layout: compress
                             rockstar: "{{ speaker.rockstar }}",
                             name: "{{ speaker.name }} {{ speaker.surname }}",
                             company: "{{ speaker.company }}", 
-                            image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"
+                            image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}",
+                            session: "{% for session in site.data.sessions %} {% for session_speaker in session.speakers %} {% if session_speaker == speaker.id %} {{ session.title }} {% endif %} {% endfor %} {% endfor %}"
                         }{% if forloop.index != forloop.length %},{% endif %}
                     {% endfor %}
                 ];
+                
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()}).sort(function(item){
                     return item.rockstar === "true" ? 1 : -1;
                 }).sort(function(item){
@@ -102,13 +104,17 @@ layout: compress
                         }
                         $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'">' +
                             '<div class="rockstar-speaker">' +
-                                '<div class="flow-img img-circle rockstar-speaker-img lazy"  ' +
+                                '<div class="flow-img rockstar-speaker-img lazy"  ' +
                                     'data-toggle="modal" ' +
                                     'data-target="#speakerDetail-' + rockstarSpeakers[i].id + '" ' +
                                     'style="background-image: url(' + rockstarSpeakers[i].image + ')">' +
                                 '</div>' +
                                 '<div class="name">' + rockstarSpeakers[i].name + '</div>' +
-                                '<div class="sub">' + rockstarSpeakers[i].company + '</div>' +
+                                '<div class="session"><div class="content">' + rockstarSpeakers[i].session + '</div></div>' +
+                                '<div class="more" ' +
+                                    'data-toggle="modal" ' +
+                                    'data-target="#speakerDetail-' + rockstarSpeakers[i].id + '" ' +
+                                '>dowiedz się więcej</div>' +
                             '</div></div>' + clearfix);
                         animationDelay -= 500;
                     }

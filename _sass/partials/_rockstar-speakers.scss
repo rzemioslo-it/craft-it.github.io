@@ -1,14 +1,71 @@
-$rockstar-image-size: 140px;
-$small-rockstar-image-size: 120px;
+$rockstar-image-size: 239px;
+$small-rockstar-image-size: 200px;
 
 .rockstar-speakers {
+    background-color: #fafafa;
+    
+    .rockstar-speaker-title {
+        font-family: 'Montserrat Bold';
+        font-size: 41px;
+        font-weight: bold;
+        text-align: center;
+        color: #373737;
+    }
+    
+    .rockstar-speaker {
+        width: 331px;
+        height: 522px;
+        padding: 0 0 14px;
+        border-radius: 11px;
+        background-color: #fff;
+        margin: auto auto 55px;
+    }
+    
     .name {
-        font-size: 26px;
-        line-height: 1.1;
-        margin: 10px 0 2px;
+        font-family: 'Montserrat Bold';
+        font-size: 22px;
+        font-weight: bold;
+        line-height: 1.5;
+        text-align: center;
+        color: #373737;
+        margin-top: 23px;
+        word-spacing: 9999999px;
         @media (max-width: 767px) {
             font-size: 20px;
         }
+    }
+    
+    .session {
+        text-align: center;
+        margin: 10px 20px;
+        .content {
+            font-family: 'LatoWeb';
+            font-size: 21px;
+            line-height: 1.36;
+            color: #5b5b5b;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-height: 142px;
+            text-decoration: underline;
+        }
+    }
+
+    .more {
+        cursor: pointer;
+        font-family: "LatoWeb";
+        font-size: 16px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.88;
+        letter-spacing: normal;
+        text-align: center;
+        color: #046ab4;
+        position: fixed;
+        left: 50%;
+        bottom: 60px;
+        transform: translate(-50%, -50%);
+        margin: 0 auto;
     }
     .sub {
         font-size: $base-font-size * 1.4;
@@ -24,11 +81,10 @@ $small-rockstar-image-size: 120px;
 }
 .rockstar-speaker-img {
     cursor: pointer;
-    width: $rockstar-image-size;
     height: $rockstar-image-size;
     margin: 0 auto;
+    border-radius: 11px;
     @media (max-width: 767px) {
-        width: $small-rockstar-image-size;
         height: $small-rockstar-image-size;
     }
 }

@@ -154,28 +154,28 @@
   speakers: [ 12 ]
 
 - id: 212
-  title: "TBD"
+  title: ""
   place: ""
   subtype: presentation
   description: >
     TBD
-  speakers: [ 13 ]
+  speakers: [ ]
 
 - id: 213
-  title: "TBD"
+  title: ""
   place: ""
   subtype: presentation
   description: >
     TBD
-  speakers: [ 13 ]
+  speakers: [ ]
 
 - id: 214
-  title: "TBD"
+  title: ""
   place: ""
   subtype: presentation
   description: >
     TBD
-  speakers: [ 13 ]
+  speakers: [ ]
 #
 #-
 #  id: 202
