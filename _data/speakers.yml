@@ -2,7 +2,7 @@
   id: 1
   name: "Łukasz"
   surname: "Szydło"
-  title: ""
+  title: "Software Consultant/Architect/Trainer"
   bio: >
     <p>Programista pasjonat, fan “Software Craftsmanship” i zwinnego podejścia do wytwarzania oprogramowania.</p>
     <p>Lubi proste rozwiązania skomplikowanych problemów. 
@@ -19,7 +19,7 @@
   id: 2
   name: "Radosław "
   surname: "Maziarka"
-  title: ""
+  title: "Consultant / Trainer"
   bio: >
     Solution Architect i Engineering Manager w obszarze Azure.
     Pracuje przy pełnym zakresie tworzenia produktów cyfrowych - od analizy wymagań, przez architekturę i budowę 
@@ -38,7 +38,7 @@
   id: 3
   name: "Oskar"
   surname: "Dudycz"
-  title: ""
+  title: "DevAdvocate at Event Store / Marten Maintainer"
   bio: >
     Od prawie 14 lat, tworzę systemy informatyczne bliskie biznesowi. 
     Zaczynałem karierę gdy StackOverflow jeszcze nie istniał. Jestem programistą, liderem technicznym, architektem. 
@@ -63,7 +63,9 @@
   id: 4
   name: "Mariusz"
   surname: "Gil"
-  title: ""
+  title: >
+    Software architect, trainer, conference speaker. 
+    DDD practitioner, #EventStorming Evangelist. Podcaster at https://bettersoftwaredesign.pl
   bio: >
     Software architect, trener, ex-CTO, z branżą IT związany od ponad 20 lat. 
     Pasjonuje się projektowaniem i implementacją systemów o złożonych wymaganiach biznesowych, 
@@ -83,7 +85,9 @@
   id: 5
   name: "Konrad"
   surname: "Kokosa"
-  title: ""
+  title: > 
+    Author of http://prodotnetmemory.com, Microsoft .NET MVP, architect, performance fan, 
+    one of @dotnetosorg, author of @outofmemorygame. AFOL.
   bio: >
     Konrad Kokosa jest autorem książki Pro .NET Memory Management, 
     Microsoft MVP w kategorii Developer Technologies, architektem, fanem wydajności i Mechanical Sympathy, 
@@ -102,7 +106,7 @@
   name: "Maciej"
   surname: "Kołodziej"
   thumbnailUrl: maciej-kolodziej.jpg
-  title: ""
+  title: ".NET developer w NewOrbit Poland Sp. z o. o."
   bio: >
     Jestem miłośnikiem projektów R&D i programowania, pracowałem z wizją komputerowa, SI, Pythonem i C++. 
     Brałem udział w pracach nad robotem Legendary Rover na międzynarodowe zawody URC jako programista. 
@@ -113,7 +117,7 @@
   name: "Dawid"
   surname: "Dragan"
   thumbnailUrl: dawid-dragan.jpg
-  title: ""
+  title: "Web Developer w NewOrbit Poland Sp. z o. o."
   bio: >
     Dawid is a Full Stack Software Developer working for NewOrbit, also as a member of the Security Skill Center. 
     He is interested in software architecture, and security - especially OAuth and OpenID. 
@@ -160,21 +164,44 @@
     - {name: "site", link: "http://chwiladlaadmina.pl/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/artur-molendowski/"}
     - {name: "twitter", link: "https://twitter.com/AMolendowski"}
-#-
-#  id: 10
-#  name: "Paweł"
-#  surname: "Grochowicz"
-#  thumbnailUrl: placeholder.png
-#-
-#  id: 11
-#  name: "Rafał"
-#  surname: "Cisło"
-#  thumbnailUrl: placeholder.png
+-
+  id: 10
+  name: "Paweł"
+  surname: "Grochowicz"
+  title: "Senior Java Developer, Team Leader / PGS Software"
+  thumbnailUrl: pawel-grochowicz.png
+  bio: >
+    Wielką przygodę z programowaniem zaczynał od Androida i wtedy Java skradła mu serce. Pasjonat Big Data.
+    Zdarza mu się dotykać chmur. Obecnie data engineer.
+-
+  id: 11
+  name: "Rafał"
+  surname: "Cisło"
+  title: "Java Developer / PGS Software"
+  thumbnailUrl: rafal-cislo.png
+  bio: >
+    Swoją przygodę z programowaniem zaczynał od Java a obecnie specjalizuje się w zagadnieniach związanych z BigData. 
+    Wolny czas spędza przy książkach popularnonaukowych.
 -
   id: 12
-  name: "Mystery"
-  surname: "Speaker"
-  thumbnailUrl: placeholder.png
+  name: "Maciej"
+  surname: "Drapała"
+  thumbnailUrl: maciej-drapala.jpg
+  title: "CIO/IT Architect/Digital Transformation/PM/ - Fabrity"
+  bio: >
+    Manager IT z ponad 10 letnim doświadczeniem zarówno od strony dostawcy systemów IT 
+    jak i klienta wdrażającego nowoczesne rozwiązania informatyczne. 
+    Często występował w roli Project Managera oraz Głównego Architekta, 
+    który samodzielnie prowadził działania operacyjne (od inicjacji, poprzez wybór rozwiązania, 
+    opracowanie architektury, podpisanie umowy aż do uruchomienia produkcyjnego i finalnego odbioru). 
+    Interesuje się nowymi technologiami, chętnie uczestniczę w projektach R&D, 
+    tworzę strategię oraz wdrażam projekty innowacyjne, 
+    których celem jest usprawnienie i optymalizacja procesów biznesowych. 
+    Obecnie jestem mocno pochłonięty przez świat platform i technologii low-code, 
+    a przy ich pomocy pomagam usprawnić i zautomatyzować rozwiązania informatyczne. 
+    Nie obce są mi również enigmatyczne skróty takie jak DPA, RPA, IoT, DMS, AI 
+    – w szczególności związane z platformami Microsoft Power Platform.
+
 -
   id: 13
   name: "Mystery"
