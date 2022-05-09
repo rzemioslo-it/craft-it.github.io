@@ -13,7 +13,7 @@
 -
   group: "Partnerzy brązowi"
   elements:
-#    - {name: "iRonin", description: "iRonin", link: "https://www.ironin.it/", imageUrl: "ironin.png", class: "special"}
+    - {name: "iRonin", description: "iRonin", link: "https://www.ironin.it/", imageUrl: "ironin.png", class: "special"}
 #-
 #  group: "Partnerzy specjalni"
 #  elements:
