@@ -204,9 +204,14 @@
 
 -
   id: 13
-  name: "Mystery"
-  surname: "Speaker"
-  thumbnailUrl: placeholder.png
+  name: "Damian"
+  surname: "Naprawa"
+  bio: >
+    Software Architect, entuzjasta konteneryzacji i trener. 
+    Pomaga zespołom w zrozumieniu kontenerów oraz w migrowaniu aplikacji do chmury i Kubernetes. 
+    Dzieli się wiedzą na swoim blogu i podkaście — wkontenerach.pl oraz w autorskich kursach online. 
+    Fan automatyzacji i podejścia „As a Code”. Po godzinach amatorsko kopie w piłkę.
+  thumbnailUrl: damian-naprawa.jpg
 -
   id: 14
   name: "Mystery"
