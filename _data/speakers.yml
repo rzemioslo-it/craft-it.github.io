@@ -224,3 +224,10 @@
     - wynajdować koło na nowo. Zwykle używa narzędzia odpowiedniego do zadania 
     ale jego ulubione środowisko programistyczne to vim + tmux + czarno-biała konsola. 
     Słynie z tego że dzieli się swoją skromną wiedzą z innymi w formie anegdotek, czy tego chcą czy nie.
+-
+  id: 15
+  name: "Mystery"
+  surname: "Speaker"
+  thumbnailUrl: placeholder.png
+  bio: >
+    Czy ktoś tu jeszcze będzie?
