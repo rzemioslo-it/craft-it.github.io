@@ -209,11 +209,18 @@
   bio: >
     Software Architect, entuzjasta konteneryzacji i trener. 
     Pomaga zespołom w zrozumieniu kontenerów oraz w migrowaniu aplikacji do chmury i Kubernetes. 
-    Dzieli się wiedzą na swoim blogu i podkaście — wkontenerach.pl oraz w autorskich kursach online. 
+    Dzieli się wiedzą na swoim blogu i podkaście — <a href="wkontenerach.pl" title="wkontenerach.pl">wkontenerach.pl</a> oraz w autorskich kursach online. 
     Fan automatyzacji i podejścia „As a Code”. Po godzinach amatorsko kopie w piłkę.
   thumbnailUrl: damian-naprawa.jpg
 -
   id: 14
-  name: "Mystery"
-  surname: "Speaker"
-  thumbnailUrl: placeholder.png
+  name: "Wielki"
+  surname: "Borsuk"
+  thumbnailUrl: michal-borkowski.jpg
+  bio: >
+    Michał tworzy oprogramowanie w PGS Software. 
+    Kiedy nie programuje, lubi dzielić się wiedzą z praktykantami, studentami i przypadkowymi przechodniami. 
+    W wolnym czasie lubi eksperymentować z niszowymi technologiami i robić proste rzeczy od podstaw 
+    - wynajdować koło na nowo. Zwykle używa narzędzia odpowiedniego do zadania 
+    ale jego ulubione środowisko programistyczne to vim + tmux + czarno-biała konsola. 
+    Słynie z tego że dzieli się swoją skromną wiedzą z innymi w formie anegdotek, czy tego chcą czy nie.

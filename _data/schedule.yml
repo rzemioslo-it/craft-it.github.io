@@ -1,18 +1,20 @@
-#-
-#  date: "2019-05-24"
-#  dateReadable: "24. maja (piątek) - Warsztaty"
-#  tracks:
-#    - {title: "Sala 1", color: "90be4e"}
-#    - {title: "Sala 2", color: "03a9f4"}
-#  timeslots:
-#    - {
-#        startTime: "",
-#        sessionIds: [201,202,203]
-#     }
-#    - {
-#        startTime: "18:30",
-#        sessionIds: [301]
-#     }
+-
+  date: "2022-06-05"
+  dateReadable: "03. czerwca (piątek) - Warsztaty"
+  tracks:
+    - {title: "Sala 1", color: "90be4e"}
+    - {title: "Sala 2", color: "03a9f4"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        sessionIds: [301],
+        isSession: true
+     }
+    - {
+        startTime: "09:00",
+        sessionIds: [302],
+        isSession: true
+     }
 -
   date: "2022-06-04"
   dateReadable: "04. czerwca (sobota) - Konferencja"
@@ -40,7 +42,7 @@
     }
     - {
         startTime: "10:30",
-        sessionIds: [212,213,214],
+        sessionIds: [201],
         isSession: true
     }
     - {
@@ -49,7 +51,7 @@
     }
     - {
         startTime: "11:50",
-        sessionIds: [212,213,214],
+        sessionIds: [203,212],
         isSession: true
     }
     - {
@@ -58,7 +60,7 @@
     }
     - {
         startTime: "13:50",
-        sessionIds: [212,213,214],
+        sessionIds: [202,213,211],
         isSession: true
     }
     - {
@@ -67,7 +69,7 @@
     }
     - {
         startTime: "15:10",
-        sessionIds: [212,213,214],
+        sessionIds: [210,206,208],
         isSession: true
     }
     - {
@@ -76,7 +78,7 @@
     }
     - {
         startTime: "16:30",
-        sessionIds: [212],
+        sessionIds: [204],
         isSession: true
     }
     - {

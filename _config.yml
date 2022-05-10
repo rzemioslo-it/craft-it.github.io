@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/craft-it-2022-sharing-fb.png"
 
 # Navigation
 navigationLinks:
-#- {permalink: "/schedule/", text: "Program"}
+- {permalink: "#schedule", text: "Program"}
 #- {permalink: "/speakers/", text: "Prelegenci"}
 #- {permalink: "/team/", text: "Zespół"}
 #- {permalink: "/logistics/", text: "Logistyka"}
