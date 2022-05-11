@@ -329,6 +329,14 @@
       <li>Jak rozpocząć modularyzację systemu </li>
     </ul>
   speakers: [ 2 ]
+
+- id: 303
+  title: Event Storming
+  place: "TBA"
+  subtype: workshop
+  description: >
+    TBD
+  speakers: [ 4 ]
     
 ################################## SERVICE ################################## 
 - id: 100
