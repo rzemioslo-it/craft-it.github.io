@@ -48,7 +48,7 @@
                                 {% for slotInner in slot %}
                                 {% for session in site.data.sessions %}
                                 {% if slotInner == session.id and session.service == null %}
-                                <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                <div id="session-{{ session.id }}" class="slot slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                     <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                     <span class="slot-language">{{session.language | upcase}}</span>
                                     <ul class="slot-speakers">
@@ -72,7 +72,7 @@
                         {% elsif slot != 404 %}
                             {% for session in site.data.sessions %}
                                 {% if slot == session.id and session.service == null %}
-                                <div class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
@@ -95,7 +95,7 @@
                                 {% elsif slot == session.id and session.service != null %}
                                 <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
                                     <div class="color-line"></div>
-                                    <div class="slot-content slot-break">
+                                    <div  class="slot-content slot-break">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         {% if session.description != null %}
                                         <p class="service-description">{{ session.description }}</p>

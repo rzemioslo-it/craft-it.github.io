@@ -226,7 +226,14 @@
             iframe.attr('src', iframe.attr('src'));
         });
         $('.slot').click(function() {
-            location.hash = $(this).attr('id');
+            if($(this).attr('id')){
+                location.hash = $(this).attr('id');
+            }
+        });
+        $('.slot-content').click(function() {
+            if($(this).attr('id')){
+                location.hash = $(this).attr('id');
+            }
         });
 
 
