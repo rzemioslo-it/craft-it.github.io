@@ -100,7 +100,7 @@
             });
         });
         $(function() {
-            if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
+            if(window.location.hash) {
                 var hash = window.location.hash;
                 $(hash).click();
             }
