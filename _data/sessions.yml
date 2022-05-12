@@ -243,21 +243,19 @@
   speakers: [ 14 ]
 
 - id: 214
-  title: ""
+  title: "Refactoring - jak sprzątać z głową"
   place: ""
   subtype: presentation
   description: >
-    TBD
-  speakers: [ ]
+    Dbanie o czysty kod w aplikacji, kiedy cały zespół gonią terminy, zdecydowanie nie jest sprawą łatwą. 
+    W obliczu ograniczonych zasobów czasowych, jak skutecznie zaplanować i wdrożyć zmiany, 
+    które pozwolą maksymalnie ulepszyć istniejące części aplikacji i ułatwić pisanie nowego kodu? 
+    W tej prezentacji postaram się przybliżyć ten temat, podając konkretne przykłady z projektu 
+    (ad-tech creative assets marketplace), w którym pracowałem przez półtora roku. 
+    Poruszę konkretne zagadnienia technologiczne, takie jak na przykład wybór bibliotek, ale też kwestię tego, 
+    jak prowadzić komunikację z klientem, któremu zależy na dostarczeniu nowych funkcjonalności.
+  speakers: [ 15 ]
 ################################## WORKSHOPS ################################## 
-#-
-#  id: 202
-#  title: "Event Sourcing w .NET"
-#  place: ""
-#  subtype: workshop
-#  description: >
-#  speakers: [1]
-#
 -
   id: 301
   title: "Praktyczne wprowadzenie do Event Sourcing w .NET"
