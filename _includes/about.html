@@ -6,7 +6,7 @@
             <div class="row about-text">
                 <div class="col-md-12">
                     {% for text in site.aboutText %}
-                        <p>{{ text }}</p>
+                    <p>{{ text }}</p>
                     {% endfor %}
                 </div>
             </div>
@@ -14,18 +14,37 @@
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-6">  
+                <div class="col-md-{{ colWidth }} col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <h5>{{ about.title }}</h5>
-                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}"
+                             height="128" width="128" alt="{{ about.title }}">
                         <p>{{ about.text }}</p>
                     </div>
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% assign check = forloop.index | modulo:2 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% if check == 0 %}
+                <div class="clearfix visible-xs"></div>
+                {% endif %}
                 {% endfor %}
                 <div class="logo-city"></div>
+            </div>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 about-when-where">
+            <div class="col-lg-6 when-where">
+                <p class="title blue">Kiedy?</p>
+                <p class="title black">4 czerwca 2022</p>
+                <a class="small" href="#schedule">sprawdź agendę</a>
+            </div>
+            <div class="col-lg-6 when-where">
+                <p class="title blue">Gdzie?</p>
+                <p class="title black">Bristol Tradition & Luxury Hotel</p>
+                <a class="small"
+                   href="https://www.google.com/maps/place/Hotel+Bristol+Rzesz%C3%B3w+Tradition+%26+Luxury/@50.0383174,22.0025061,17z/data=!3m1!4b1!4m8!3m7!1s0x473cfb020c4fe517:0x4e898cbfac63fc04!5m2!4m1!1i2!8m2!3d50.0383174!4d22.0046948"
+                   target="_blank"
+                   rel="noreferrer"
+                >pokaż mapę</a>
             </div>
         </div>
     </div>

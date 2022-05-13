@@ -199,7 +199,7 @@
         font-size: 22px;
       }
 
-      .buy-button {
+      .custom-button {
         font-size: 18px;
       }
     }
@@ -220,7 +220,7 @@
         font-size: 18px;
       }
 
-      .buy-button {
+      .custom-button {
         font-size: 15px;
       }
     }
@@ -259,10 +259,32 @@
     .buy-button {
       line-height: 1.82;
       color: #fff;
-      font-family: LatoWeb;
+      font-family: LatoWeb, serif;
       font-size: 22px;
       border-radius: 38px;
       margin-top: 38px;
+      width: 350px;
+      @media (min-width: 1680px) {
+        margin-right: 60px;
+      }
+    }
+    .schedule-button {
+      line-height: 1.82;
+      font-family: LatoWeb;
+      font-size: 22px;
+      border: solid 1px #046ab4;
+      border-radius: 38px;
+      margin-top: 38px;
+      color: #046ab4 !important;
+      background: white !important;
+      width: 350px;
+      @media (max-width: 1680px) {
+        display: block;
+        margin-top: 40px;
+      }
+      @media (max-width: 992px) {
+        margin: auto;
+      }
     }
   }
 
