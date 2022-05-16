@@ -14,6 +14,7 @@
   group: "Partnerzy brązowi"
   elements:
     - {name: "iRonin", description: "iRonin", link: "https://www.ironin.it/", imageUrl: "ironin.png", class: "special"}
+    - {name: "Appliscale", description: "Appliscale", link: "https://appliscale.io/", imageUrl: "appliscale.png", class: "special"}
 #-
 #  group: "Partnerzy specjalni"
 #  elements:
