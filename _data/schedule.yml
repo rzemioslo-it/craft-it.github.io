@@ -10,11 +10,11 @@
         sessionIds: [301],
         isSession: true
      }
-    - {
-        startTime: "09:00",
-        sessionIds: [302],
-        isSession: true
-     }
+#    - {
+#        startTime: "09:00",
+#        sessionIds: [302],
+#        isSession: true
+#     }
     - {
         startTime: "09:00",
         sessionIds: [303],

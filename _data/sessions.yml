@@ -284,49 +284,49 @@
       <li>pozytywne nastawienie i otwarta głowa ;)  </li>
     </ul>
   speakers: [ 3 ]
-  
--
-  id: 302
-  title: Event Storming i Bounded Context - jak tworzyć zmodularyzowane systemy
-  place: "TBA"
-  subtype: workshop
-  description: >
-    Podczas warsztatu nauczymy się wykorzystywać techniki Event Storming Process Level oraz Bounded Context. 
-    Na warsztacie będziemy pracować ze złożoną domeną biznesową, 
-    z niejasnymi regułami oraz niewidocznymi procesami wewnętrznymi. 
-    Zbudujemy dokładny plan systemu na bazie analizy biznesowej oraz technik strukturyzacji. 
-    Następnie określimy moduły i komunikację między nimi. 
-    Warsztaty zakończymy analizą w jaki sposób wdrażać modularyzację do istniejących systemów.
-    <p>Cele warszatu:</p>
-    <ul>
-      <li>Poznanie technik ustrukturyzowanego budowania procesów systemu informatycznego. </li>
-      <li>Nauka rozplątywania złożonych problemów biznesowych.</li>
-      <li>Wykorzystanie powyższych technik na rzeczywistym biznesowym przypadku. </li>
-      <li>Zaznajomienie się z biznesowymi i technicznymi metodami modularyzacji systemu. </li>
-      <li>Poznanie technik pracy z systemem legacy – mierzenia kosztów i zysków modularyzacji. </li>
-    </ul>
-    <p>Odbiorcy:</p>
-      <li>Architekci, developerzy, analitycy, testerzy.</li>
-
-    <p>Plan warsztatu:</p>
-    <ul>
-      <li>Event Storming – Process Level </li>
-      <li>Wprowadzenie do notacji </li>
-      <li>4 rodzaje zdarzeń </li>
-      <li>Wizja produktu a procesy wewnętrzne </li>
-      <li>Wykorzystanie praktyczne na biznesowym przykładzie </li>
-      <li>Dodatkowa notacja warsztatowa </li>
-      <li>Strategie modelowania procesów </li>
-      <li>Podział reguł biznesowych na 6 kategorii </li>
-      <li>Dekompozycja i wydzielanie podobszarów </li>
-      <li>Event Storming – Modular Level </li>
-      <li>Bounded Context Canvas </li>
-      <li>Reguły wydzielania modułów </li>
-      <li>Wykorzystanie praktyczne na biznesowym przykładzie </li>
-      <li>Jak duży powinien być moduł </li>
-      <li>Jak rozpocząć modularyzację systemu </li>
-    </ul>
-  speakers: [ 2 ]
+#  
+#-
+#  id: 302
+#  title: Event Storming i Bounded Context - jak tworzyć zmodularyzowane systemy
+#  place: "TBA"
+#  subtype: workshop
+#  description: >
+#    Podczas warsztatu nauczymy się wykorzystywać techniki Event Storming Process Level oraz Bounded Context. 
+#    Na warsztacie będziemy pracować ze złożoną domeną biznesową, 
+#    z niejasnymi regułami oraz niewidocznymi procesami wewnętrznymi. 
+#    Zbudujemy dokładny plan systemu na bazie analizy biznesowej oraz technik strukturyzacji. 
+#    Następnie określimy moduły i komunikację między nimi. 
+#    Warsztaty zakończymy analizą w jaki sposób wdrażać modularyzację do istniejących systemów.
+#    <p>Cele warszatu:</p>
+#    <ul>
+#      <li>Poznanie technik ustrukturyzowanego budowania procesów systemu informatycznego. </li>
+#      <li>Nauka rozplątywania złożonych problemów biznesowych.</li>
+#      <li>Wykorzystanie powyższych technik na rzeczywistym biznesowym przypadku. </li>
+#      <li>Zaznajomienie się z biznesowymi i technicznymi metodami modularyzacji systemu. </li>
+#      <li>Poznanie technik pracy z systemem legacy – mierzenia kosztów i zysków modularyzacji. </li>
+#    </ul>
+#    <p>Odbiorcy:</p>
+#      <li>Architekci, developerzy, analitycy, testerzy.</li>
+#
+#    <p>Plan warsztatu:</p>
+#    <ul>
+#      <li>Event Storming – Process Level </li>
+#      <li>Wprowadzenie do notacji </li>
+#      <li>4 rodzaje zdarzeń </li>
+#      <li>Wizja produktu a procesy wewnętrzne </li>
+#      <li>Wykorzystanie praktyczne na biznesowym przykładzie </li>
+#      <li>Dodatkowa notacja warsztatowa </li>
+#      <li>Strategie modelowania procesów </li>
+#      <li>Podział reguł biznesowych na 6 kategorii </li>
+#      <li>Dekompozycja i wydzielanie podobszarów </li>
+#      <li>Event Storming – Modular Level </li>
+#      <li>Bounded Context Canvas </li>
+#      <li>Reguły wydzielania modułów </li>
+#      <li>Wykorzystanie praktyczne na biznesowym przykładzie </li>
+#      <li>Jak duży powinien być moduł </li>
+#      <li>Jak rozpocząć modularyzację systemu </li>
+#    </ul>
+#  speakers: [ 2 ]
 
 - id: 303
   title: Event Storming

@@ -80,7 +80,7 @@ layout: compress
                             name: "{{ speaker.name }} {{ speaker.surname }}",
                             company: "{{ speaker.company }}", 
                             image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}",
-                            session: "{% for session in site.data.sessions %} {% for session_speaker in session.speakers %} {% if session_speaker == speaker.id %} {{ session.title }} {% endif %} {% endfor %} {% endfor %}"
+                            session: "{% for session in site.data.sessions %} {% for session_speaker in session.speakers %} {% if session_speaker == speaker.id and session.subtype == 'presentation' %} {{ session.title }} {% endif %} {% endfor %} {% endfor %}"
                         }{% if forloop.index != forloop.length %},{% endif %}
                     {% endfor %}
                 ];
