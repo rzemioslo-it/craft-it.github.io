@@ -153,6 +153,7 @@ footerBlocks:
     - { permalink: "/schedule/", text: "Agenda" }
     - { permalink: "/team/", text: "Zespół" }
     - { permalink: "/files/regulamin.pdf", text: "Regulamin" }
+    - { permalink: "/files/polityka_prywatnosci.pdf", text: "Polityka Prywatności" }
  - title: "Archiwum"
    links:
     - { link: "https://2019.rzemioslo.it", text: "2019" }
