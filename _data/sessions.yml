@@ -46,7 +46,14 @@
   place: ""
   subtype: presentation
   description: >
-    TBD
+    Zmiana. Jedyna stała rzecz w życiu i projekcie IT, bo przecież niemal zawsze wymagania będą ulegały kolejnym zmianom. 
+    I tu czasem powstaje duży problem, 
+    ponieważ zmiana w jednej części systemu pociąga za sobą kaskady zmiany w innych miejscach. 
+    Ale w naszym developerskim toolboksie mamy narzędzia Bounded Contextu i Context Mappingu, 
+    dzięki którym możemy zapanować nad tym chaosem, 
+    zaprojektować granice modeli w systemie czy ustalić sposoby ich łączenia. 
+    A to otwiera nam już drogę do strategicznych decyzji architektonicznych i organizacji zespołów. 
+    Krótki mówiąc - dziel, łącz i zwyciężaj!
   speakers: [ 4 ]
 
 - id: 205
