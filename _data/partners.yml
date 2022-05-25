@@ -32,6 +32,7 @@
     - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
     - {name: "SJUG", description: "Silesia Java Users Group", link: "https://silesia.jug.pl/", imageUrl: "sjug.png"}
     - {name: "LJUG", description: "Lublin Java User Group", link: "https://www.meetup.com/pl-PL/Lublin-Java-User-Group/", imageUrl: "ljug.jpg"}
+    - {name: "SKNI KOD", description: "Studenckie Koło Naukowe Informatyków KOD", link: "https://kod.prz.edu.pl/", imageUrl: "skni-kod.png"}
 #-
 #  group: "Pozostali partnerzy"
 #  elements:
