@@ -246,8 +246,9 @@
   place: "W przygotowaniu"
   subtype: presentation
   description: >
-    Czym właściwie jest docker? Jak lekki może być obraz dockera? Czy kontener może istnieć bez obrazu? Dlaczego używamy obrazów i dlaczego są takie duże?
-Na te i kilka innych pytań poszukamy odpowiedzi i kto wie? Może nawet niektóre znajdziemy.
+    Czym właściwie jest docker? Jak lekki może być obraz dockera? Czy kontener może istnieć bez obrazu? 
+    Dlaczego używamy obrazów i dlaczego są takie duże?
+    Na te i kilka innych pytań poszukamy odpowiedzi i kto wie? Może nawet niektóre znajdziemy.
   speakers: [ 14 ]
 
 - id: 214
