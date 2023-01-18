@@ -64,7 +64,7 @@ aboutTitle: "O konferencji"
 aboutText:
  - "Craft-IT.pl to konferencja programistyczna na Podkarpaciu poświęcona tematyce \"Software Craftsmanship\"."
  - "Nowe technologie pojawiają się i znikają. My wierzymy, że warto inwestować we własne programistyczne rzemiosło, w warsztat, który zawsze będzie aktualny, niezależnie od aktualnych trendów."
- - "Serdecznie zapraszamy: Rzeszów. 4 czerwca 2022"
+ - "Serdecznie zapraszamy: Rzeszów 2023. Dokładna data wkrótce! "
  - "Zapewniamy świetne prelekcje techniczne, catering przez cały dzień i after party."
 #aboutBlock:
 # - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
@@ -88,29 +88,29 @@ twitterFeed: ""
 
 # Location Block
 locationBlockTitle: "Lokalizacja"
-eventLocationName: "Bristol Tradition&Luxury Hotel"
-eventLocationLink: "https://www.bristol-rzeszow.pl"
-eventStreetAddress: "ul. Kopernika 12"
+eventLocationName: "Już wkrótce" #"Bristol Tradition&Luxury Hotel"
+eventLocationLink: #"https://www.bristol-rzeszow.pl"
+eventStreetAddress: #"ul. Kopernika 12"
 eventAddressLocality: "Rzeszów"
 eventAddressLocalityRegion: "Rzeszów"
-eventPostalCode: "35-002"
+eventPostalCode: #"35-002"
 eventAddressCountry: "Polska"
 eventStartTime: "2019-05-25T09:00"
 eventDoorTime: "08:00"
 eventEndTime: "2019-05-26T18:00"
-eventPlaceCoordinates: "50.0382509, 22.004591"
-mapCenterCoordinates: "50.0382509, 22.004591"
-mapMobileCenterCoordinates: "50.0382509, 22.004591"
+eventPlaceCoordinates: #"50.0382509, 22.004591"
+mapCenterCoordinates: #"50.0382509, 22.004591"
+mapMobileCenterCoordinates: #"50.0382509, 22.004591"
 
 # Venue Block
 venueBlockTitle: "Miejsce"
-venueBigImage: "bristol1.jpg"
-venueSmallImage1: "bristol-sala1.jpg"
-venueSmallImage2: "bristol2.jpg"
-venueSmallImage3: "bristol-sala2.jpg"
-venueTitle: "Bristol Tradition&Luxury Hotel"
+venueBigImage: #"bristol1.jpg"
+venueSmallImage1: #"bristol-sala1.jpg"
+venueSmallImage2: #"bristol2.jpg"
+venueSmallImage3: #"bristol-sala2.jpg"
+venueTitle: #"Bristol Tradition&Luxury Hotel"
 venueSubTitle: ""
-venueFeatures: ["Hotel w samym centrum Rzeszowa"]
+venueFeatures: #["Hotel w samym centrum Rzeszowa"]
 
 # Partners Block
 organizersTitle: "Organizatorzy"
@@ -149,13 +149,14 @@ footerInfo:
 footerBlocks:
  - title: "Menu"
    links:
-    - { permalink: "/speakers/", text: "Prelegenci" }
-    - { permalink: "/schedule/", text: "Agenda" }
+     # - { permalink: "/speakers/", text: "Prelegenci" }
+      # - { permalink: "/schedule/", text: "Agenda" }
     - { permalink: "/team/", text: "Zespół" }
     - { permalink: "/files/regulamin.pdf", text: "Regulamin" }
     - { permalink: "/files/polityka_prywatnosci.pdf", text: "Polityka Prywatności" }
  - title: "Archiwum"
    links:
+     # TODO 2022
     - { link: "https://2019.rzemioslo.it", text: "2019" }
     - { link: "https://2018.rzemioslo.it", text: "2018" }
     - { link: "https://2017.rzemioslo.it", text: "2017" }
