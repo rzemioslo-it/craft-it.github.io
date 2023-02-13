@@ -29,8 +29,8 @@ organizerLink: ""
 # Head
 metaKeywords: "Craft-IT, RZEmiosloIT, Rzeszów, konferencja, programowanie, software, craftsmanship, IT"
 twitterAccount: "@RZEmiosloIT"
-socialImageSrcTwitter: "/img/seo/craft-it-2022-sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/craft-it-2022-sharing-fb.png"
+socialImageSrcTwitter: "/img/seo/craft-it-2023-sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/craft-it-2023-sharing-fb.png"
 
 # Documents
 #c4pUrl: ""
@@ -43,6 +43,7 @@ navigationLinks:
 #- {permalink: "/team/", text: "Zespół"}
 #- {permalink: "/logistics/", text: "Logistyka"}
 - {link: "/#rockstar-speakers", text: "Prelegenci"}
+- {link: "https://2022.craft-it.pl", text: "2022"}
 - {link: "https://2019.rzemioslo.it", text: "2019"}
 - {link: "https://2018.rzemioslo.it", text: "2018"}
 - {link: "https://2017.rzemioslo.it", text: "2017"}
@@ -64,7 +65,7 @@ aboutTitle: "O konferencji"
 aboutText:
  - "Craft-IT.pl to konferencja programistyczna na Podkarpaciu poświęcona tematyce \"Software Craftsmanship\"."
  - "Nowe technologie pojawiają się i znikają. My wierzymy, że warto inwestować we własne programistyczne rzemiosło, w warsztat, który zawsze będzie aktualny, niezależnie od aktualnych trendów."
- - "Serdecznie zapraszamy: Rzeszów 2023. Dokładna data wkrótce! "
+ - "Serdecznie zapraszamy: Rzeszów. 3 czerwca 2023"
  - "Zapewniamy świetne prelekcje techniczne, catering przez cały dzień i after party."
 #aboutBlock:
 # - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
@@ -88,29 +89,29 @@ twitterFeed: ""
 
 # Location Block
 locationBlockTitle: "Lokalizacja"
-eventLocationName: "Już wkrótce" #"Bristol Tradition&Luxury Hotel"
-eventLocationLink: #"https://www.bristol-rzeszow.pl"
-eventStreetAddress: #"ul. Kopernika 12"
+eventLocationName: "Hilton Garden Inn Rzeszow"
+eventLocationLink: "https://www.hgi.rzeszow.pl/"
+eventStreetAddress: "Al. Wacława Kopisto 1"
 eventAddressLocality: "Rzeszów"
 eventAddressLocalityRegion: "Rzeszów"
-eventPostalCode: #"35-002"
+eventPostalCode: "35-315"
 eventAddressCountry: "Polska"
 eventStartTime: "2019-05-25T09:00"
 eventDoorTime: "08:00"
 eventEndTime: "2019-05-26T18:00"
-eventPlaceCoordinates: #"50.0382509, 22.004591"
-mapCenterCoordinates: #"50.0382509, 22.004591"
-mapMobileCenterCoordinates: #"50.0382509, 22.004591"
+eventPlaceCoordinates: "50.028207872097916, 22.01418622033724" # "50.0382509, 22.004591"
+mapCenterCoordinates: "50.028207872097916, 22.01418622033724"
+mapMobileCenterCoordinates: "50.028207872097916, 22.01418622033724"
 
 # Venue Block
 venueBlockTitle: "Miejsce"
-venueBigImage: #"bristol1.jpg"
-venueSmallImage1: #"bristol-sala1.jpg"
-venueSmallImage2: #"bristol2.jpg"
-venueSmallImage3: #"bristol-sala2.jpg"
-venueTitle: #"Bristol Tradition&Luxury Hotel"
-venueSubTitle: ""
-venueFeatures: #["Hotel w samym centrum Rzeszowa"]
+venueBigImage: "exterior1.jpg"
+venueSmallImage1: "conference-room1.jpg"
+venueSmallImage2: "couches.jpg"
+venueSmallImage3: "interior.jpg"
+venueTitle: "Hilton Garden Inn Rzeszów"
+venueSubTitle: "Galeria Millenium Hall"
+venueFeatures: ["Komfortowy hotel w centrum Rzeszowa "]
 
 # Partners Block
 organizersTitle: "Organizatorzy"
@@ -124,16 +125,16 @@ partnersC4sponsorsButton: "Zostań sponsorem"
   # - {permalink: "/#tickets", text: "Kup bilet"}
 
 # Last edition Block
-lastEditionImage: "edition2018.jpg"
-lastEditionTitle: "Jak było w 2019 roku?"
+lastEditionImage: "edition2022.jpg"
+lastEditionTitle: "Jak było w 2022 roku?"
 lastEditionButtons:
-   - {link: "https://www.facebook.com/media/set/?set=a.2154230958170014&type=3", text: "Relacja fotograficzna"}
-   - {link: "https://www.youtube.com/watch?v=-8FR3slXJ8Q", text: "Relacja wideo"}
+   - {link: "https://www.facebook.com/craftitpl/posts/pfbid02QCTaffNmcwR2V7YWkjDDgjwRXNtYWBib7C3nH7aJEYoCZo7FagozeoBSduXpYA8Gl", text: "Relacja fotograficzna"}
+   - {link: "https://www.youtube.com/watch?v=_wUUtM-MiDI", text: "Relacja wideo"}
 
 # Tickets Block
 ticketsTitle: "Bilety"
-ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
-# ticketsInfo: "Informację o sprzedaży biletów podamy na stronie i kanałach social media."
+# ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
+ticketsInfo: "Informację o sprzedaży biletów podamy na stronie i kanałach social media."
 
 # Footer
 socialLinks:
@@ -156,12 +157,12 @@ footerBlocks:
     - { permalink: "/files/polityka_prywatnosci.pdf", text: "Polityka Prywatności" }
  - title: "Archiwum"
    links:
-     # TODO 2022
+    - { link: "https://2022.craft-it.pl", text: "2022" }
     - { link: "https://2019.rzemioslo.it", text: "2019" }
     - { link: "https://2018.rzemioslo.it", text: "2018" }
     - { link: "https://2017.rzemioslo.it", text: "2017" }
-    - { link: "https://www.facebook.com/media/set/?set=a.2154230958170014&type=3", text: "Galeria zdjęć" }
-    - { link: "https://www.youtube.com/watch?v=-8FR3slXJ8Q&ab_channel=RZEmios%C5%82o.IT", text: "Relacja video" }
+    - { link: "https://www.facebook.com/craftitpl/posts/pfbid02QCTaffNmcwR2V7YWkjDDgjwRXNtYWBib7C3nH7aJEYoCZo7FagozeoBSduXpYA8Gl", text: "Galeria zdjęć" }
+    - { link: "https://www.youtube.com/watch?v=_wUUtM-MiDI", text: "Relacja video" }
  -
   title: "Social"
   links:
