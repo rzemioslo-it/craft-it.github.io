@@ -1,237 +1,237 @@
--
-  id: 1
-  name: "Łukasz"
-  surname: "Szydło"
-  title: "Software Consultant/Architect/Trainer"
-  bio: >
-    <p>Programista pasjonat, fan “Software Craftsmanship” i zwinnego podejścia do wytwarzania oprogramowania.</p>
-    <p>Lubi proste rozwiązania skomplikowanych problemów. 
-    Na codzień zajmuje się tematami z zakresu architektury aplikacji biznesowych, Domain-Driven Design, 
-    Continuous Delivery, technologii Java oraz testowania automatycznego. Prywatnie mąż, ojciec szóstki dzieci.</p>
-    <p>Społecznie moderator w <a href="http://akademiafamilijna.pl/">akademiafamilijna.pl</a>.</p>
-  thumbnailUrl: lukasz-szydlo.jpg
-  rockstar: true
-  social:
-   - {name: "linkedin", link: "https://www.linkedin.com/in/łukasz-szydło-14754024/"}
-   - {name: "twitter", link: "https://twitter.com/lszydlo"}
-   - {name: "github", link: "https://github.com/lszydlo"}
--
-  id: 2
-  name: "Radosław "
-  surname: "Maziarka"
-  title: "Consultant / Trainer"
-  bio: >
-    Solution Architect i Engineering Manager w obszarze Azure.
-    Pracuje przy pełnym zakresie tworzenia produktów cyfrowych - od analizy wymagań, przez architekturę i budowę 
-    systemu informatycznego, po jego utrzymanie na produkcji. 
-    Po pracy realizuje konsultacje i warsztaty dla firm oraz wspomaga technologicznie organizacje pozarządowe. 
-    Zwolennik pracy zwinnej i ciągłego samodoskonalenia. 
-    Można go złapać na blogu <a href="https://radekmaziarka.pl/">https://radekmaziarka.pl/</a> i Twitterze
-  thumbnailUrl: radek-maziarka.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "https://radekmaziarka.pl/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/maziarka-radoslaw/"}
-    - {name: "facebook", link: "https://www.facebook.com/radblog.radek.maziarka"}
-    - {name: "twitter", link: "https://twitter.com/RadekMaziarka/"}
--
-  id: 3
-  name: "Oskar"
-  surname: "Dudycz"
-  title: "DevAdvocate at Event Store / Marten Maintainer"
-  bio: >
-    Od prawie 14 lat, tworzę systemy informatyczne bliskie biznesowi. 
-    Zaczynałem karierę gdy StackOverflow jeszcze nie istniał. Jestem programistą, liderem technicznym, architektem. 
-    Lubię tworzyć dobrze przemyślane systemy, narzędzia i frameworki, 
-    które są używane na produkcji i robią życie ludzi łatwiejszym. Wierzę, żę Event Sourcing, CQRS, i w ogólności, 
-    Architektury oparte na zdarzeniach są dobrymi podstawami dzięki którymi można to osiągnąć. 
-    Praca przy OSS i współdzielenie wiedzy są dla mnie dużą motywacją. Aktualnie pracuję jako DevAdvocate w Event Store 
-    pomagając w rozbudowie unikalnego produktu bazodanowego, w którym zdarzenia są obywatelem pierwszej klasy. 
-    Jestem również współmainainerem biblioteki .NET Marten, 
-    która pozwala zamienić Postgres w bazę dokumentową oraz Event Store.
-  thumbnailUrl: oskar-dudycz.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "https://event-driven.io/pl/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/oskardudycz/"}
-    - {name: "facebook", link: "https://www.facebook.com/Oskar.At.NET"}
-    - {name: "twitter", link: "https://twitter.com/oskar_at_net"}
-    - {name: "github", link: "https://github.com/oskardudycz"}
-    - {name: "youtube", link: "https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg"}
-    - {name: "rss", link: "https://event-driven.io/rss.xml"}
--
-  id: 4
-  name: "Mariusz"
-  surname: "Gil"
-  title: >
-    Software architect, trainer, conference speaker. 
-    DDD practitioner, #EventStorming Evangelist. Podcaster at https://bettersoftwaredesign.pl
-  bio: >
-    Software architect, trener, ex-CTO, z branżą IT związany od ponad 20 lat. 
-    Pasjonuje się projektowaniem i implementacją systemów o złożonych wymaganiach biznesowych, 
-    machine-learningiem i procesami wytwarzania oprogramowania, 
-    które można przełożyć na realną wartość biznesową dla klienta. 
-    Speaker i współorganizator wielu otwartych spotkań dla developerów. Obecnie związany z Bottega IT Minds, 
-    gdzie ma okazję pracować z wieloma zespołami developerskimi w Polsce i Europie. 
-    Mocno zaangażowany w rozwój oraz praktyczne zastosowania EventStormingu.
-  thumbnailUrl: mariusz-gil.jpg
-  rockstar: true
-  social:
-    - {name: "github", link: "https://github.com/mariuszgil"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mariuszgil/?originalSubdomain=pl"}
-    - {name: "twitter", link: "https://twitter.com/mariuszgil"}
-    - {name: "site", link: "https://bettersoftwaredesign.pl/"}
--
-  id: 5
-  name: "Konrad"
-  surname: "Kokosa"
-  title: > 
-    Author of http://prodotnetmemory.com, Microsoft .NET MVP, architect, performance fan, 
-    one of @dotnetosorg, author of @outofmemorygame. AFOL.
-  bio: >
-    Konrad Kokosa jest autorem książki Pro .NET Memory Management, 
-    Microsoft MVP w kategorii Developer Technologies, architektem, fanem wydajności i Mechanical Sympathy, 
-    a nawet Software Craftsmanship! Związany z wytwarzaniem oprogramowania w .NET od kilkunastu lat, 
-    rozwiązuje problemy wydajnościowe, zagadnienia diagnostyczne 
-    i także wspiera zespoły w wytwarzaniu rozwiązań opartych o dobrą architekturę. 
-    Jego ostatnimi pasjami staje się również gamedev oraz Web3.
-  thumbnailUrl: konrad-kokosa.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "http://blog.kokosa.net/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/kkokosa/"}
-    - {name: "twitter", link: "https://twitter.com/konradkokosa"}
--
-  id: 6
-  name: "Maciej"
-  surname: "Kołodziej"
-  thumbnailUrl: maciej-kolodziej.jpg
-  title: ".NET developer w NewOrbit Poland Sp. z o. o."
-  bio: >
-    Jestem miłośnikiem projektów R&D i programowania, pracowałem z wizją komputerowa, SI, Pythonem i C++. 
-    Brałem udział w pracach nad robotem Legendary Rover na międzynarodowe zawody URC jako programista. 
-    Aktualnie skupiam się na technologiach z rodziny MS z naciskiem na .NET i rozwiązania chmury Azure 
-    pracując nad innowacyjnych inteligentnym „timesheetem”.
--
-  id: 7
-  name: "Dawid"
-  surname: "Dragan"
-  thumbnailUrl: dawid-dragan.jpg
-  title: "Web Developer w NewOrbit Poland Sp. z o. o."
-  bio: >
-    Dawid is a Full Stack Software Developer working for NewOrbit, also as a member of the Security Skill Center. 
-    He is interested in software architecture, and security - especially OAuth and OpenID. 
-    He likes challenges and sharing knowledge with other people.
--
-  id: 8
-  name: "Krzysztof"
-  surname: "Polewiak"
-  thumbnailUrl: krzysztof-polewiak.jpg  
-  title: "Architekt rozwiązań w Sii Polska"
-  bio: >
-    Architekt rozwiązań w Sii Polska <br /><br />
+# -
+#   id: 1
+#   name: "Łukasz"
+#   surname: "Szydło"
+#   title: "Software Consultant/Architect/Trainer"
+#   bio: >
+#     <p>Programista pasjonat, fan “Software Craftsmanship” i zwinnego podejścia do wytwarzania oprogramowania.</p>
+#     <p>Lubi proste rozwiązania skomplikowanych problemów.
+#     Na codzień zajmuje się tematami z zakresu architektury aplikacji biznesowych, Domain-Driven Design,
+#     Continuous Delivery, technologii Java oraz testowania automatycznego. Prywatnie mąż, ojciec szóstki dzieci.</p>
+#     <p>Społecznie moderator w <a href="http://akademiafamilijna.pl/">akademiafamilijna.pl</a>.</p>
+#   thumbnailUrl: lukasz-szydlo.jpg
+#   rockstar: true
+#   social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/łukasz-szydło-14754024/"}
+#    - {name: "twitter", link: "https://twitter.com/lszydlo"}
+#    - {name: "github", link: "https://github.com/lszydlo"}
+# -
+#   id: 2
+#   name: "Radosław "
+#   surname: "Maziarka"
+#   title: "Consultant / Trainer"
+#   bio: >
+#     Solution Architect i Engineering Manager w obszarze Azure.
+#     Pracuje przy pełnym zakresie tworzenia produktów cyfrowych - od analizy wymagań, przez architekturę i budowę
+#     systemu informatycznego, po jego utrzymanie na produkcji.
+#     Po pracy realizuje konsultacje i warsztaty dla firm oraz wspomaga technologicznie organizacje pozarządowe.
+#     Zwolennik pracy zwinnej i ciągłego samodoskonalenia.
+#     Można go złapać na blogu <a href="https://radekmaziarka.pl/">https://radekmaziarka.pl/</a> i Twitterze
+#   thumbnailUrl: radek-maziarka.jpg
+#   rockstar: true
+#   social:
+#     - {name: "site", link: "https://radekmaziarka.pl/"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/maziarka-radoslaw/"}
+#     - {name: "facebook", link: "https://www.facebook.com/radblog.radek.maziarka"}
+#     - {name: "twitter", link: "https://twitter.com/RadekMaziarka/"}
+# -
+#   id: 3
+#   name: "Oskar"
+#   surname: "Dudycz"
+#   title: "DevAdvocate at Event Store / Marten Maintainer"
+#   bio: >
+#     Od prawie 14 lat, tworzę systemy informatyczne bliskie biznesowi.
+#     Zaczynałem karierę gdy StackOverflow jeszcze nie istniał. Jestem programistą, liderem technicznym, architektem.
+#     Lubię tworzyć dobrze przemyślane systemy, narzędzia i frameworki,
+#     które są używane na produkcji i robią życie ludzi łatwiejszym. Wierzę, żę Event Sourcing, CQRS, i w ogólności,
+#     Architektury oparte na zdarzeniach są dobrymi podstawami dzięki którymi można to osiągnąć.
+#     Praca przy OSS i współdzielenie wiedzy są dla mnie dużą motywacją. Aktualnie pracuję jako DevAdvocate w Event Store
+#     pomagając w rozbudowie unikalnego produktu bazodanowego, w którym zdarzenia są obywatelem pierwszej klasy.
+#     Jestem również współmainainerem biblioteki .NET Marten,
+#     która pozwala zamienić Postgres w bazę dokumentową oraz Event Store.
+#   thumbnailUrl: oskar-dudycz.jpg
+#   rockstar: true
+#   social:
+#     - {name: "site", link: "https://event-driven.io/pl/"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/oskardudycz/"}
+#     - {name: "facebook", link: "https://www.facebook.com/Oskar.At.NET"}
+#     - {name: "twitter", link: "https://twitter.com/oskar_at_net"}
+#     - {name: "github", link: "https://github.com/oskardudycz"}
+#     - {name: "youtube", link: "https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg"}
+#     - {name: "rss", link: "https://event-driven.io/rss.xml"}
+# -
+#   id: 4
+#   name: "Mariusz"
+#   surname: "Gil"
+#   title: >
+#     Software architect, trainer, conference speaker.
+#     DDD practitioner, #EventStorming Evangelist. Podcaster at https://bettersoftwaredesign.pl
+#   bio: >
+#     Software architect, trener, ex-CTO, z branżą IT związany od ponad 20 lat.
+#     Pasjonuje się projektowaniem i implementacją systemów o złożonych wymaganiach biznesowych,
+#     machine-learningiem i procesami wytwarzania oprogramowania,
+#     które można przełożyć na realną wartość biznesową dla klienta.
+#     Speaker i współorganizator wielu otwartych spotkań dla developerów. Obecnie związany z Bottega IT Minds,
+#     gdzie ma okazję pracować z wieloma zespołami developerskimi w Polsce i Europie.
+#     Mocno zaangażowany w rozwój oraz praktyczne zastosowania EventStormingu.
+#   thumbnailUrl: mariusz-gil.jpg
+#   rockstar: true
+#   social:
+#     - {name: "github", link: "https://github.com/mariuszgil"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/mariuszgil/?originalSubdomain=pl"}
+#     - {name: "twitter", link: "https://twitter.com/mariuszgil"}
+#     - {name: "site", link: "https://bettersoftwaredesign.pl/"}
+# -
+#   id: 5
+#   name: "Konrad"
+#   surname: "Kokosa"
+#   title: >
+#     Author of http://prodotnetmemory.com, Microsoft .NET MVP, architect, performance fan,
+#     one of @dotnetosorg, author of @outofmemorygame. AFOL.
+#   bio: >
+#     Konrad Kokosa jest autorem książki Pro .NET Memory Management,
+#     Microsoft MVP w kategorii Developer Technologies, architektem, fanem wydajności i Mechanical Sympathy,
+#     a nawet Software Craftsmanship! Związany z wytwarzaniem oprogramowania w .NET od kilkunastu lat,
+#     rozwiązuje problemy wydajnościowe, zagadnienia diagnostyczne
+#     i także wspiera zespoły w wytwarzaniu rozwiązań opartych o dobrą architekturę.
+#     Jego ostatnimi pasjami staje się również gamedev oraz Web3.
+#   thumbnailUrl: konrad-kokosa.jpg
+#   rockstar: true
+#   social:
+#     - {name: "site", link: "http://blog.kokosa.net/"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/kkokosa/"}
+#     - {name: "twitter", link: "https://twitter.com/konradkokosa"}
+# -
+#   id: 6
+#   name: "Maciej"
+#   surname: "Kołodziej"
+#   thumbnailUrl: maciej-kolodziej.jpg
+#   title: ".NET developer w NewOrbit Poland Sp. z o. o."
+#   bio: >
+#     Jestem miłośnikiem projektów R&D i programowania, pracowałem z wizją komputerowa, SI, Pythonem i C++.
+#     Brałem udział w pracach nad robotem Legendary Rover na międzynarodowe zawody URC jako programista.
+#     Aktualnie skupiam się na technologiach z rodziny MS z naciskiem na .NET i rozwiązania chmury Azure
+#     pracując nad innowacyjnych inteligentnym „timesheetem”.
+# -
+#   id: 7
+#   name: "Dawid"
+#   surname: "Dragan"
+#   thumbnailUrl: dawid-dragan.jpg
+#   title: "Web Developer w NewOrbit Poland Sp. z o. o."
+#   bio: >
+#     Dawid is a Full Stack Software Developer working for NewOrbit, also as a member of the Security Skill Center.
+#     He is interested in software architecture, and security - especially OAuth and OpenID.
+#     He likes challenges and sharing knowledge with other people.
+# -
+#   id: 8
+#   name: "Krzysztof"
+#   surname: "Polewiak"
+#   thumbnailUrl: krzysztof-polewiak.jpg
+#   title: "Architekt rozwiązań w Sii Polska"
+#   bio: >
+#     Architekt rozwiązań w Sii Polska <br /><br />
 
-    Konsultant, architekt i trener rozwiązań chmury Microsoft Azure. <br /><br />
+#     Konsultant, architekt i trener rozwiązań chmury Microsoft Azure. <br /><br />
 
-    Realizował wdrożenia informatyczne i wspierał rozwiązania dla wielu firm w Polsce i za granicą. 
-    Pracował m.in. dla Banku Millennium współtworząc nowoczesne rozwiązania oparte o chmurę Azure. 
-    Przez 5 lat pracował jako konsultant i architekt w Microsoft, 
-    gdzie wspierał partnerów w zdobywaniu wiedzy w zakresie chmury. 
-    Obecnie pracuje w Sii jako Architekt rozwiązań chmury. <br /><br />
+#     Realizował wdrożenia informatyczne i wspierał rozwiązania dla wielu firm w Polsce i za granicą.
+#     Pracował m.in. dla Banku Millennium współtworząc nowoczesne rozwiązania oparte o chmurę Azure.
+#     Przez 5 lat pracował jako konsultant i architekt w Microsoft,
+#     gdzie wspierał partnerów w zdobywaniu wiedzy w zakresie chmury.
+#     Obecnie pracuje w Sii jako Architekt rozwiązań chmury. <br /><br />
 
-    Prelegent na wielu konferencjach branżowych oraz trener dla klientów jak i partnerów. 
-    Prowadził szkolenia i spotkania na żywo jak też nagrywał szkolenia on-line. 
-    Swoją wiedzą i doświadczeniem dzieli się również poprzez social media, blog czy platformę GitHub. <br /><br />
+#     Prelegent na wielu konferencjach branżowych oraz trener dla klientów jak i partnerów.
+#     Prowadził szkolenia i spotkania na żywo jak też nagrywał szkolenia on-line.
+#     Swoją wiedzą i doświadczeniem dzieli się również poprzez social media, blog czy platformę GitHub. <br /><br />
 
-    Pasjonat chmury, automatyzacji, IoT, AI oraz rozwiązań open-source, 
-    posiadacz m.in. certyfikatów Azure Solution Architect Expert oraz Azure Administrator Associate. 
--
-  id: 9
-  name: "Artur"
-  surname: "Molendowski"
-  thumbnailUrl: artur-molendowski.jpg
-  title: "Microsoft Certified Trainer (MCT)."
-  bio: >
-    W Sii Polska pracuje na stanowisku devops/cloud engineer. Na co dzień wykorzystuje usługi Microsoft Azure.
-    Wprowadza w świat chmury również studentów w Wyższej Szkole Bankowej w Warszawie. 
-    Zanim wszedł do chmury skupiał się na rozwiązaniach wirtualizacji Vmware i serwerach on-prem (Windows server, AD). 
-    Buduje i programuje roboty z klocków Lego. <br /><br />
+#     Pasjonat chmury, automatyzacji, IoT, AI oraz rozwiązań open-source,
+#     posiadacz m.in. certyfikatów Azure Solution Architect Expert oraz Azure Administrator Associate.
+# -
+#   id: 9
+#   name: "Artur"
+#   surname: "Molendowski"
+#   thumbnailUrl: artur-molendowski.jpg
+#   title: "Microsoft Certified Trainer (MCT)."
+#   bio: >
+#     W Sii Polska pracuje na stanowisku devops/cloud engineer. Na co dzień wykorzystuje usługi Microsoft Azure.
+#     Wprowadza w świat chmury również studentów w Wyższej Szkole Bankowej w Warszawie.
+#     Zanim wszedł do chmury skupiał się na rozwiązaniach wirtualizacji Vmware i serwerach on-prem (Windows server, AD).
+#     Buduje i programuje roboty z klocków Lego. <br /><br />
 
-    Prywatnie uwielbia aktywność fizyczną: biega, jeździ rowerem i trenuje na siłowni. 
-    W wolnych chwilach prowadzi podcast „Chwila dla Admina” (chwiladlaadmina.pl) 
-    skupiający się szeroko na obszarach IT i nowych technologii.
-  social:
-    - {name: "site", link: "http://chwiladlaadmina.pl/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/artur-molendowski/"}
-    - {name: "twitter", link: "https://twitter.com/AMolendowski"}
--
-  id: 10
-  name: "Paweł"
-  surname: "Grochowicz"
-  title: "Senior Java Developer, Team Leader / PGS Software"
-  thumbnailUrl: pawel-grochowicz.png
-  bio: >
-    Wielką przygodę z programowaniem zaczynał od Androida i wtedy Java skradła mu serce. Pasjonat Big Data.
-    Zdarza mu się dotykać chmur. Obecnie data engineer.
--
-  id: 11
-  name: "Rafał"
-  surname: "Cisło"
-  title: "Java Developer / PGS Software"
-  thumbnailUrl: rafal-cislo.png
-  bio: >
-    Swoją przygodę z programowaniem zaczynał od Java a obecnie specjalizuje się w zagadnieniach związanych z BigData. 
-    Wolny czas spędza przy książkach popularnonaukowych.
--
-  id: 12
-  name: "Maciej"
-  surname: "Drapała"
-  thumbnailUrl: maciej-drapala.jpg
-  title: "CIO/IT Architect/Digital Transformation/PM/ - Fabrity"
-  bio: >
-    Manager IT z ponad 10 letnim doświadczeniem zarówno od strony dostawcy systemów IT 
-    jak i klienta wdrażającego nowoczesne rozwiązania informatyczne. 
-    Często występował w roli Project Managera oraz Głównego Architekta, 
-    który samodzielnie prowadził działania operacyjne (od inicjacji, poprzez wybór rozwiązania, 
-    opracowanie architektury, podpisanie umowy aż do uruchomienia produkcyjnego i finalnego odbioru). 
-    Interesuje się nowymi technologiami, chętnie uczestniczę w projektach R&D, 
-    tworzę strategię oraz wdrażam projekty innowacyjne, 
-    których celem jest usprawnienie i optymalizacja procesów biznesowych. 
-    Obecnie jestem mocno pochłonięty przez świat platform i technologii low-code, 
-    a przy ich pomocy pomagam usprawnić i zautomatyzować rozwiązania informatyczne. 
-    Nie obce są mi również enigmatyczne skróty takie jak DPA, RPA, IoT, DMS, AI 
-    – w szczególności związane z platformami Microsoft Power Platform.
+#     Prywatnie uwielbia aktywność fizyczną: biega, jeździ rowerem i trenuje na siłowni.
+#     W wolnych chwilach prowadzi podcast „Chwila dla Admina” (chwiladlaadmina.pl)
+#     skupiający się szeroko na obszarach IT i nowych technologii.
+#   social:
+#     - {name: "site", link: "http://chwiladlaadmina.pl/"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/artur-molendowski/"}
+#     - {name: "twitter", link: "https://twitter.com/AMolendowski"}
+# -
+#   id: 10
+#   name: "Paweł"
+#   surname: "Grochowicz"
+#   title: "Senior Java Developer, Team Leader / PGS Software"
+#   thumbnailUrl: pawel-grochowicz.png
+#   bio: >
+#     Wielką przygodę z programowaniem zaczynał od Androida i wtedy Java skradła mu serce. Pasjonat Big Data.
+#     Zdarza mu się dotykać chmur. Obecnie data engineer.
+# -
+#   id: 11
+#   name: "Rafał"
+#   surname: "Cisło"
+#   title: "Java Developer / PGS Software"
+#   thumbnailUrl: rafal-cislo.png
+#   bio: >
+#     Swoją przygodę z programowaniem zaczynał od Java a obecnie specjalizuje się w zagadnieniach związanych z BigData.
+#     Wolny czas spędza przy książkach popularnonaukowych.
+# -
+#   id: 12
+#   name: "Maciej"
+#   surname: "Drapała"
+#   thumbnailUrl: maciej-drapala.jpg
+#   title: "CIO/IT Architect/Digital Transformation/PM/ - Fabrity"
+#   bio: >
+#     Manager IT z ponad 10 letnim doświadczeniem zarówno od strony dostawcy systemów IT
+#     jak i klienta wdrażającego nowoczesne rozwiązania informatyczne.
+#     Często występował w roli Project Managera oraz Głównego Architekta,
+#     który samodzielnie prowadził działania operacyjne (od inicjacji, poprzez wybór rozwiązania,
+#     opracowanie architektury, podpisanie umowy aż do uruchomienia produkcyjnego i finalnego odbioru).
+#     Interesuje się nowymi technologiami, chętnie uczestniczę w projektach R&D,
+#     tworzę strategię oraz wdrażam projekty innowacyjne,
+#     których celem jest usprawnienie i optymalizacja procesów biznesowych.
+#     Obecnie jestem mocno pochłonięty przez świat platform i technologii low-code,
+#     a przy ich pomocy pomagam usprawnić i zautomatyzować rozwiązania informatyczne.
+#     Nie obce są mi również enigmatyczne skróty takie jak DPA, RPA, IoT, DMS, AI
+#     – w szczególności związane z platformami Microsoft Power Platform.
 
--
-  id: 13
-  name: "Damian"
-  surname: "Naprawa"
-  bio: >
-    Software Architect, entuzjasta konteneryzacji i trener. 
-    Pomaga zespołom w zrozumieniu kontenerów oraz w migrowaniu aplikacji do chmury i Kubernetes. 
-    Dzieli się wiedzą na swoim blogu i podkaście — <a href="wkontenerach.pl" title="wkontenerach.pl">wkontenerach.pl</a> oraz w autorskich kursach online. 
-    Fan automatyzacji i podejścia „As a Code”. Po godzinach amatorsko kopie w piłkę.
-  thumbnailUrl: damian-naprawa.jpg
--
-  id: 14
-  name: "Michał"
-  surname: "Borkowski"
-  thumbnailUrl: michal-borkowski.jpg
-  bio: >
-    Michał tworzy oprogramowanie. 
-    Kiedy nie programuje, lubi dzielić się wiedzą z praktykantami, studentami i przypadkowymi przechodniami. 
-    W wolnym czasie lubi eksperymentować z niszowymi technologiami i robić proste rzeczy od podstaw 
-    - wynajdować koło na nowo. Zwykle używa narzędzia odpowiedniego do zadania 
-    ale jego ulubione środowisko programistyczne to vim + tmux + czarno-biała konsola. 
-    Słynie z tego że dzieli się swoją skromną wiedzą z innymi w formie anegdotek, czy tego chcą czy nie.
--
-  id: 15
-  name: "Krzysztof"
-  surname: "Czopek"
-  thumbnailUrl: krzysztof-czopek.jpg
-  bio: >
-    Od ponad 4 lat pracuje w zawodzie, obecnie jako Software Engineer
-    skupiony na rozwoju aplikacji webowych po stronie backendu. 
-    Bardzo przywiązany do idei "Software Craftsmanship", ciągle pracuje zarówno nad poprawą swojego rzemiosła, 
-    jak i dzieleniem się wiedzą z innymi programistami. 
-    Obecnie skupia się na pogłębieniu wiedzy z zakresu technologii blockchain i szeroko pojętego nurtu Web3.
+# -
+#   id: 13
+#   name: "Damian"
+#   surname: "Naprawa"
+#   bio: >
+#     Software Architect, entuzjasta konteneryzacji i trener.
+#     Pomaga zespołom w zrozumieniu kontenerów oraz w migrowaniu aplikacji do chmury i Kubernetes.
+#     Dzieli się wiedzą na swoim blogu i podkaście — <a href="wkontenerach.pl" title="wkontenerach.pl">wkontenerach.pl</a> oraz w autorskich kursach online.
+#     Fan automatyzacji i podejścia „As a Code”. Po godzinach amatorsko kopie w piłkę.
+#   thumbnailUrl: damian-naprawa.jpg
+# -
+#   id: 14
+#   name: "Michał"
+#   surname: "Borkowski"
+#   thumbnailUrl: michal-borkowski.jpg
+#   bio: >
+#     Michał tworzy oprogramowanie.
+#     Kiedy nie programuje, lubi dzielić się wiedzą z praktykantami, studentami i przypadkowymi przechodniami.
+#     W wolnym czasie lubi eksperymentować z niszowymi technologiami i robić proste rzeczy od podstaw
+#     - wynajdować koło na nowo. Zwykle używa narzędzia odpowiedniego do zadania
+#     ale jego ulubione środowisko programistyczne to vim + tmux + czarno-biała konsola.
+#     Słynie z tego że dzieli się swoją skromną wiedzą z innymi w formie anegdotek, czy tego chcą czy nie.
+# -
+#   id: 15
+#   name: "Krzysztof"
+#   surname: "Czopek"
+#   thumbnailUrl: krzysztof-czopek.jpg
+#   bio: >
+#     Od ponad 4 lat pracuje w zawodzie, obecnie jako Software Engineer
+#     skupiony na rozwoju aplikacji webowych po stronie backendu.
+#     Bardzo przywiązany do idei "Software Craftsmanship", ciągle pracuje zarówno nad poprawą swojego rzemiosła,
+#     jak i dzieleniem się wiedzą z innymi programistami.
+#     Obecnie skupia się na pogłębieniu wiedzy z zakresu technologii blockchain i szeroko pojętego nurtu Web3.

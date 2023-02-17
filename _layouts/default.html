@@ -78,13 +78,13 @@ layout: compress
                             id: "{{ speaker.id }}",
                             rockstar: "{{ speaker.rockstar }}",
                             name: "{{ speaker.name }} {{ speaker.surname }}",
-                            company: "{{ speaker.company }}", 
+                            company: "{{ speaker.company }}",
                             image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}",
                             session: "{% for session in site.data.sessions %} {% for session_speaker in session.speakers %} {% if session_speaker == speaker.id and session.subtype == 'presentation' %} {{ session.title }} {% endif %} {% endfor %} {% endfor %}"
                         }{% if forloop.index != forloop.length %},{% endif %}
                     {% endfor %}
                 ];
-                
+
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()}).sort(function(item){
                     return item.rockstar === "true" ? 1 : -1;
                 }).sort(function(item){
@@ -153,7 +153,7 @@ layout: compress
     {% endif %}
 
     <!--script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script-->
-    <script type="text/javascript" src="https://app.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
+    <!--script type="text/javascript" src="https://app.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
     <script type="text/javascript">
      $(window).load(function() {
        var f = document.createElement('iframe');
@@ -164,7 +164,7 @@ layout: compress
        $('#tickets-placeholder').append(f);
        $('iframe').iFrameResize([{}]);
      });
-    </script>
+    </script-->
 
     <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@11.0.6/dist/lazyload.min.js"></script>
     <script type="text/javascript">
