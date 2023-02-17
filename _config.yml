@@ -129,7 +129,7 @@ lastEditionImage: "edition2022.jpg"
 lastEditionTitle: "Jak było w 2022 roku?"
 lastEditionButtons:
    - {link: "https://www.facebook.com/craftitpl/posts/pfbid02QCTaffNmcwR2V7YWkjDDgjwRXNtYWBib7C3nH7aJEYoCZo7FagozeoBSduXpYA8Gl", text: "Relacja fotograficzna"}
-   - {link: "https://www.youtube.com/watch?v=_wUUtM-MiDI", text: "Relacja wideo"}
+   - {link: "https://www.youtube.com/watch?v=_wUUtM-MiDI&list=PLbZvErsS2PmFbaSniSp2e6-N12dsMx6tK ", text: "Relacja wideo"}
 
 # Tickets Block
 ticketsTitle: "Bilety"
