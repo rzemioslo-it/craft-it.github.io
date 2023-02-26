@@ -151,18 +151,23 @@ layout: compress
     {% endif %}
 
     <!--script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script-->
-    <!--script type="text/javascript" src="https://app.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
+    <script type="text/javascript" src="https://app.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
     <script type="text/javascript">
      $(window).load(function() {
        var f = document.createElement('iframe');
-       f.src = "https://app.evenea.pl/event/craft-it-2022/?out=1&source=event_iframe";
+       f.src = "https://app.evenea.pl/event/craft-it-2023/?out=1&source=event_iframe";
        f.width = '100%';
        f.scrolling = 'no';
        f.style = 'border: 0';
+       f.id = 'evenea-frame';
+       f.name = 'evenea-frame';
+       f.onload = function(){
+           console.log("evenea?", window.frames["evenea-frame"].document.getElementById('voucher_code_access_field'));
+       };
        $('#tickets-placeholder').append(f);
        $('iframe').iFrameResize([{}]);
      });
-    </script-->
+    </script>
 
     <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@11.0.6/dist/lazyload.min.js"></script>
     <script type="text/javascript">
