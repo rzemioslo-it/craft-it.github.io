@@ -1,16 +1,21 @@
 # ################################## PRESENTATION ##################################
-# - id: 201
-#   title: "Event-Driven – to jednak nie takie proste"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     Po wielu latach ciężkiej pracy, nasz Gwidon zostaje Cloud-Native-Event-Driven-Data-Intensive-Hyper-Scale
-#     Architektem w jednej z renomowanych firm.
-#     Jeśli istnieje jedna rzecz, której jest on pewien, będąc na tym stanowisku, to jest to fakt,
-#     że komunikacja oparta o zdarzenia (eventy), zmniejsza zależności (coupling)
-#     pomiędzy komponentami (mikro-serwisami) i daje im autonomiczność (cokolwiek to znaczy).
-#     Nie wie jeszcze, że najbliższe wydarzenia pokażą mu, w jak wielkim tkwił błędzie …
-#   speakers: [ 1 ]
+- id: 201
+  title: "25 lat mijania się z prawdą"
+  place: ""
+  subtype: presentation
+  description: >
+    Kto nie chciałby zobaczyć, jak tym wystąpieniem niszczę swoją karierę?
+    Minęło 25 lat, co brzmi jak wyrok za ciężką zbrodnię z mrocznych zakątków kodeksu karnego, ale dla mnie to czas podsumowań.
+    Prezentacja, stand-up, coaching? - nazwijcie to jak chcecie. Będzie o naszej branży, biznesie i o nas samych,
+    o "uniwersalnych kłamstwach", które często powtarzane stają się prawdą.
+    To będzie brutalny przewodnik po karierze w IT. Wielu z was zapewne poczuje się urażonych, ale jestem gotów na to poświęcenie.
+    Czy wybór technologii ma znaczenie? Dlaczego większość stanowisk to "bullshit jobs"? Czy greenfieldy naprawdę są takie fajne?
+    Komu potrzebne są estymaty? Co się dzieje, kiedy nie udaje się dowieźć sprintu? Jak feedback stał się rakiem toczącym organizacje?
+    Dlaczego duża część z nas ma wrażenie, że ciągle robi to samo? I jak w tym bajzlu zachować szacunek do siebie,
+    zdrowie psychiczne i dobrze bawić się przez 25 lat? Postaram się odpowiedzieć na te i inne pytania,
+    które sam sobie stawiam od dłuższego czasu.
+    Ci którzy odsieją śmiech przez łzy w tej prezentacji, odnajdą kilka cennych rad jak pokierować swoją karierą.
+  speakers: [ 1 ]
 # - id: 202
 #   title: "Bounded Context - jak modularyzować systemy w kilku krokach"
 #   place: ""
