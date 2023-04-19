@@ -31,31 +31,17 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/krzysztofkedzierski/"}
     - {name: "twitter", link: "https://twitter.com/kkedzierski87"}
-# -
-#   id: 3
-#   name: "Oskar"
-#   surname: "Dudycz"
-#   title: "DevAdvocate at Event Store / Marten Maintainer"
-#   bio: >
-#     Od prawie 14 lat, tworzę systemy informatyczne bliskie biznesowi.
-#     Zaczynałem karierę gdy StackOverflow jeszcze nie istniał. Jestem programistą, liderem technicznym, architektem.
-#     Lubię tworzyć dobrze przemyślane systemy, narzędzia i frameworki,
-#     które są używane na produkcji i robią życie ludzi łatwiejszym. Wierzę, żę Event Sourcing, CQRS, i w ogólności,
-#     Architektury oparte na zdarzeniach są dobrymi podstawami dzięki którymi można to osiągnąć.
-#     Praca przy OSS i współdzielenie wiedzy są dla mnie dużą motywacją. Aktualnie pracuję jako DevAdvocate w Event Store
-#     pomagając w rozbudowie unikalnego produktu bazodanowego, w którym zdarzenia są obywatelem pierwszej klasy.
-#     Jestem również współmainainerem biblioteki .NET Marten,
-#     która pozwala zamienić Postgres w bazę dokumentową oraz Event Store.
-#   thumbnailUrl: oskar-dudycz.jpg
-#   rockstar: true
-#   social:
-#     - {name: "site", link: "https://event-driven.io/pl/"}
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/oskardudycz/"}
-#     - {name: "facebook", link: "https://www.facebook.com/Oskar.At.NET"}
-#     - {name: "twitter", link: "https://twitter.com/oskar_at_net"}
-#     - {name: "github", link: "https://github.com/oskardudycz"}
-#     - {name: "youtube", link: "https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg"}
-#     - {name: "rss", link: "https://event-driven.io/rss.xml"}
+-
+  id: 3
+  name: "Michał"
+  surname: "Borkowski"
+  bio: >
+    Michał tworzy oprogramowanie w Xebia. Kiedy nie programuje, lubi dzielić się wiedzą ze studentami i przypadkowymi przechodniami.
+    W wolnym czasie lubi eksperymentować z niszowymi technologiami i robić proste rzeczy od podstaw - wynajdować koło na nowo.
+    Zwykle używa narzędzia odpowiedniego do zadania, ale jego ulubione środowisko programistyczne to vim + tmux + czarno-biała konsola.
+    Słynie z tego że dzieli się swoją skromną wiedzą z innymi w formie anegdotek, czy tego chcą czy nie.
+  thumbnailUrl: michal-borkowski.jpg
+  rockstar: true
 # -
 #   id: 4
 #   name: "Mariusz"

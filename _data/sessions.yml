@@ -28,20 +28,16 @@
     <p>W trakcie prezentacji spojrzę na temat szybkości wytwarzania oprogramowania – problemy, przyczyny i rozwiązania z różnych perspektyw.
     Pokażę kto znajduje się w centrum tego zagadnienia i jak może sprawić by było lepiej 😉</p>
   speakers: [ 2 ]
-# - id: 203
-#   title: "Blaski i Cienie Architektur Opartych na Zdarzeniach."
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     Ostatnio Architektury Oparte na Zdarzeniach stały się jednym z najpopularniejszych "buzz-wordów".
-#     Pokazywane są jako modelowa droga nowoczesnych, skalowalnych systemów.
-#     W trakcie prezentacji zagram adwokata diabła i pokażę, co może się nie udać.
-#     Pokażę, że to doświadczenie może być bolesne. Opowiem, jak można skończyć z rozproszonym monolitem
-#     i konkretnymi wskazówkami, jak temu zapobiec.
-#     Wyjaśnię wszystkie te enigmatyczne terminy, takie jak idempotentność, eventual consistency,
-#     at-least once delivery itp. Obalę kilka mitów i pokażę fakty bez ewangelizacji.
-#     Całość doprawiona będzie dawką zdrowego pragmatyzmu.
-#   speakers: [ 3 ]
+- id: 203
+  title: "Dyskrecja DevOpsa. Co robimy w ukryciu?"
+  place: ""
+  subtype: presentation
+  description: >
+    Bezpieczeństwo danych, wdrożenia na produkcję, milionowe biznesy i dostęp tylko w razie potrzeby.
+    Wszystkie aspekty automatyzacji budowania i wdrażania aplikacji w zabezpieczonym środowisku składają się na obraz zadania,
+     które jednocześnie ma dobrze znane prawidłowe rozwiązania i bardzo łatwo zrealizować je źle.
+     A ponieważ konsekwencje zaniedbań mogą spowodować nagłe zmiany w karierze, to warto o nich pomyśleć wcześniej. Zróbmy to teraz.
+  speakers: [ 3 ]
 
 # - id: 204
 #   title: "Divide & Conquer - Context Mapping"
