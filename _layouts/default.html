@@ -157,6 +157,7 @@ layout: compress
        var f = document.createElement('iframe');
        f.src = "https://app.evenea.pl/event/craft-it-2023/?out=1&source=event_iframe";
        f.width = '100%';
+       f.height = '600px';
        f.scrolling = 'no';
        f.style = 'border: 0';
        f.id = 'evenea-frame';
@@ -165,6 +166,16 @@ layout: compress
            console.log("evenea?", window.frames["evenea-frame"].document.getElementById('voucher_code_access_field'));
        };
        $('#tickets-placeholder').append(f);
+       $('iframe').iFrameResize([{}]);
+
+       var ff = document.createElement('iframe');
+       ff.src = "https://app.evenea.pl/event/craft-it-2023-warsztaty/?out=1&source=event_iframe";
+       ff.width = '100%';
+       ff.scrolling = 'no';
+       ff.style = 'border: 0';
+       ff.id = 'evenea-frame-2';
+       ff.name = 'evenea-frame-2';
+       $('#tickets-placeholder').append(ff);
        $('iframe').iFrameResize([{}]);
      });
     </script>
