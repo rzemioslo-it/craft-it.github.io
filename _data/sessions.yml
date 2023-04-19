@@ -16,21 +16,18 @@
     które sam sobie stawiam od dłuższego czasu.
     Ci którzy odsieją śmiech przez łzy w tej prezentacji, odnajdą kilka cennych rad jak pokierować swoją karierą.
   speakers: [ 1 ]
-# - id: 202
-#   title: "Bounded Context - jak modularyzować systemy w kilku krokach"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     <p>Ilu z was było w systemach, gdzie wprowadzenie najmniejszej funkcjonalności wiązało się ze zmiami przez cały system?
-#     Gdy dodanie dodatkowego pola na fakturze wymagało zmiany w zamówieniach i sklepie?
-#     A przecież to powinny być całkowicie odseparowane od siebie obszary.
-#     Powinny - gdyby budowano system mając z tyłu głowy technikę Bounded Context.</p>
-#      <p>W prezentacji chciałbym pokazać czym jest technika Bounded Context i jak pozwala nam
-#     tworzyć zmodularyzowane systemy.
-#     Dzięki niej zamkniemy funkcje biznesowe wewnątrz autonomicznych obszarów, ochronimy się przed zmianami z zewnątrz,
-#     udostępnimy tylko kluczowe informacje. Dzięki temu nasz system będzie rozwijalny, a nowe funkcje
-#     wdrażalne szybciej i z mniejszą ilością problemów</p>
-#   speakers: [ 2 ]
+- id: 202
+  title: "Wolni jak ślimaki, pasywni jak rurkowce"
+  place: ""
+  subtype: presentation
+  description: >
+    <p>Jest rok 2023. Postęp technologiczny, który widzimy robi wrażenie.
+    Mimo to pytanie, które w kuluarach zadaje sobie wiele (większość?) firm wytwarzających oprogramowanie brzmi “Co zrobić by software development był u nas szybszy?
+    Okazuje się, że jako ruch Software Craftsmanship mamy odpowiedź na to pytanie. </p>
+
+    <p>W trakcie prezentacji spojrzę na temat szybkości wytwarzania oprogramowania – problemy, przyczyny i rozwiązania z różnych perspektyw.
+    Pokażę kto znajduje się w centrum tego zagadnienia i jak może sprawić by było lepiej 😉</p>
+  speakers: [ 2 ]
 # - id: 203
 #   title: "Blaski i Cienie Architektur Opartych na Zdarzeniach."
 #   place: ""

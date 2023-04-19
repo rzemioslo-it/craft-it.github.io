@@ -16,25 +16,21 @@
   social:
    - {name: "linkedin", link: "https://www.linkedin.com/in/jpalka/"}
    - {name: "twitter", link: "https://twitter.com/j_palka"}
-# -
-#   id: 2
-#   name: "Radosław "
-#   surname: "Maziarka"
-#   title: "Consultant / Trainer"
-#   bio: >
-#     Solution Architect i Engineering Manager w obszarze Azure.
-#     Pracuje przy pełnym zakresie tworzenia produktów cyfrowych - od analizy wymagań, przez architekturę i budowę
-#     systemu informatycznego, po jego utrzymanie na produkcji.
-#     Po pracy realizuje konsultacje i warsztaty dla firm oraz wspomaga technologicznie organizacje pozarządowe.
-#     Zwolennik pracy zwinnej i ciągłego samodoskonalenia.
-#     Można go złapać na blogu <a href="https://radekmaziarka.pl/">https://radekmaziarka.pl/</a> i Twitterze
-#   thumbnailUrl: radek-maziarka.jpg
-#   rockstar: true
-#   social:
-#     - {name: "site", link: "https://radekmaziarka.pl/"}
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/maziarka-radoslaw/"}
-#     - {name: "facebook", link: "https://www.facebook.com/radblog.radek.maziarka"}
-#     - {name: "twitter", link: "https://twitter.com/RadekMaziarka/"}
+-
+  id: 2
+  name: "Krzysztof"
+  surname: "Kędzierski"
+  title: "Engineering Leader"
+  bio: >
+    Swoją przygodę z IT rozpoczynał od ról developerskich, stopniowo wchodząc w role liderskie/managerskie.
+    Pracował w firmach o różnej specyfice jak software house, startup/scaleup, duża firma produktowa, bank inwestycyjny.
+    Specjalizuje się w architekturze na przecięciu z zarządzaniem zespołami i organizacją.
+    Prywatnie: wielki fan piłki nożnej.
+  thumbnailUrl: krzysztof-kedzierski.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/krzysztofkedzierski/"}
+    - {name: "twitter", link: "https://twitter.com/kkedzierski87"}
 # -
 #   id: 3
 #   name: "Oskar"
