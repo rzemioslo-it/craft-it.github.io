@@ -46,20 +46,20 @@
   id: 4
   name: "Jakub"
   surname: "Pilimon"
-  thumbnailUrl: placeholder.png
-  rockstar: false
+  thumbnailUrl: jakub-pilimon.jpeg
+  rockstar: true
 -
   id: 5
   name: "Jakub"
   surname: "Nabrdalik"
-  thumbnailUrl: placeholder.png
-  rockstar: false
+  thumbnailUrl: jakub_nabrdalik.jpg
+  rockstar: true
 -
   id: 6
   name: "Wojtek"
   surname: "Ptak"
-  thumbnailUrl: placeholder.png
-  rockstar: false
+  thumbnailUrl: wojtek-ptak.jpg
+  rockstar: true
 -
   id: 7
   name: "Wiktor"
@@ -71,19 +71,24 @@
   name: "Barbara"
   surname: "Kozioł"
   thumbnailUrl: placeholder.png
-  rockstar: false
+  bio: >
+    Specjalistka do spraw zachowania jakości, fanka podejścia TestOps oraz testów Accessibility. 
+    Dbaniem o jakość zajmuje się ponad pięć lat. 
+    W Xebia oprócz pracy projekcie zajmuje się koordynowaniem działań Gildii Accessibility. 
+    W wolnym czasie spaceruje lub czyta książki.
+  rockstar: true
 -
   id: 9
   name: "Piotr"
   surname: "Stapp"
-  thumbnailUrl: placeholder.png
-  rockstar: false
+  thumbnailUrl: piotr-stapp.jpg
+  rockstar: true
 -
   id: 10
   name: "Wojciech"
   surname: "Rząsa"
-  thumbnailUrl: placeholder.png
-  rockstar: false
+  thumbnailUrl: wojciech-rzasa.jpg
+  rockstar: true
 -
   id: 11
   name: "TBD"
