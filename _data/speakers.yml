@@ -1,5 +1,4 @@
--
-  id: 1
+- id: 1
   name: "Jarosław"
   surname: "Pałka"
   title: "Software Consultant/Architect/Trainer"
@@ -14,10 +13,9 @@
   thumbnailUrl: jarek-palka.jpg
   rockstar: true
   social:
-   - {name: "linkedin", link: "https://www.linkedin.com/in/jpalka/"}
-   - {name: "twitter", link: "https://twitter.com/j_palka"}
--
-  id: 2
+    - { name: "linkedin", link: "https://www.linkedin.com/in/jpalka/" }
+    - { name: "twitter", link: "https://twitter.com/j_palka" }
+- id: 2
   name: "Krzysztof"
   surname: "Kędzierski"
   title: "Engineering Leader"
@@ -29,10 +27,9 @@
   thumbnailUrl: krzysztof-kedzierski.jpeg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/krzysztofkedzierski/"}
-    - {name: "twitter", link: "https://twitter.com/kkedzierski87"}
--
-  id: 3
+    - { name: "linkedin", link: "https://www.linkedin.com/in/krzysztofkedzierski/" }
+    - { name: "twitter", link: "https://twitter.com/kkedzierski87" }
+- id: 3
   name: "Michał"
   surname: "Borkowski"
   bio: >
@@ -42,32 +39,27 @@
     Słynie z tego że dzieli się swoją skromną wiedzą z innymi w formie anegdotek, czy tego chcą czy nie.
   thumbnailUrl: michal-borkowski.jpg
   rockstar: true
--
-  id: 4
+- id: 4
   name: "Jakub"
   surname: "Pilimon"
   thumbnailUrl: jakub-pilimon.jpeg
   rockstar: true
--
-  id: 5
+- id: 5
   name: "Jakub"
   surname: "Nabrdalik"
   thumbnailUrl: jakub_nabrdalik.jpg
   rockstar: true
--
-  id: 6
+- id: 6
   name: "Wojtek"
   surname: "Ptak"
   thumbnailUrl: wojtek-ptak.jpg
   rockstar: true
--
-  id: 7
+- id: 7
   name: "Wiktor"
   surname: "Sztajerowski"
   thumbnailUrl: placeholder.png
   rockstar: false
--
-  id: 8
+- id: 8
   name: "Barbara"
   surname: "Kozioł"
   thumbnailUrl: placeholder.png
@@ -77,40 +69,52 @@
     W Xebia oprócz pracy projekcie zajmuje się koordynowaniem działań Gildii Accessibility. 
     W wolnym czasie spaceruje lub czyta książki.
   rockstar: true
--
-  id: 9
+- id: 9
   name: "Piotr"
   surname: "Stapp"
   thumbnailUrl: piotr-stapp.jpg
   rockstar: true
--
-  id: 10
+- id: 10
   name: "Wojciech"
   surname: "Rząsa"
   thumbnailUrl: wojciech-rzasa.jpg
   rockstar: true
--
-  id: 11
+- id: 11  # SII
+  name: "Artur"
+  surname: "Molendowski"
+  title: "Microsoft Azure MVP, Microsoft Certified Trainer (MCT)"
+  thumbnailUrl: artur-molendowski.png
+  descritpion: >
+    W Sii Polska pracuje na stanowisku DevOps/Cloud Engineer. Na co dzień wykorzystuje usługi Microsoft Azure. 
+    Buduje i programuje roboty z klocków Lego. 
+    Prowadzi podcast „Chwila dla Admina” (chwiladlaadmina.pl) skupiający się szeroko na obszarach IT i nowych technologii. 
+    Organizator meetupów Microsoft Azure User Group Poland, prelegent na konferencjach i webinarach.
+  social:
+    - { name: "site", link: "http://chwiladlaadmina.pl/" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/artur-molendowski/" }
+    - { name: "twitter", link: "https://twitter.com/AMolendowski" }
+- id: 12 #New Orbit
+  name: "Jakub"
+  surname: "Koleżyński"
+  thumbnailUrl: jakub-kolezynski.jpg
+  description: >
+    Inżynier oprogramowania, dotnetowiec, full stack. 
+    Dociekliwie chce wszystko rozłożyć na czynniki pierwsze, a wyzwania traktuje jako szansę do rozwoju. 
+    Posiada backendowe korzenie i rozkwitającą pasję do frontendu, ale najbardziej uwielbia po prostu budować 
+    - wspólnie, samodzielnie, z potrzeby czy dla eksperymentu, zawsze chce znaleźć najprostsze rozwiązanie.  
+    Zawodowo pisał dla różnorodnej widowni, od przemysłu ciężkiego po korporacje finansowe, 
+    a aktualnie doskonale bawi się w NewOrbit, wymieniając się doświadczeniem i szlifując swoje rzemiosło.
+  social:
+    - { name: "site", link: "https://kolezyn.ski/" }
+- id: 13
   name: "TBD"
   surname: "TBD"
   thumbnailUrl: placeholder.png
--
-  id: 12
+- id: 14
   name: "TBD"
   surname: "TBD"
   thumbnailUrl: placeholder.png
--
-  id: 13
-  name: "TBD"
-  surname: "TBD"
-  thumbnailUrl: placeholder.png
--
-  id: 14
-  name: "TBD"
-  surname: "TBD"
-  thumbnailUrl: placeholder.png
--
-  id: 15
+- id: 15
   name: "TBD"
   surname: "TBD"
   thumbnailUrl: placeholder.png
