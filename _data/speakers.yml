@@ -46,61 +46,74 @@
   id: 4
   name: "Jakub"
   surname: "Pilimon"
-  rockstar: true
+  thumbnailUrl: placeholder.png
+  rockstar: false
 -
   id: 5
   name: "Jakub"
   surname: "Nabrdalik"
-  rockstar: true
+  thumbnailUrl: placeholder.png
+  rockstar: false
 -
   id: 6
   name: "Wojtek"
   surname: "Ptak"
-  rockstar: true
+  thumbnailUrl: placeholder.png
+  rockstar: false
 -
   id: 7
   name: "Wiktor"
   surname: "Sztajerowski"
-  rockstar: true
+  thumbnailUrl: placeholder.png
+  rockstar: false
 -
   id: 8
   name: "Barbara"
   surname: "Kozioł"
-  rockstar: true
+  thumbnailUrl: placeholder.png
+  rockstar: false
 -
   id: 9
   name: "Piotr"
   surname: "Stapp"
-  rockstar: true
+  thumbnailUrl: placeholder.png
+  rockstar: false
 -
   id: 10
   name: "Wojciech"
   surname: "Rząsa"
-  rockstar: true
+  thumbnailUrl: placeholder.png
+  rockstar: false
 -
   id: 11
   name: "TBD"
   surname: "TBD"
+  thumbnailUrl: placeholder.png
 -
   id: 12
   name: "TBD"
   surname: "TBD"
+  thumbnailUrl: placeholder.png
 -
   id: 13
   name: "TBD"
   surname: "TBD"
+  thumbnailUrl: placeholder.png
 -
   id: 14
   name: "TBD"
   surname: "TBD"
+  thumbnailUrl: placeholder.png
 -
   id: 15
   name: "TBD"
   surname: "TBD"
+  thumbnailUrl: placeholder.png
 -
   id: 16
   name: "TBD"
   surname: "TBD"
+  thumbnailUrl: placeholder.png
 # -
 #   id: 4
 #   name: "Mariusz"
