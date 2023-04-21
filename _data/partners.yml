@@ -1,15 +1,14 @@
 #-
-  group: "Główny Partner Konferencji"
+group: "Główny Partner Konferencji"
+elements:
+  - { name: "JitTeam", description: "JitTeam", link: "https://jit.team/", imageUrl: "jit-team.png", class: "special" }
+- group: "Partnerzy złoci"
   elements:
-    - {name: "JitTeam", description: "JitTeam", link: "https://jit.team/", imageUrl: "jit-team.png", class: "special"}
- -
-   group: "Partnerzy złoci"
-   elements:
-     - {name: "Xebia", description: "Xebia", link: "https://xebia.com/", imageUrl: "xebia.png", class: "special"}
-     - {name: "Fabrity", description: "Fabrity", link: "https://www.fabrity.pl/", imageUrl: "fabrity-v2.png", class: "special"}
-     - {name: "SII", description: "SII", link: "https://sii.pl/", imageUrl: "sii.svg", class: "special"}
-     - {name: "New Orbit", description: "New Orbit", link: "https://neworbit.pl/", imageUrl: "new-orbit.svg", class: "special"}
-     - {name: "Amsterdam Standard", description: "Amsterdam Standard", link: "https://amsterdamstandard.com/", imageUrl: "amsterdamstandard.png", class: "special-2"}
+    - { name: "Xebia", description: "Xebia", link: "https://xebia.com/", imageUrl: "xebia.png", class: "special" }
+    - { name: "Fabrity", description: "Fabrity", link: "https://www.fabrity.pl/", imageUrl: "fabrity-v2.png", class: "special" }
+    - { name: "SII", description: "SII", link: "https://sii.pl/", imageUrl: "sii.svg", class: "special" }
+    - { name: "New Orbit", description: "New Orbit", link: "https://neworbit.pl/", imageUrl: "new-orbit.svg", class: "special" }
+    - { name: "Amsterdam Standard", description: "Amsterdam Standard", link: "https://amsterdamstandard.com/", imageUrl: "amsterdamstandard.png", class: "special-2" }
 # -
 #   group: "Partnerzy brązowi"
 #   elements:
@@ -22,11 +21,10 @@
 ##    - {name: "Podkarpackie - przestrzeń otwarta", description: "Podkarpackie - przestrzeń otwarta", link: "http://www.podkarpackie.pl", imageUrl: "podkarpackie.png", class: "special"}
 ##    - {name: "PCI", description: "Podkarpackie Centrum Innowacji", link: "http://www.pcinn.org/", imageUrl: "pci.png", class: "special"}
 ##    - {name: "RARR - UM", description: "", link: "", imageUrl: "rarr-um.jpg", class: "special-3"}
- -
-  group: "Partnerzy społecznościowi"
+- group: "Partnerzy społecznościowi"
   elements:
-    - {name: "rg-dev", description: "Rzeszowska Grupa rg-dev", link: "https://www.meetup.com/pl-PL/rg-dev/", imageUrl: "rg-dev.png"}
-    - {name: "RRUG", description: "Rzeszów Ruby User Group", link: "http://rrug.pl/", imageUrl: "rrug.png"}
+    - { name: "rg-dev", description: "Rzeszowska Grupa rg-dev", link: "https://www.meetup.com/pl-PL/rg-dev/", imageUrl: "rg-dev.png" }
+    - { name: "RRUG", description: "Rzeszów Ruby User Group", link: "http://rrug.pl/", imageUrl: "rrug.png" }
 #     - {name: "RZE.NET", description: "RZE.NET", link: "https://www.meetup.com/pl-PL/Rzeszow-NET/", imageUrl: "rze-net.png"}
 #     - {name: "Rzeszów .NET Mobile", description: "Rzeszów .NET Mobile Xamarin Meetup", link: "https://www.meetup.com/pl-PL/Rzeszow-NET-Mobile-Xamarin-Meetup/", imageUrl: "rze-mobile.jpeg"}
 #     - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
