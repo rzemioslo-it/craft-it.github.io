@@ -38,6 +38,9 @@
      które jednocześnie ma dobrze znane prawidłowe rozwiązania i bardzo łatwo zrealizować je źle.
      A ponieważ konsekwencje zaniedbań mogą spowodować nagłe zmiany w karierze, to warto o nich pomyśleć wcześniej. Zróbmy to teraz.
   speakers: [ 3 ]
+- id: 204
+  title: "Beyond Clean Code: Ethernal architectural practises"
+  speakers: [ 4 ]
 - id: 208
   title: "Dla kogo my to robimy?"
   place: ""
