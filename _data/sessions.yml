@@ -39,20 +39,18 @@
      A ponieważ konsekwencje zaniedbań mogą spowodować nagłe zmiany w karierze, to warto o nich pomyśleć wcześniej. Zróbmy to teraz.
   speakers: [ 3 ]
 
-# - id: 204
-#   title: "Divide & Conquer - Context Mapping"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     Zmiana. Jedyna stała rzecz w życiu i projekcie IT, bo przecież niemal zawsze wymagania będą ulegały kolejnym zmianom.
-#     I tu czasem powstaje duży problem,
-#     ponieważ zmiana w jednej części systemu pociąga za sobą kaskady zmiany w innych miejscach.
-#     Ale w naszym developerskim toolboksie mamy narzędzia Bounded Contextu i Context Mappingu,
-#     dzięki którym możemy zapanować nad tym chaosem,
-#     zaprojektować granice modeli w systemie czy ustalić sposoby ich łączenia.
-#     A to otwiera nam już drogę do strategicznych decyzji architektonicznych i organizacji zespołów.
-#     Krótki mówiąc - dziel, łącz i zwyciężaj!
-#   speakers: [ 4 ]
+ - id: 208
+   title: "Dla kogo my to robimy?"
+   place: ""
+   subtype: presentation
+   description: >
+     Nasza praca to robienie oprogramowania. 
+     W pędzie codziennych zadań często myślimy o kolejnych wymaganiach do zaimplementowania, 
+     kolejnych pull requestach do wystawienia, o jakości kodu i o tym, żeby wyrobić się w czasie. 
+     Czy pamiętamy wtedy o użytkownikach końcowych? Kim są? W jakim wieku są? Skąd pochodzą? 
+     Czy mają jakieś specjalne potrzeby? I dlaczego warto rozważać te pytania? Spotkajmy się i porozmawiajmy. 
+     Na prezentacji poznacie Darka, personę, która w swojej ewolucji będzie reprezentować wielu z nas.
+   speakers: [ 8 ]
 
 # - id: 205
 #   title: "Web3 - co i po co? hit czy kit, i jak w to wejść jako programista"
