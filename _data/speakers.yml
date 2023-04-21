@@ -42,6 +42,41 @@
     Słynie z tego że dzieli się swoją skromną wiedzą z innymi w formie anegdotek, czy tego chcą czy nie.
   thumbnailUrl: michal-borkowski.jpg
   rockstar: true
+-
+  id: 4
+  name: "Jakub"
+  surname: "Pilimon"
+  rockstar: true
+-
+  id: 5
+  name: "Jakub"
+  surname: "Nabrdalik"
+  rockstar: true
+-
+  id: 6
+  name: "Wojtek"
+  surname: "Ptak"
+  rockstar: true
+-
+  id: 7
+  name: "Wiktor"
+  surname: "Sztajerowski"
+  rockstar: true
+-
+  id: 8
+  name: "Barbara"
+  surname: "Kozioł"
+  rockstar: true
+-
+  id: 9
+  name: "Piotr"
+  surname: "Stapp"
+  rockstar: true
+-
+  id: 10
+  name: "Wojciech"
+  surname: "Rząsa"
+  rockstar: true
 # -
 #   id: 4
 #   name: "Mariusz"
