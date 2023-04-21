@@ -40,6 +40,9 @@
   speakers: [ 3 ]
 - id: 204
   title: "Beyond Clean Code: Ethernal architectural practises"
+  subtype: presentation
+  description: >
+    TBD
   speakers: [ 4 ]
 - id: 208
   title: "Dla kogo my to robimy?"
