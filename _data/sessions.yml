@@ -44,6 +44,23 @@
   description: >
     TBD
   speakers: [ 4 ]
+- id: 207
+  title: "Rewolucja w cyfrowych tożsamościach za sprawą Web3 i Self-Sovereign Identity"
+  place: ""
+  subtype: presentation
+  description: >
+    Obecnie w kontekście zarządzania naszymi cyfrowymi tożsamościami królują Facebook i Google z swoimi wtyczkami 
+    "Zaloguj z...". Takie podejście do zarządzania danymi osobowymi niesie sporo niebezpieczeństw, 
+    a nade wszystko oddala użytkownika od jego własnych cyfrowych tożsamości.
+    <br /><br />
+    Self-Sovereign Identity (SSI) to ruch mający na celu oddać użytkownikowi kontrolę nad własną 
+    cyfrową tożsamością oraz tym, komu i jakie dane przekazuje. Pod parasolem SSI, poza ruchem społecznym, 
+    kryje się także stos technologiczny implementujący zdecentralizowanych model zarządzania tożsamościami.
+    <br /><br />
+    Podczas prezentacji porównamy modele zarządzania tożsamościami, czym różni się SSI 
+    od już istniejących rozwiązań i - co najistotniejsze - o szczegółach samego SSI.
+    Pomówimy o DID, Verifiable Credentials, Governance Frameworks i co w tym wszystkim robi blockchain.
+  speakers: [ 7 ]
 - id: 208
   title: "Dla kogo my to robimy?"
   place: ""
@@ -56,6 +73,17 @@
     Czy mają jakieś specjalne potrzeby? I dlaczego warto rozważać te pytania? Spotkajmy się i porozmawiajmy. 
     Na prezentacji poznacie Darka, personę, która w swojej ewolucji będzie reprezentować wielu z nas.
   speakers: [ 8 ]
+- id: 209
+  title: "Dlaczego buzzwordy szczęścia nie dają"
+  place: ""
+  subtype: presentation
+  description: >
+    Z jednej strony mówmy wszystko jako kod, z drugiej czasem do szczęścia brakuje nam dwóch kliknięć i gotowe, a kod zajmie nam godziny.
+    <br />Z jednej strony mówimy HA, redundancja czy mikro-serwisy, a z drugiej nasza aplikacja ma load 300RPH (Request Per Hour w przeciwieństwie do Request Per Second) i przynosi niezłe pieniądze
+    <br />Z jednej strony walczymy jak lwy w dyskusjach o SOLID, DRY czy YAGNI, a z drugiej siedzimy jak myszki pod miotłą, gdy ktoś porusza temat RODO/GDPR, ochrony danych czy przesyłania danych przez SFTP w plikach CSV.
+    <br />Z jednej strony budujemy pipeline, które budują docker i wdrażają je na Kubernetes z użyciem Terraform i sprawdzają wszystkie podatności CVE, a z drugiej wypuszczamy naszą aplikację raz na 6 miesięcy i wszędzie musimy robić upgrade.
+    <br />Z jednej strony na prezentacjach padają te wszystkie buzzword, a z drugiej człowiek wraca do biura i ....
+    <br />No właśnie "co", o tych 3 kropkach będzie ta prezentacja. Z przykładami z życia,  podejściem "na chłopski rozum" i w formie lekkiej dyskusji z Tobą słuchaczu.
 - id: 211 # SII
   title: "GitHub Action i GitHub Copilot w pracy DevOps’a"
   place: ""

@@ -58,7 +58,13 @@
   name: "Wiktor"
   surname: "Sztajerowski"
   thumbnailUrl: placeholder.png
-  rockstar: false
+  bio: >
+    Wiktor określa się jako cynik, wielbiciel marnych dowcipów i koneser chemexa. 
+    Obecnie skupiony na technologiach blockchain. 
+    Bywalec salonów konferencyjnych (czasami nawet udaje, że coś wie i mądrzy się ze sceny). 
+    Na co dzień programista, architekt lub konsultant - w zależności od potrzeb. 
+    Jeden z ojców założycieli konferencji SegFault oraz członek kapituły łódzkiego JUG.
+  rockstar: true
 - id: 8
   name: "Barbara"
   surname: "Kozioł"
@@ -73,6 +79,10 @@
   name: "Piotr"
   surname: "Stapp"
   thumbnailUrl: piotr-stapp.jpg
+  bio: >
+    Programista, inżynier, rzemieślnik, projektant i rowerzysta oraz Microsoft MVP. 
+    Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery. 
+    Tworzy i projektuje oprogramowanie, a to czasem bywa trudne.
   rockstar: true
 - id: 10
   name: "Wojciech"
