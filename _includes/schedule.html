@@ -1,6 +1,7 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <h3>Program</h3>
+    Dostępny już wkrótce
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-10 col-md-10 col-md-offset-1">
@@ -20,13 +21,13 @@
                 </div>
             </div>
             {% for timeslot in day.timeslots %}
-            
+
             {% if timeslot.isSession == true %}
             {% assign sessionType = 'session' %}
             {% else %}
             {% assign sessionType = 'break' %}
             {% endif %}
-            
+
             <div class="timeslot timeslot-{{ sessionType }}" itemtype="http://schema.org/subEvent">
                 <div class="timeslot-label">
                     <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
@@ -63,7 +64,7 @@
                                         {% endif %}
                                         {% endfor %}
                                         {% endfor %}
-                                    </ul>                                    
+                                    </ul>
                                 </div>
                                 {% endif %}
                                 {% endfor %}
@@ -87,7 +88,7 @@
                                                     </p>
                                                     </li>
                                                     {% endif %}
-                                                {% endfor %}    
+                                                {% endfor %}
                                             {% endfor %}
                                         </ul>
                                     </div>
