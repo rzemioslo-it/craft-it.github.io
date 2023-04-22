@@ -48,6 +48,10 @@
   name: "Jakub"
   surname: "Nabrdalik"
   thumbnailUrl: jakub_nabrdalik.jpg
+  bio: >
+    20 years of designing, building, coding, and operating systems on production. 
+    200+ workshops and lectures. 
+    More at nabrdalik.dev
   rockstar: true
 - id: 6
   name: "Wojtek"
