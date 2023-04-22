@@ -84,6 +84,7 @@
     <br />Z jednej strony budujemy pipeline, które budują docker i wdrażają je na Kubernetes z użyciem Terraform i sprawdzają wszystkie podatności CVE, a z drugiej wypuszczamy naszą aplikację raz na 6 miesięcy i wszędzie musimy robić upgrade.
     <br />Z jednej strony na prezentacjach padają te wszystkie buzzword, a z drugiej człowiek wraca do biura i ....
     <br />No właśnie "co", o tych 3 kropkach będzie ta prezentacja. Z przykładami z życia,  podejściem "na chłopski rozum" i w formie lekkiej dyskusji z Tobą słuchaczu.
+  speakers: [ 9 ]
 - id: 211 # SII
   title: "GitHub Action i GitHub Copilot w pracy DevOps’a"
   place: ""
