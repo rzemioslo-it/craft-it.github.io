@@ -6,12 +6,7 @@
   timeslots:
     - {
       startTime: "09:00",
-      sessionIds: [ 301 ],
-      isSession: true
-    }
-    - {
-      startTime: "09:00",
-      sessionIds: [ 304 ],
+      sessionIds: [ 301,304 ],
       isSession: true
     }
 - date: "2022-06-03"
