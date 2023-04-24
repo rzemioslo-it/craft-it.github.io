@@ -1,41 +1,36 @@
-# -
-#   date: "2022-06-05"
-#   dateReadable: "03. czerwca (piątek) - Warsztaty"
-#   tracks:
-#     - {title: "Sala 1", color: "90be4e"}
-#     - {title: "Sala 2", color: "03a9f4"}
-#   timeslots:
-#     - {
-#         startTime: "09:00",
-#         sessionIds: [301],
-#         isSession: true
-#      }
-# #    - {
-# #        startTime: "09:00",
-# #        sessionIds: [302],
-# #        isSession: true
-# #     }
-#     - {
-#         startTime: "09:00",
-#         sessionIds: [303],
-#         isSession: true
-#     }
-# -
-#   date: "2022-06-04"
-#   dateReadable: "04. czerwca (sobota) - Konferencja"
-#   tracks:
-#     - {title: "Sala 1", color: "90be4e"}
-#     - {title: "Sala 2", color: "03a9f4"}
-#     - {title: "Sala 3", color: "e91e63"}
-#   timeslots:
-#     - {
-#         startTime: "08:00",
-#         sessionIds: [100]
-#     }
-#     - {
-#         startTime: "09:00",
-#         sessionIds: [101]
-#     }
+-
+  date: "2023-06-02"
+  dateReadable: "02. czerwca (piątek) - Warsztaty"
+  tracks:
+    - {title: "Sala 1", color: "90be4e"}
+    - {title: "Sala 2", color: "03a9f4"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        sessionIds: [301],
+        isSession: true
+     }
+    - {
+        startTime: "09:00",
+        sessionIds: [304],
+        isSession: true
+    }
+-
+  date: "2022-06-03"
+  dateReadable: "03. czerwca (sobota) - Konferencja"
+  tracks:
+    - {title: "Sala 1", color: "90be4e"}
+    - {title: "Sala 2", color: "03a9f4"}
+    - {title: "Sala 3", color: "e91e63"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        sessionIds: [100]
+    }
+    - {
+        startTime: "09:00",
+        sessionIds: [101]
+    }
 #     - {
 #         startTime: "09:10",
 #         sessionIds: [205],
@@ -86,12 +81,11 @@
 #         sessionIds: [204],
 #         isSession: true
 #     }
-#     - {
-#         startTime: "17:30",
-#         sessionIds: [103]
-#     }
-#     - {
-#         startTime: "20:00",
-#         sessionIds: [105]
-#     }
-# #
+    - {
+        startTime: "17:30",
+        sessionIds: [103]
+    }
+    - {
+        startTime: "20:00",
+        sessionIds: [105]
+    }
