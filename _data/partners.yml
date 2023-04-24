@@ -1,6 +1,6 @@
 - group: "Główny Partner Konferencji"
   elements:
-    - { name: "JitTeam", description: "JitTeam", link: "https://jit.team/", imageUrl: "jit-team.png", class: "special" }
+    - { name: "JitTeam", description: "JitTeam", link: "https://jit.team/", imageUrl: "jit-team.png", class: "special-4" }
 - group: "Partnerzy złoci"
   elements:
     - { name: "Xebia", description: "Xebia", link: "https://xebia.com/", imageUrl: "xebia.png", class: "special" }
