@@ -126,6 +126,26 @@
     Co? Dlaczego? Kto to wymyślił?! 
     - Na te I inne pytania odpowiedź znajdziemy po drodze do nowej intuicji w tym jakże odmiennym świecie JavaScriptu.
   speakers: [ 12 ]
+- id: 213
+  title: "JIT - ???????"
+  place: ""
+  subtype: presentation
+  speakers: [ 212 ]
+- id: 214
+  title: "Xebia - ???????"
+  place: ""
+  subtype: presentation
+  speakers: [ 212 ]
+- id: 215
+  title: "Fabrity - ???????"
+  place: ""
+  subtype: presentation
+  speakers: [ 212 ]
+- id: 216
+  title: "Amsterdam Standard - ???????"
+  place: ""
+  subtype: presentation
+  speakers: [ 212 ]
 # ################################## WORKSHOPS ##################################
 - id: 304
   title: "(Nie)trudna sztuka modelowania agregatów "
