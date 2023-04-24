@@ -120,17 +120,34 @@
     a aktualnie doskonale bawi się w NewOrbit, wymieniając się doświadczeniem i szlifując swoje rzemiosło.
   social:
     - { name: "site", link: "https://kolezyn.ski/" }
-- id: 13
-  name: "TBD"
-  surname: "TBD"
-  thumbnailUrl: placeholder.png
+- id: 13 # xebia
+  name: "Paweł"
+  surname: "Zajączkowski"
+  bio: >
+    Siedzi we Wrocławskim IT od 2009. 
+    Rozgrzebywał kod w fińskim telecomie, niemieckiej logistyce, szwajcarskim banku, fabryce aut, podróżniczym startupie, 
+    brytyjskim compliance oraz wynajmie willi.
+    Aktualnie zszedł na ciemną stronę mocy i zajmuje się opieką nad stadkiem programistów i team leaderów, 
+    programem mentoringowym, gildiami oraz wtykaniem wszędzie swojego nosa.
+    Prywatnie lubi czytać, grać w planszówki, RPG papierowe i komputerowe, 
+    trenuje trójbój siłowy oraz kolekcjonuje stare Lego Technic. 
+    Gdy najdzie go wena, pisze o technologii, ludziologii i smokach na HowToTrainYourJava.com.
+  thumbnailUrl: pawel-zajaczkowski.jpg
 - id: 14
   name: "TBD"
-  surname: "TBD"
+  surname: ""
   thumbnailUrl: placeholder.png
 - id: 15
   name: "TBD"
-  surname: "TBD"
+  surname: ""
+  thumbnailUrl: placeholder.png
+- id: 16
+  name: "TBD"
+  surname: ""
+  thumbnailUrl: placeholder.png
+- id: 17
+  name: "Sławomir"
+  surname: "Sobótka"
   thumbnailUrl: placeholder.png
 # -
 #   id: 4

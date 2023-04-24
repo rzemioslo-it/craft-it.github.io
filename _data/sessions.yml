@@ -28,6 +28,22 @@
     <p>W trakcie prezentacji spojrzę na temat szybkości wytwarzania oprogramowania – problemy, przyczyny i rozwiązania z różnych perspektyw.
     Pokażę kto znajduje się w centrum tego zagadnienia i jak może sprawić by było lepiej 😉</p>
   speakers: [ 2 ]
+- id: 217
+  title: "Modularyzacja - miało być tak pięknie a wyszło jak zwykle"
+  place: ""
+  subtype: presentation
+  speakers: [ 17 ]
+  description: >
+    Przepiszmy to! - to hasło padło w niejednym projekcie. 
+    Zaciągany latami dług technologiczny i złe decyzje nawarstwiały się, 
+    utrudniając coraz to bardziej efektywne rozwijanie projektu i dostarczanie nowych funkcji. 
+    Niestety po przepisaniu sporej części systemu często okazuje się, że choć kod jest nowszy, 
+    to pierwotne problemy cały czas istnieją dalej... 
+    Skuteczna refaktoryzacja to piramida działań na wielu poziomach. 
+    W designie kodu, architekturze, rozmowie, organizacji. 
+    Jeśli problem jest na wyższej warstwie, na niższej często maskujemy jego skutki. 
+    Weźmy więc pod lupę piramidę refaktoryzacji i na bazie realnych doświadczeń z projektów zobaczmy, 
+    w jaki sposób i jakimi narzędziami można naprawiać projekt na poszczególnych poziomach.
 - id: 203
   title: "Dyskrecja DevOpsa. Co robimy w ukryciu?"
   place: ""
@@ -127,25 +143,43 @@
     - Na te I inne pytania odpowiedź znajdziemy po drodze do nowej intuicji w tym jakże odmiennym świecie JavaScriptu.
   speakers: [ 12 ]
 - id: 213
-  title: "JIT - ???????"
+  title: "Syndrom Oszusta w IT"
   place: ""
   subtype: presentation
-  speakers: [ 212 ]
+  description: >
+    Czy dopada Cię czasami to okropne uczucie, że nie jesteś wystarczająco dobry, żeby robić swoją robotę? Że brak Ci umiejętności, inteligencji i talentu? Że wszyscy wokół Ciebie wiedzą, co robią, a Ty prześlizgujesz się wyłącznie dzięki szczęściu, przypadkowi i sprawianiu wrażenia, że jesteś lepszy, niż w rzeczywistości? Czy żyjesz w strachu, że to jedynie kwestia czasu, aż ktoś wreszcie odkryje, że jesteś zwyczajnym oszustem?
+    <br /><br />
+    Nie jesteś sam.
+    <br /><br />
+    Według badań, Syndrom Oszusta dotyka niemal 90% osób pracujących w IT. W tej prezentacji opowiem czym ów syndrom jest, czemu jest tak dominujący w naszej branży, jak wpada się w błędne koło i dokąd można się stoczyć. Omówię, jak znajomość prostych mechanizmów pomoże Ci dostrzec swoje kompetencje oraz jakie triki stosować, żeby nie dać się pokonać demonom niepewności.
+    <br /><br />
+    *Może zawierać śladowe ilości gumowych kaczuszek.
+  speakers: [ 13 ]
 - id: 214
-  title: "Xebia - ???????"
+  title: "TBD"
   place: ""
   subtype: presentation
-  speakers: [ 212 ]
+  speakers: [ 14 ]
 - id: 215
-  title: "Fabrity - ???????"
+  title: "TBD"
   place: ""
   subtype: presentation
-  speakers: [ 212 ]
+  speakers: [ 15 ]
 - id: 216
-  title: "Amsterdam Standard - ???????"
+  title: "TBD"
   place: ""
   subtype: presentation
-  speakers: [ 212 ]
+  speakers: [ 16 ]
+- id: 210
+  title: "TBD"
+  place: ""
+  subtype: presentation
+  speakers: [ 10 ]
+- id: 206
+  title: "TBD"
+  place: ""
+  subtype: presentation
+  speakers: [ 6 ]
 # ################################## WORKSHOPS ##################################
 - id: 304
   title: "(Nie)trudna sztuka modelowania agregatów "
