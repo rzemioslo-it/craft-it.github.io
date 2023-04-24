@@ -89,14 +89,14 @@
                         $('html,body').animate({
                             scrollTop: target.offset().top
                         }, 1000);
-                        return false;
+                        //return false; commented to change anchor in the URL
                     }
                 }
             });
         });
         $(function() {
             $('a[href=#]').click(function() {
-                event.preventDefault();
+                //event.preventDefault(); commented to change anchor in the URL
             });
         });
         $(function() {
