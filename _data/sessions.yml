@@ -34,15 +34,15 @@
   subtype: presentation
   speakers: [ 17 ]
   description: >
-    Przepiszmy to! - to hasło padło w niejednym projekcie. 
-    Zaciągany latami dług technologiczny i złe decyzje nawarstwiały się, 
-    utrudniając coraz to bardziej efektywne rozwijanie projektu i dostarczanie nowych funkcji. 
-    Niestety po przepisaniu sporej części systemu często okazuje się, że choć kod jest nowszy, 
-    to pierwotne problemy cały czas istnieją dalej... 
-    Skuteczna refaktoryzacja to piramida działań na wielu poziomach. 
-    W designie kodu, architekturze, rozmowie, organizacji. 
-    Jeśli problem jest na wyższej warstwie, na niższej często maskujemy jego skutki. 
-    Weźmy więc pod lupę piramidę refaktoryzacji i na bazie realnych doświadczeń z projektów zobaczmy, 
+    Przepiszmy to! - to hasło padło w niejednym projekcie.
+    Zaciągany latami dług technologiczny i złe decyzje nawarstwiały się,
+    utrudniając coraz to bardziej efektywne rozwijanie projektu i dostarczanie nowych funkcji.
+    Niestety po przepisaniu sporej części systemu często okazuje się, że choć kod jest nowszy,
+    to pierwotne problemy cały czas istnieją dalej...
+    Skuteczna refaktoryzacja to piramida działań na wielu poziomach.
+    W designie kodu, architekturze, rozmowie, organizacji.
+    Jeśli problem jest na wyższej warstwie, na niższej często maskujemy jego skutki.
+    Weźmy więc pod lupę piramidę refaktoryzacji i na bazie realnych doświadczeń z projektów zobaczmy,
     w jaki sposób i jakimi narzędziami można naprawiać projekt na poszczególnych poziomach.
 - id: 203
   title: "Dyskrecja DevOpsa. Co robimy w ukryciu?"
@@ -65,13 +65,13 @@
   place: ""
   subtype: presentation
   description: >
-    There’s a lot of “best practices” around, 
-    but after 20 years of work I’ve found a set that really helps get my systems done well. 
-    I’d like to share those tools and methods and why they work in my context. 
-    While they are not a novelty (some of them have years of history), I see even experienced developers ignoring them. 
-    These include: how to use BDD to work with requirements, using a scientific method to fix problems in production 
-    (as opposed to shotgun debugging), verifying observability during development (before going to production), 
-    making the most interesting parts visible via higher order functions, and more. Nothing groundbreaking, 
+    There’s a lot of “best practices” around,
+    but after 20 years of work I’ve found a set that really helps get my systems done well.
+    I’d like to share those tools and methods and why they work in my context.
+    While they are not a novelty (some of them have years of history), I see even experienced developers ignoring them.
+    These include: how to use BDD to work with requirements, using a scientific method to fix problems in production
+    (as opposed to shotgun debugging), verifying observability during development (before going to production),
+    making the most interesting parts visible via higher order functions, and more. Nothing groundbreaking,
     but perhaps those will also work in your context.
   speakers: [ 5 ]
 - id: 207
@@ -79,15 +79,15 @@
   place: ""
   subtype: presentation
   description: >
-    Obecnie w kontekście zarządzania naszymi cyfrowymi tożsamościami królują Facebook i Google z swoimi wtyczkami 
-    "Zaloguj z...". Takie podejście do zarządzania danymi osobowymi niesie sporo niebezpieczeństw, 
+    Obecnie w kontekście zarządzania naszymi cyfrowymi tożsamościami królują Facebook i Google z swoimi wtyczkami
+    "Zaloguj z...". Takie podejście do zarządzania danymi osobowymi niesie sporo niebezpieczeństw,
     a nade wszystko oddala użytkownika od jego własnych cyfrowych tożsamości.
     <br /><br />
-    Self-Sovereign Identity (SSI) to ruch mający na celu oddać użytkownikowi kontrolę nad własną 
-    cyfrową tożsamością oraz tym, komu i jakie dane przekazuje. Pod parasolem SSI, poza ruchem społecznym, 
+    Self-Sovereign Identity (SSI) to ruch mający na celu oddać użytkownikowi kontrolę nad własną
+    cyfrową tożsamością oraz tym, komu i jakie dane przekazuje. Pod parasolem SSI, poza ruchem społecznym,
     kryje się także stos technologiczny implementujący zdecentralizowanych model zarządzania tożsamościami.
     <br /><br />
-    Podczas prezentacji porównamy modele zarządzania tożsamościami, czym różni się SSI 
+    Podczas prezentacji porównamy modele zarządzania tożsamościami, czym różni się SSI
     od już istniejących rozwiązań i - co najistotniejsze - o szczegółach samego SSI.
     Pomówimy o DID, Verifiable Credentials, Governance Frameworks i co w tym wszystkim robi blockchain.
   speakers: [ 7 ]
@@ -96,11 +96,11 @@
   place: ""
   subtype: presentation
   description: >
-    Nasza praca to robienie oprogramowania. 
-    W pędzie codziennych zadań często myślimy o kolejnych wymaganiach do zaimplementowania, 
-    kolejnych pull requestach do wystawienia, o jakości kodu i o tym, żeby wyrobić się w czasie. 
-    Czy pamiętamy wtedy o użytkownikach końcowych? Kim są? W jakim wieku są? Skąd pochodzą? 
-    Czy mają jakieś specjalne potrzeby? I dlaczego warto rozważać te pytania? Spotkajmy się i porozmawiajmy. 
+    Nasza praca to robienie oprogramowania.
+    W pędzie codziennych zadań często myślimy o kolejnych wymaganiach do zaimplementowania,
+    kolejnych pull requestach do wystawienia, o jakości kodu i o tym, żeby wyrobić się w czasie.
+    Czy pamiętamy wtedy o użytkownikach końcowych? Kim są? W jakim wieku są? Skąd pochodzą?
+    Czy mają jakieś specjalne potrzeby? I dlaczego warto rozważać te pytania? Spotkajmy się i porozmawiajmy.
     Na prezentacji poznacie Darka, personę, która w swojej ewolucji będzie reprezentować wielu z nas.
   speakers: [ 8 ]
 - id: 209
@@ -120,26 +120,26 @@
   place: ""
   subtype: presentation
   description: >
-    Zadania DevOps’a skupiają się m.in. na pracy z infrastrukturą oraz kodem. 
-    Coraz częściej jednak stajemy przed zadaniem automatyzacji wytwarzania oprogramowania czy infrastruktury. 
+    Zadania DevOps’a skupiają się m.in. na pracy z infrastrukturą oraz kodem.
+    Coraz częściej jednak stajemy przed zadaniem automatyzacji wytwarzania oprogramowania czy infrastruktury.
     Prezentacja skupi się na dwóch narzędziach wspomagających te działania.
     <br /><br />
-    W trakcie prezentacji przygotuję workflow w oparciu o GitHub Action wraz z integracją z chmurą Azure i wdrożeniem aplikacji. 
-    Przejdziemy przez przykłady automatyzacji pisania kodu infrastruktury wykorzystując GitHub Copilot. 
+    W trakcie prezentacji przygotuję workflow w oparciu o GitHub Action wraz z integracją z chmurą Azure i wdrożeniem aplikacji.
+    Przejdziemy przez przykłady automatyzacji pisania kodu infrastruktury wykorzystując GitHub Copilot.
   speakers: [ 11 ]
 - id: 212
   title: "Autostopem przez JavaScript - Poradnik dla Backendowców"
   place: ""
   subtype: presentation
   description: >
-    W świecie backendu dość łatwo przychodzi znajomość wielu języków. 
-    Paradygmaty się powtarzają, konwencje są podobne, a języki czerpią pomysły od siebie nawzajem. 
-    Doświadczeni takim stanem rzeczy, backendowcy coraz chętniej sięgają w stronę full-stacku, po JavaScript. 
+    W świecie backendu dość łatwo przychodzi znajomość wielu języków.
+    Paradygmaty się powtarzają, konwencje są podobne, a języki czerpią pomysły od siebie nawzajem.
+    Doświadczeni takim stanem rzeczy, backendowcy coraz chętniej sięgają w stronę full-stacku, po JavaScript.
     Przecież z roku na rok JavaScript wygląda coraz bardziej znajomo - ma już klasy i w ogóle!
     <br /><br />
-    Nie trzeba jednak bardzo się starać, żeby natknąć się na jeden z wielu przypadków, 
-    w których JavaScript zachowa się zupełnie inaczej niż byśmy się tego spodziewali. 
-    Co? Dlaczego? Kto to wymyślił?! 
+    Nie trzeba jednak bardzo się starać, żeby natknąć się na jeden z wielu przypadków,
+    w których JavaScript zachowa się zupełnie inaczej niż byśmy się tego spodziewali.
+    Co? Dlaczego? Kto to wymyślił?!
     - Na te I inne pytania odpowiedź znajdziemy po drodze do nowej intuicji w tym jakże odmiennym świecie JavaScriptu.
   speakers: [ 12 ]
 - id: 213
@@ -171,7 +171,7 @@
   subtype: presentation
   speakers: [ 16 ]
 - id: 210
-  title: "TBD"
+  title: "Microservices, Data, Decoupling and Messages"
   place: ""
   subtype: presentation
   speakers: [ 10 ]
@@ -186,13 +186,13 @@
   place: "TBA"
   subtype: workshop
   description: >
-    Agregaty to chyba natrudniejszy element konstrukcyjny taktycznego Domain-Driven Design. 
+    Agregaty to chyba natrudniejszy element konstrukcyjny taktycznego Domain-Driven Design.
     Czy naprawdę chodzi tylko (lub aż) o dobrze skrojone programowanie obiektowe?
     <br /><br />
-    Dobrze zaprojektowany agregat potrafi wyeliminować potrzebę dokupowania chmury dla naszych czterdziestu mikroserwisów. 
+    Dobrze zaprojektowany agregat potrafi wyeliminować potrzebę dokupowania chmury dla naszych czterdziestu mikroserwisów.
     Źle zaprojektowany agregat potrafi sprawić, że używanie systemu jest koszmarem.
     <br /><br />
-    W tym praktycznym warsztacie przejdziemy przez typowe przypadki modelowania i implementacji agregatów. 
+    W tym praktycznym warsztacie przejdziemy przez typowe przypadki modelowania i implementacji agregatów.
     Tak, typowe, bo... nasze projekty mocno się nie różnią. Zahaczymy też o archetypy.
     <br /><br />
     <p>Wymagania</p>
@@ -207,18 +207,18 @@
   place: "TBA"
   subtype: workshop
   description: >
-    Celem tego warsztatu jest łagodne wprowadzenie Cię w świat wydajności na platformie JVM. 
-    Nie wiesz nic o JMH, JFR, async profiler, dlaczego twój kod musi być wygrzewany? 
+    Celem tego warsztatu jest łagodne wprowadzenie Cię w świat wydajności na platformie JVM.
+    Nie wiesz nic o JMH, JFR, async profiler, dlaczego twój kod musi być wygrzewany?
     Nigdy nie widziałeś "flamegraph"?
     <br /><br />
-    Spokojnie. Tego wszystkiego dowiesz się podczas jednodniowego warsztatu. 
+    Spokojnie. Tego wszystkiego dowiesz się podczas jednodniowego warsztatu.
     Skupimy się nie tylko na narzędziach, ale także na procesie i technikach optymalizowania wydajności.
-    Weźmiemy na warsztat jeden z sztandarowych modeli przetwarzania danych, "map reduce". 
-    Od prostej jednowątkowej implementacji, po wielowątkowe monstrum oparte o fork-join pool, 
-    będziemy poznawać techniki i narzędzia pracy z testami wydajnościowymi 
+    Weźmiemy na warsztat jeden z sztandarowych modeli przetwarzania danych, "map reduce".
+    Od prostej jednowątkowej implementacji, po wielowątkowe monstrum oparte o fork-join pool,
+    będziemy poznawać techniki i narzędzia pracy z testami wydajnościowymi
     ( w skali micro, znanymi także jako "microbenchmark").
     <br /><br />
-    Będzie też czas na zapoznanie się z mechanizmami JVM, takimi jak just-in-time compiler, 
+    Będzie też czas na zapoznanie się z mechanizmami JVM, takimi jak just-in-time compiler,
     garbage collector czy adaptive locking. Więcej informacji na stronie https://jvmperformance.pl/.
     <br /><br />
     <p>Wymagania</p>
