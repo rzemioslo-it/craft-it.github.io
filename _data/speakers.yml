@@ -134,9 +134,10 @@
     Gdy najdzie go wena, pisze o technologii, ludziologii i smokach na HowToTrainYourJava.com.
   thumbnailUrl: pawel-zajaczkowski.jpg
 - id: 14
-  name: "TBD"
-  surname: ""
-  thumbnailUrl: placeholder.png
+  name: "Michał" # Fabrity
+  surname: "Żurawski"
+  title: "Architekt IT w Fabrity"
+  thumbnailUrl: michal-zurawski.jpeg
 - id: 15
   name: "TBD"
   surname: ""

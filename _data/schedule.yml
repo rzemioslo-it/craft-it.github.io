@@ -53,7 +53,7 @@
     }
     - {
       startTime: "13:30",
-      sessionIds: [ 214,215,216 ],
+      sessionIds: [ 215,214,216 ],
       isSession: true
     }
     - {
