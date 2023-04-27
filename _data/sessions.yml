@@ -176,9 +176,18 @@
   subtype: presentation
   speakers: [ 10 ]
 - id: 206
-  title: "TBD"
+  title: "Hypergrowth scaling made simple"
   place: ""
   subtype: presentation
+  description: >
+    This presentation will present a counterintuitive, straightforward, 
+    and business-friendly approach to creating a hyper-scalable systems using surprisingly simple architecture and patterns.
+    <br /><br />
+    In the presentation, I will discuss how extraordinary simplicity can boost your growth with examples of Revolut's architecture, 
+    its advantages, and potential challenges. We will look into what does it mean that a system is complicated, 
+    complex, and how to make good architectural decisions to enable fast growth at the hypergrowth stage.
+    <br /><br />
+    A promise: You will never look at systems of this scale the same way again.
   speakers: [ 6 ]
 # ################################## WORKSHOPS ##################################
 - id: 304
