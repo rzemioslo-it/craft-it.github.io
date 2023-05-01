@@ -172,6 +172,12 @@
   speakers: [ 16 ]
 - id: 210
   title: "Microservices, Data, Decoupling and Messages"
+  description: >
+    Co nas czeka, gdy już zrealizujemy naszą nową doskonałą architekturę mikroserwisową? Jakie nieoczekiwane problemy odkryjemy, gdy nasz kod trafi na produkcję?
+    <br /><br />
+    Rok temu mieliśmy we FLYR monolityczny backend RESTowej aplikacji i powstające wokół niego nowe serwisy. Wiedzieliśmy, że część funkcjonalności tego monolitu będzie potrzebna w nowych produktach tworzonych przez nowe zespoły. Poświęciliśmy sporo czasu i uwagi, żeby nauczyć się jak zaprojektować łatwą w utrzymaniu, skalowalną i luźno powiązaną architekturę mikroserwisów do przetwarzania opartego na danych. Teraz, gdy część pracy jest za nami i działa na produkcji, chciałem Wam opowiedzieć nie tylko, jak to zaprojektowaliśmy, ale przede wszystkim czego się nauczyliśmy już po pierwszych produkcyjnych wdrożeniach.
+    <br /><br />
+    Chciałbym, żebyście z tej prezentacji dowiedzieli się przede wszystkim, jakie pułapki czekają po wdrożeniu mikroserwisów i na jakie szczegóły warto zwrócić uwagę &ndash; problemy, o których często nie mówi się na prezentacjach, bo rzekomo "to oczywiste" i "wszyscy to wiedzą". Ale czy rzeczywiście?
   place: ""
   subtype: presentation
   speakers: [ 10 ]
@@ -180,11 +186,11 @@
   place: ""
   subtype: presentation
   description: >
-    This presentation will present a counterintuitive, straightforward, 
+    This presentation will present a counterintuitive, straightforward,
     and business-friendly approach to creating a hyper-scalable systems using surprisingly simple architecture and patterns.
     <br /><br />
-    In the presentation, I will discuss how extraordinary simplicity can boost your growth with examples of Revolut's architecture, 
-    its advantages, and potential challenges. We will look into what does it mean that a system is complicated, 
+    In the presentation, I will discuss how extraordinary simplicity can boost your growth with examples of Revolut's architecture,
+    its advantages, and potential challenges. We will look into what does it mean that a system is complicated,
     complex, and how to make good architectural decisions to enable fast growth at the hypergrowth stage.
     <br /><br />
     A promise: You will never look at systems of this scale the same way again.

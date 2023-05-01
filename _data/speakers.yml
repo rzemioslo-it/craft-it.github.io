@@ -49,8 +49,8 @@
   surname: "Nabrdalik"
   thumbnailUrl: jakub_nabrdalik.jpg
   bio: >
-    20 years of designing, building, coding, and operating systems on production. 
-    200+ workshops and lectures. 
+    20 years of designing, building, coding, and operating systems on production.
+    200+ workshops and lectures.
     More at nabrdalik.dev
   rockstar: true
 - id: 6
@@ -63,10 +63,10 @@
   surname: "Sztajerowski"
   thumbnailUrl: wiktor-sztajerowski.jpg
   bio: >
-    Wiktor określa się jako cynik, wielbiciel marnych dowcipów i koneser chemexa. 
-    Obecnie skupiony na technologiach blockchain. 
-    Bywalec salonów konferencyjnych (czasami nawet udaje, że coś wie i mądrzy się ze sceny). 
-    Na co dzień programista, architekt lub konsultant - w zależności od potrzeb. 
+    Wiktor określa się jako cynik, wielbiciel marnych dowcipów i koneser chemexa.
+    Obecnie skupiony na technologiach blockchain.
+    Bywalec salonów konferencyjnych (czasami nawet udaje, że coś wie i mądrzy się ze sceny).
+    Na co dzień programista, architekt lub konsultant - w zależności od potrzeb.
     Jeden z ojców założycieli konferencji SegFault oraz członek kapituły łódzkiego JUG.
   rockstar: true
 - id: 8
@@ -74,9 +74,9 @@
   surname: "Kozioł"
   thumbnailUrl: barbara-koziol.jpg
   bio: >
-    Specjalistka do spraw zachowania jakości, fanka podejścia TestOps oraz testów Accessibility. 
-    Dbaniem o jakość zajmuje się ponad pięć lat. 
-    W Xebia oprócz pracy projekcie zajmuje się koordynowaniem działań Gildii Accessibility. 
+    Specjalistka do spraw zachowania jakości, fanka podejścia TestOps oraz testów Accessibility.
+    Dbaniem o jakość zajmuje się ponad pięć lat.
+    W Xebia oprócz pracy projekcie zajmuje się koordynowaniem działań Gildii Accessibility.
     W wolnym czasie spaceruje lub czyta książki.
   rockstar: true
 - id: 9
@@ -84,8 +84,8 @@
   surname: "Stapp"
   thumbnailUrl: piotr-stapp.jpg
   bio: >
-    Programista, inżynier, rzemieślnik, projektant i rowerzysta oraz Microsoft MVP. 
-    Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery. 
+    Programista, inżynier, rzemieślnik, projektant i rowerzysta oraz Microsoft MVP.
+    Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery.
     Tworzy i projektuje oprogramowanie, a to czasem bywa trudne.
   rockstar: true
 - id: 10
@@ -93,15 +93,17 @@
   surname: "Rząsa"
   thumbnailUrl: wojciech-rzasa.jpg
   rockstar: true
+  bio: >
+    Informatyk z zamiłowania i z zawodu. Inżynier z doktoratem, administrator, tech-lead, architekt. Od początku kariery blisko systemów rozproszonych, wytwarzania oprogramowania i po prostu programowania. Po 15 latach pracy akademickiej i badania systemów rozproszonych, obecnie tworzy oprogramowanie dla <a href='http://flyrlabs.com'>FLYR Inc.</a>. Współtworzy Rzeszowską grupę użytkowników języka Ruby (<a href='http://RRUG.pl'>RRUG.pl</a>). Więcej na <a href='https://www.linkedin.com/in/wrzasa/'>linkedin.com/in/wrzasa/</a>.
 - id: 11  # SII
   name: "Artur"
   surname: "Molendowski"
   title: "Microsoft Azure MVP, Microsoft Certified Trainer (MCT)"
   thumbnailUrl: artur-molendowski.png
   descritpion: >
-    W Sii Polska pracuje na stanowisku DevOps/Cloud Engineer. Na co dzień wykorzystuje usługi Microsoft Azure. 
-    Buduje i programuje roboty z klocków Lego. 
-    Prowadzi podcast „Chwila dla Admina” (chwiladlaadmina.pl) skupiający się szeroko na obszarach IT i nowych technologii. 
+    W Sii Polska pracuje na stanowisku DevOps/Cloud Engineer. Na co dzień wykorzystuje usługi Microsoft Azure.
+    Buduje i programuje roboty z klocków Lego.
+    Prowadzi podcast „Chwila dla Admina” (chwiladlaadmina.pl) skupiający się szeroko na obszarach IT i nowych technologii.
     Organizator meetupów Microsoft Azure User Group Poland, prelegent na konferencjach i webinarach.
   social:
     - { name: "site", link: "http://chwiladlaadmina.pl/" }
@@ -112,11 +114,11 @@
   surname: "Koleżyński"
   thumbnailUrl: jakub-kolezynski.jpg
   description: >
-    Inżynier oprogramowania, dotnetowiec, full stack. 
-    Dociekliwie chce wszystko rozłożyć na czynniki pierwsze, a wyzwania traktuje jako szansę do rozwoju. 
-    Posiada backendowe korzenie i rozkwitającą pasję do frontendu, ale najbardziej uwielbia po prostu budować 
-    - wspólnie, samodzielnie, z potrzeby czy dla eksperymentu, zawsze chce znaleźć najprostsze rozwiązanie.  
-    Zawodowo pisał dla różnorodnej widowni, od przemysłu ciężkiego po korporacje finansowe, 
+    Inżynier oprogramowania, dotnetowiec, full stack.
+    Dociekliwie chce wszystko rozłożyć na czynniki pierwsze, a wyzwania traktuje jako szansę do rozwoju.
+    Posiada backendowe korzenie i rozkwitającą pasję do frontendu, ale najbardziej uwielbia po prostu budować
+    - wspólnie, samodzielnie, z potrzeby czy dla eksperymentu, zawsze chce znaleźć najprostsze rozwiązanie.
+    Zawodowo pisał dla różnorodnej widowni, od przemysłu ciężkiego po korporacje finansowe,
     a aktualnie doskonale bawi się w NewOrbit, wymieniając się doświadczeniem i szlifując swoje rzemiosło.
   social:
     - { name: "site", link: "https://kolezyn.ski/" }
@@ -124,13 +126,13 @@
   name: "Paweł"
   surname: "Zajączkowski"
   bio: >
-    Siedzi we Wrocławskim IT od 2009. 
-    Rozgrzebywał kod w fińskim telecomie, niemieckiej logistyce, szwajcarskim banku, fabryce aut, podróżniczym startupie, 
+    Siedzi we Wrocławskim IT od 2009.
+    Rozgrzebywał kod w fińskim telecomie, niemieckiej logistyce, szwajcarskim banku, fabryce aut, podróżniczym startupie,
     brytyjskim compliance oraz wynajmie willi.
-    Aktualnie zszedł na ciemną stronę mocy i zajmuje się opieką nad stadkiem programistów i team leaderów, 
+    Aktualnie zszedł na ciemną stronę mocy i zajmuje się opieką nad stadkiem programistów i team leaderów,
     programem mentoringowym, gildiami oraz wtykaniem wszędzie swojego nosa.
-    Prywatnie lubi czytać, grać w planszówki, RPG papierowe i komputerowe, 
-    trenuje trójbój siłowy oraz kolekcjonuje stare Lego Technic. 
+    Prywatnie lubi czytać, grać w planszówki, RPG papierowe i komputerowe,
+    trenuje trójbój siłowy oraz kolekcjonuje stare Lego Technic.
     Gdy najdzie go wena, pisze o technologii, ludziologii i smokach na HowToTrainYourJava.com.
   thumbnailUrl: pawel-zajaczkowski.jpg
 - id: 14
