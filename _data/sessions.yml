@@ -166,10 +166,18 @@
   subtype: presentation
   speakers: [ 15 ]
 - id: 216
-  title: "TBD"
+  title: "Rola QA w starciu z nadciągającym AI - Czy to koniec testów jakie znamy?"
   place: ""
   subtype: presentation
   speakers: [ 16 ]
+  description: >    
+    Temat sztucznej inteligencji coraz odważniej wkracza w przestrzeń wytwarzania oprogramowania. 
+    Obietnice, jakie składa AI, zawładnęły głowami zarządów wielu firm w naszej branży, 
+    co jest wyraźnie widoczne na dzisiejszych rynkach pracy. 
+    Artykuły i eksperci opowiadają o korzyściach wynikających z testów z wiodącym udziałem AI, 
+    ale czy nie są one składane tylko na kredyt? Czy to koniec testów manualnych, a testerzy staną się zbędni? 
+    Czy automatyzacja testów w projektach stanie się standardem? Czy może to tylko kolejne zamieszanie, 
+    które dostarczy jeszcze więcej oprogramowania do testów?
 - id: 210
   title: "Microservices, Data, Decoupling and Messages"
   description: >

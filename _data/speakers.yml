@@ -145,9 +145,14 @@
   surname: ""
   thumbnailUrl: placeholder.png
 - id: 16
-  name: "TBD"
-  surname: ""
-  thumbnailUrl: placeholder.png
+  name: "Artur"
+  surname: "Morawski"
+  thumbnailUrl: artur-morawski.jpg
+  bio: >
+    Od blisko 12 lat zajmuję się tematami związanymi z jakością i oprogramowaniem, w tym testami, automatyzacją, 
+    procesami oraz zarządzaniem zespołami QA. Pracowałem przy pełnym spektrum projektów, od embedded, 
+    przez aplikacje biznesowe, bankowe i użytkowe, zarówno w chmurze jak i w piwnicy, dla startupów, a także dużych korporacyjnych organizacji. 
+    W wolnych chwilach żegluję, a jak spadnie śnieg, rozpoczynam sezon narciarski.
 - id: 17
   name: "Sławomir"
   surname: "Sobótka"
