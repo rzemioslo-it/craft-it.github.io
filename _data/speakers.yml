@@ -141,9 +141,14 @@
   title: "Architekt IT w Fabrity"
   thumbnailUrl: michal-zurawski.jpeg
 - id: 15
-  name: "TBD"
-  surname: ""
-  thumbnailUrl: placeholder.png
+  name: "Kamil"
+  surname: "Mrzygłód"
+  thumbnailUrl: kamil-mrzyglod.jpg
+  bio: >
+    Programista, konsultant, trener, architekt oraz tech lead (w dowolnej kolejności, zależnej od potrzeb). 
+    Backgroundowo .NET developer, od wielu lat specjalizuję się w chmurze Azure popełniając po drodze dwie książki na temat wykorzystania 
+    jej w kontekście administracji oraz developmentu aplikacji. Pracował z tymi najmniejszymi, jak i największymi klientami w różnych rolach 
+    i z różnymi technologiami. W wolnych chwilach rozwija swoje projekty na GitHubie albo robi kolejne podejście do napisania własnej gry komputerowej.
 - id: 16
   name: "Artur"
   surname: "Morawski"

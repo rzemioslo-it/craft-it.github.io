@@ -161,10 +161,20 @@
   subtype: presentation
   speakers: [ 14 ]
 - id: 215
-  title: "TBD"
+  title: "Teściowa potrzebowała Toyotę Yaris więc kupiliśmy jej BMW X6"
   place: ""
   subtype: presentation
   speakers: [ 15 ]
+  description: >
+    Praca nad systemem dla nowego klienta to zawsze wyzwanie. Nowe środowisko, inny zakres kompetencji, odmienne oczekiwania. 
+    Doradzamy, rozmawiamy, zastanawiamy się – krok po kroku tworzymy nowe usługi oraz komponenty. 
+    Mijają tygodnie, potem miesiące, a my coraz bardziej naginamy rzeczywistość, aby zmieścić się w wycenach, estymacjach, celach.  
+    W końcu nadchodzi upragniony koniec, idziemy na produkcję i patrzymy z boku na nasze dzieło. 
+    Sukces! Skończyliśmy z małym potworkiem, do którego ciężko się przyznać, ale na szczęście mamy kolejny projekt na horyzoncie. 
+    Pyk, nowa pozycja w CV a nasza abominacją na całe szczęście zajmie się kto inny.
+    <br /><br />
+    W trakcie prezentacji porozmawiamy o tym jak bardzo nasze ego przeszkadza w delivery, 
+    o czym zapominamy podczas analizy potrzeb klienta i dlaczego musieliśmy przebudować garaż tytułowej teściowej.
 - id: 216
   title: "Rola QA w starciu z nadciągającym AI - Czy to koniec testów jakie znamy?"
   place: ""
