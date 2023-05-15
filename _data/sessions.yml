@@ -160,6 +160,14 @@
   place: ""
   subtype: presentation
   speakers: [ 14 ]
+  description: >
+    Zostałeś tech leadem i co dalej?
+    <br /><br />  
+    W idealnym świcie przejmujesz idealnie zgrany, autonomiczny zespół, który pracuje nad projektem bez grama legacy. Co miesiąc żonglujecie nowymi technologiami, a jedyną sytuacją kryzysową jest brak kawy w biurowej kuchni.
+    <br /><br />  
+    Rzeczywistość wygląda zupełnie inaczej. Zróżnicowany, niezgrany zespół, niskie morale, a może projekt, który jest legacy od momentu pierwszego commita? Czasami to dowolna konfiguracja tych problemów, a czasami wszystkie na raz.
+    <br /><br />  
+    Podczas prezentacji spróbujemy odpowiedzieć sobie na pytania jak prowadzić zespół tak, aby nie zwariować oraz po co i czy, w ogóle, warto zostać tech leadem. 
 - id: 215
   title: "Teściowa potrzebowała Toyotę Yaris więc kupiliśmy jej BMW X6"
   place: ""

@@ -44,6 +44,13 @@
   surname: "Pilimon"
   thumbnailUrl: jakub-pilimon.jpeg
   rockstar: true
+  bio: >
+    Miłośnik DDD, OOP oraz TDD. Developer/Architekt pod kątem inżynierskim głównie zainteresowany modelowaniem oraz architekturą. 
+    Swój wysiłek skupia na czytelności kodu, skalowalności oraz wydajności.
+    <br /><br />
+    Podczas dotychczasowej kariery projektował oraz implementował systemy dla branży finansowej, medycznej, telekomunikacyjnej oraz energetycznej
+    <br /><br />
+    Prywatnie fanatyk piłki nożnej, narciarstwa i jazdy motocyklem
 - id: 5
   name: "Jakub"
   surname: "Nabrdalik"
@@ -101,13 +108,17 @@
   thumbnailUrl: wojciech-rzasa.jpg
   rockstar: true
   bio: >
-    Informatyk z zamiłowania i z zawodu. Inżynier z doktoratem, administrator, tech-lead, architekt. Od początku kariery blisko systemów rozproszonych, wytwarzania oprogramowania i po prostu programowania. Po 15 latach pracy akademickiej i badania systemów rozproszonych, obecnie tworzy oprogramowanie dla <a href='http://flyrlabs.com'>FLYR Inc.</a>. Współtworzy Rzeszowską grupę użytkowników języka Ruby (<a href='http://RRUG.pl'>RRUG.pl</a>). Więcej na <a href='https://www.linkedin.com/in/wrzasa/'>linkedin.com/in/wrzasa/</a>.
+    Informatyk z zamiłowania i z zawodu. Inżynier z doktoratem, administrator, tech-lead, architekt. 
+    Od początku kariery blisko systemów rozproszonych, wytwarzania oprogramowania i po prostu programowania. 
+    Po 15 latach pracy akademickiej i badania systemów rozproszonych, obecnie tworzy oprogramowanie dla <a href='http://flyrlabs.com'>FLYR Inc.</a>. 
+    Współtworzy Rzeszowską grupę użytkowników języka Ruby (<a href='http://RRUG.pl'>RRUG.pl</a>). 
+    Więcej na <a href='https://www.linkedin.com/in/wrzasa/'>linkedin.com/in/wrzasa/</a>.
 - id: 11  # SII
   name: "Artur"
   surname: "Molendowski"
   title: "Microsoft Azure MVP, Microsoft Certified Trainer (MCT)"
   thumbnailUrl: artur-molendowski.png
-  descritpion: >
+  bio: >
     W Sii Polska pracuje na stanowisku DevOps/Cloud Engineer. Na co dzień wykorzystuje usługi Microsoft Azure.
     Buduje i programuje roboty z klocków Lego.
     Prowadzi podcast „Chwila dla Admina” (chwiladlaadmina.pl) skupiający się szeroko na obszarach IT i nowych technologii.
@@ -120,7 +131,7 @@
   name: "Jakub"
   surname: "Koleżyński"
   thumbnailUrl: jakub-kolezynski.jpg
-  description: >
+  bio: >
     Inżynier oprogramowania, dotnetowiec, full stack.
     Dociekliwie chce wszystko rozłożyć na czynniki pierwsze, a wyzwania traktuje jako szansę do rozwoju.
     Posiada backendowe korzenie i rozkwitającą pasję do frontendu, ale najbardziej uwielbia po prostu budować
@@ -147,6 +158,10 @@
   surname: "Żurawski"
   title: "Architekt IT w Fabrity"
   thumbnailUrl: michal-zurawski.jpeg
+  bio: >
+    Michał jest architektem oprogramowania. Zarządzaniem zespołami i prowadzeniem ich pod kątem technicznym zajmuje się od przeszło 5 lat. 
+    Na co dzień stara się łączyć prace stricte techniczną z zarządzaniem. Pasjonat czystych i rozszerzalnych rozwiązań. 
+    Prywatnie mąż, ojciec i akrobata.
 - id: 15
   name: "Kamil"
   surname: "Mrzygłód"
@@ -170,3 +185,9 @@
   surname: "Sobótka"
   thumbnailUrl: slawek-sobotka.jpg
   rockstar: true
+  bio: >
+    Od 12 lat jestem trenerem i konsultantem w firmie Bottega IT Minds. 
+    <br /><br />    
+    W codziennej pracy integruję Domain Driven Design, Event Storming, style architektoniczne, zwinne procesy wytwórcze i zdrowy rozsądek.
+    Stosuję nadrzędną zasadę: rozpoznać klasę problemu z jaką mamy do czynienia i dobrać do niej odpowiednią klasę narzędzia.
+    Hobbystycznie interesuję się psychologią pozytywną i kognitywistyką. Lubię myśleć o sobie jako entuzjaście Software Craftsmanship.
