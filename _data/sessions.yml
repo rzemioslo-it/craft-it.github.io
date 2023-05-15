@@ -239,8 +239,10 @@
     <p>Wymagania</p>
     <ul>
       <li>Laptop</li>
+      <li>GIT</li>
       <li>Większość warsztatu odbędzie się na platformie miro.com, więc dobrze się z nią zapoznać (zajmuje sie jakieś 2 minuty)</li>
       <li>Dodatkowo warto mieć zainstalowane ulubione IDE, ulubiony język oraz klienta git (bo może pojawi się nasz wspólny kod)</li>
+      <li>będziemy pracować w grupach (2-4 osobowych, w zależności od liczby osób)<li/>
     </ul>
   speakers: [ 4 ]
 - id: 301
