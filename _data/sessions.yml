@@ -58,7 +58,7 @@
   title: "Beyond Clean Code: Ethernal architectural practises"
   subtype: presentation
   description: >
-    TBD
+    'In this talk we will cover: thinking in terms of abstractions, placing the right language in the right places, fighting with cognitive load and biases, what kinds of coupling can we see and which one is the worst, how to overcome the fear of having many small classes, hot to explain cohesion to a junior developer and more. Those evergreen rules can help you become more efficient and persuasive at work.'
   speakers: [ 4 ]
 - id: 205
   title: "Best practices in practice: things that work for me so well I cannot believe you are not using them"
@@ -162,39 +162,39 @@
   speakers: [ 14 ]
   description: >
     Zostałeś tech leadem i co dalej?
-    <br /><br />  
+    <br /><br />
     W idealnym świcie przejmujesz idealnie zgrany, autonomiczny zespół, który pracuje nad projektem bez grama legacy. Co miesiąc żonglujecie nowymi technologiami, a jedyną sytuacją kryzysową jest brak kawy w biurowej kuchni.
-    <br /><br />  
+    <br /><br />
     Rzeczywistość wygląda zupełnie inaczej. Zróżnicowany, niezgrany zespół, niskie morale, a może projekt, który jest legacy od momentu pierwszego commita? Czasami to dowolna konfiguracja tych problemów, a czasami wszystkie na raz.
-    <br /><br />  
-    Podczas prezentacji spróbujemy odpowiedzieć sobie na pytania jak prowadzić zespół tak, aby nie zwariować oraz po co i czy, w ogóle, warto zostać tech leadem. 
+    <br /><br />
+    Podczas prezentacji spróbujemy odpowiedzieć sobie na pytania jak prowadzić zespół tak, aby nie zwariować oraz po co i czy, w ogóle, warto zostać tech leadem.
 - id: 215
   title: "Teściowa potrzebowała Toyotę Yaris więc kupiliśmy jej BMW X6"
   place: ""
   subtype: presentation
   speakers: [ 15 ]
   description: >
-    Praca nad systemem dla nowego klienta to zawsze wyzwanie. Nowe środowisko, inny zakres kompetencji, odmienne oczekiwania. 
-    Doradzamy, rozmawiamy, zastanawiamy się – krok po kroku tworzymy nowe usługi oraz komponenty. 
-    Mijają tygodnie, potem miesiące, a my coraz bardziej naginamy rzeczywistość, aby zmieścić się w wycenach, estymacjach, celach.  
-    W końcu nadchodzi upragniony koniec, idziemy na produkcję i patrzymy z boku na nasze dzieło. 
-    Sukces! Skończyliśmy z małym potworkiem, do którego ciężko się przyznać, ale na szczęście mamy kolejny projekt na horyzoncie. 
+    Praca nad systemem dla nowego klienta to zawsze wyzwanie. Nowe środowisko, inny zakres kompetencji, odmienne oczekiwania.
+    Doradzamy, rozmawiamy, zastanawiamy się – krok po kroku tworzymy nowe usługi oraz komponenty.
+    Mijają tygodnie, potem miesiące, a my coraz bardziej naginamy rzeczywistość, aby zmieścić się w wycenach, estymacjach, celach.
+    W końcu nadchodzi upragniony koniec, idziemy na produkcję i patrzymy z boku na nasze dzieło.
+    Sukces! Skończyliśmy z małym potworkiem, do którego ciężko się przyznać, ale na szczęście mamy kolejny projekt na horyzoncie.
     Pyk, nowa pozycja w CV a nasza abominacją na całe szczęście zajmie się kto inny.
     <br /><br />
-    W trakcie prezentacji porozmawiamy o tym jak bardzo nasze ego przeszkadza w delivery, 
+    W trakcie prezentacji porozmawiamy o tym jak bardzo nasze ego przeszkadza w delivery,
     o czym zapominamy podczas analizy potrzeb klienta i dlaczego musieliśmy przebudować garaż tytułowej teściowej.
 - id: 216
   title: "Rola QA w starciu z nadciągającym AI - Czy to koniec testów jakie znamy?"
   place: ""
   subtype: presentation
   speakers: [ 16 ]
-  description: >    
-    Temat sztucznej inteligencji coraz odważniej wkracza w przestrzeń wytwarzania oprogramowania. 
-    Obietnice, jakie składa AI, zawładnęły głowami zarządów wielu firm w naszej branży, 
-    co jest wyraźnie widoczne na dzisiejszych rynkach pracy. 
-    Artykuły i eksperci opowiadają o korzyściach wynikających z testów z wiodącym udziałem AI, 
-    ale czy nie są one składane tylko na kredyt? Czy to koniec testów manualnych, a testerzy staną się zbędni? 
-    Czy automatyzacja testów w projektach stanie się standardem? Czy może to tylko kolejne zamieszanie, 
+  description: >
+    Temat sztucznej inteligencji coraz odważniej wkracza w przestrzeń wytwarzania oprogramowania.
+    Obietnice, jakie składa AI, zawładnęły głowami zarządów wielu firm w naszej branży,
+    co jest wyraźnie widoczne na dzisiejszych rynkach pracy.
+    Artykuły i eksperci opowiadają o korzyściach wynikających z testów z wiodącym udziałem AI,
+    ale czy nie są one składane tylko na kredyt? Czy to koniec testów manualnych, a testerzy staną się zbędni?
+    Czy automatyzacja testów w projektach stanie się standardem? Czy może to tylko kolejne zamieszanie,
     które dostarczy jeszcze więcej oprogramowania do testów?
 - id: 210
   title: "Microservices, Data, Decoupling and Messages"
