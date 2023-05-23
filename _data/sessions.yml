@@ -57,8 +57,7 @@
 - id: 204
   title: "Beyond Clean Code: Ethernal architectural practises"
   subtype: presentation
-  description: >
-    'In this talk we will cover: thinking in terms of abstractions, placing the right language in the right places, fighting with cognitive load and biases, what kinds of coupling can we see and which one is the worst, how to overcome the fear of having many small classes, hot to explain cohesion to a junior developer and more. Those evergreen rules can help you become more efficient and persuasive at work.'
+  description: "In this talk we will cover: thinking in terms of abstractions, placing the right language in the right places, fighting with cognitive load and biases, what kinds of coupling can we see and which one is the worst, how to overcome the fear of having many small classes, hot to explain cohesion to a junior developer and more. Those evergreen rules can help you become more efficient and persuasive at work."
   speakers: [ 4 ]
 - id: 205
   title: "Best practices in practice: things that work for me so well I cannot believe you are not using them"
