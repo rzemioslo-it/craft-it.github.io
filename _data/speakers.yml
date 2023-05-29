@@ -2,6 +2,7 @@
   name: "Jarosław"
   surname: "Pałka"
   title: "Software Consultant/Architect/Trainer"
+  feedback: https://forms.gle/dGDCnxazER2fePzG8
   bio: >
     Od ponad 20 lat w branży IT jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”.
     Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk - z tym samym zawsze skutkiem.
@@ -19,6 +20,7 @@
   name: "Krzysztof"
   surname: "Kędzierski"
   title: "Engineering Leader"
+  feedback: https://forms.gle/h9QS3JjdQmeZomuj9
   bio: >
     Swoją przygodę z IT rozpoczynał od ról developerskich, stopniowo wchodząc w role liderskie/managerskie.
     Pracował w firmach o różnej specyfice jak software house, startup/scaleup, duża firma produktowa, bank inwestycyjny.
@@ -32,6 +34,7 @@
 - id: 3
   name: "Michał"
   surname: "Borkowski"
+  feedback: https://forms.gle/HEpGvdfVon2nGphU7
   bio: >
     Michał tworzy oprogramowanie w Xebia. Kiedy nie programuje, lubi dzielić się wiedzą ze studentami i przypadkowymi przechodniami.
     W wolnym czasie lubi eksperymentować z niszowymi technologiami i robić proste rzeczy od podstaw - wynajdować koło na nowo.
@@ -44,6 +47,7 @@
   surname: "Pilimon"
   thumbnailUrl: jakub-pilimon.jpeg
   rockstar: true
+  https://forms.gle/81efWdz9FZwvqR4k6
   bio: >
     Miłośnik DDD, OOP oraz TDD. Developer/Architekt pod kątem inżynierskim głównie zainteresowany modelowaniem oraz architekturą. 
     Swój wysiłek skupia na czytelności kodu, skalowalności oraz wydajności.
@@ -55,6 +59,7 @@
   name: "Jakub"
   surname: "Nabrdalik"
   thumbnailUrl: jakub_nabrdalik.jpg
+  feedback: https://forms.gle/YBnFSbo54AWAc2BL8
   bio: >
     20 years of designing, building, coding, and operating systems on production.
     200+ workshops and lectures.
@@ -65,6 +70,7 @@
   surname: "Ptak"
   thumbnailUrl: wojtek-ptak.jpg
   rockstar: true
+  feedback: https://forms.gle/ww9iL9h9hgK7skVE9
   bio: >    
     Wojtek works as Head of Product Engineering at Revolut. 
     Before, he worked as CTO for several companies, provided consulting, training, and assisted in building various data collecting, 
@@ -76,6 +82,7 @@
   name: "Wiktor"
   surname: "Sztajerowski"
   thumbnailUrl: wiktor-sztajerowski.jpg
+  feedback: https://forms.gle/AqfAygt1mXjya2Vg8
   bio: >
     Wiktor określa się jako cynik, wielbiciel marnych dowcipów i koneser chemexa.
     Obecnie skupiony na technologiach blockchain.
@@ -86,6 +93,7 @@
 - id: 8
   name: "Barbara"
   surname: "Kozioł"
+  feedback: https://forms.gle/YVEfGaT26RY45JMAA
   thumbnailUrl: barbara-koziol.jpg
   bio: >
     Specjalistka do spraw zachowania jakości, fanka podejścia TestOps oraz testów Accessibility.
@@ -97,6 +105,7 @@
   name: "Piotr"
   surname: "Stapp"
   thumbnailUrl: piotr-stapp.jpg
+  feedback: https://forms.gle/1opeeNwyRuNwGm3V7
   bio: >
     Programista, inżynier, rzemieślnik, projektant i rowerzysta oraz Microsoft MVP.
     Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery.
@@ -107,6 +116,7 @@
   surname: "Rząsa"
   thumbnailUrl: wojciech-rzasa.jpg
   rockstar: true
+  feedback: https://forms.gle/BREEpaB4yLoDJekTA
   bio: >
     Informatyk z zamiłowania i z zawodu. Inżynier z doktoratem, administrator, tech-lead, architekt. 
     Od początku kariery blisko systemów rozproszonych, wytwarzania oprogramowania i po prostu programowania. 
@@ -118,6 +128,7 @@
   surname: "Molendowski"
   title: "Microsoft Azure MVP, Microsoft Certified Trainer (MCT)"
   thumbnailUrl: artur-molendowski.png
+  feedback: https://forms.gle/C7v4irZnUGmyqH6H8
   bio: >
     W Sii Polska pracuje na stanowisku DevOps/Cloud Engineer. Na co dzień wykorzystuje usługi Microsoft Azure.
     Buduje i programuje roboty z klocków Lego.
@@ -131,6 +142,7 @@
   name: "Jakub"
   surname: "Koleżyński"
   thumbnailUrl: jakub-kolezynski.jpg
+  feedback: https://forms.gle/cYmwMGV48ecrbDKT6
   bio: >
     Inżynier oprogramowania, dotnetowiec, full stack.
     Dociekliwie chce wszystko rozłożyć na czynniki pierwsze, a wyzwania traktuje jako szansę do rozwoju.
@@ -152,12 +164,14 @@
     Prywatnie lubi czytać, grać w planszówki, RPG papierowe i komputerowe,
     trenuje trójbój siłowy oraz kolekcjonuje stare Lego Technic.
     Gdy najdzie go wena, pisze o technologii, ludziologii i smokach na HowToTrainYourJava.com.
+  feedback: https://forms.gle/xuounAkyTPVovdkM8
   thumbnailUrl: pawel-zajaczkowski.jpg
 - id: 14
   name: "Michał" # Fabrity
   surname: "Żurawski"
   title: "Architekt IT w Fabrity"
   thumbnailUrl: michal-zurawski.jpeg
+  feedback: https://forms.gle/hN6FwGhsaaA3m3S29
   bio: >
     Michał jest architektem oprogramowania. Zarządzaniem zespołami i prowadzeniem ich pod kątem technicznym zajmuje się od przeszło 5 lat. 
     Na co dzień stara się łączyć prace stricte techniczną z zarządzaniem. Pasjonat czystych i rozszerzalnych rozwiązań. 
@@ -166,6 +180,7 @@
   name: "Kamil"
   surname: "Mrzygłód"
   thumbnailUrl: kamil-mrzyglod.jpg
+  feedback: https://forms.gle/w8iMQ6Pr6p2SQyWn9
   bio: >
     Programista, konsultant, trener, architekt oraz tech lead (w dowolnej kolejności, zależnej od potrzeb). 
     Backgroundowo .NET developer, od wielu lat specjalizuję się w chmurze Azure popełniając po drodze dwie książki na temat wykorzystania 
@@ -175,6 +190,7 @@
   name: "Artur"
   surname: "Morawski"
   thumbnailUrl: artur-morawski.jpg
+  feedback: https://forms.gle/unHX9MB8nTt9XYw8A
   bio: >
     Od blisko 12 lat zajmuję się tematami związanymi z jakością i oprogramowaniem, w tym testami, automatyzacją, 
     procesami oraz zarządzaniem zespołami QA. Pracowałem przy pełnym spektrum projektów, od embedded, 
