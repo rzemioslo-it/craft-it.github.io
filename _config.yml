@@ -158,6 +158,7 @@ footerBlocks:
     - { permalink: "/files/polityka_prywatnosci.pdf", text: "Polityka Prywatności" }
  - title: "Archiwum"
    links:
+    - { link: "https://2023.craft-it.pl", text: "2023" }
     - { link: "https://2022.craft-it.pl", text: "2022" }
     - { link: "https://2019.rzemioslo.it", text: "2019" }
     - { link: "https://2018.rzemioslo.it", text: "2018" }
