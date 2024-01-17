@@ -1,210 +1,210 @@
-- id: 1
-  name: "Jarosław"
-  surname: "Pałka"
-  title: "Software Consultant/Architect/Trainer"
-  feedback: https://forms.gle/dGDCnxazER2fePzG8
-  bio: >
-    Od ponad 20 lat w branży IT jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”.
-    Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk - z tym samym zawsze skutkiem.
-    Wszystko to doprowadziło mnie do wniosku, że nieważne co robisz, ważne byś robił to dobrze, w najprostszy z możliwych sposobów i przy użyciu właściwych narzędzi, które wykonają pracę za Ciebie.
-    W międzyczasie dałem się porwać ideom TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL. Porzuciłem je, by zgłębić tajniki „system thinking” i zachwycić się siłą, jaką niesie ze sobą „metafora” oraz by odkryć, że rządzą nami te same prawa „natury”.
-    Niepokorny wyznawca kościoła JVM, badacz bytecode’u i JIT oraz wszelkiej maści parserów, interpreterów i kompilatorów.
-    Na co dzień walczący o lepszą wydajność w Neo4j. Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce.
-    W wolnych chwilach trener w Symentis, autor bloga na <a href="http://geekyprimitives.wordpress.com/">http://geekyprimitives.wordpress.com/</a> oraz samozwańczy dyktator w Radzie Programowej konferencji SegFault.
-  thumbnailUrl: jarek-palka.jpg
-  rockstar: true
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/jpalka/" }
-    - { name: "twitter", link: "https://twitter.com/j_palka" }
-- id: 2
-  name: "Krzysztof"
-  surname: "Kędzierski"
-  title: "Engineering Leader"
-  feedback: https://forms.gle/h9QS3JjdQmeZomuj9
-  bio: >
-    Swoją przygodę z IT rozpoczynał od ról developerskich, stopniowo wchodząc w role liderskie/managerskie.
-    Pracował w firmach o różnej specyfice jak software house, startup/scaleup, duża firma produktowa, bank inwestycyjny.
-    Specjalizuje się w architekturze na przecięciu z zarządzaniem zespołami i organizacją.
-    Prywatnie: wielki fan piłki nożnej.
-  thumbnailUrl: krzysztof-kedzierski.jpeg
-  rockstar: true
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/krzysztofkedzierski/" }
-    - { name: "twitter", link: "https://twitter.com/kkedzierski87" }
-- id: 3
-  name: "Michał"
-  surname: "Borkowski"
-  feedback: https://forms.gle/HEpGvdfVon2nGphU7
-  bio: >
-    Michał tworzy oprogramowanie w Xebia. Kiedy nie programuje, lubi dzielić się wiedzą ze studentami i przypadkowymi przechodniami.
-    W wolnym czasie lubi eksperymentować z niszowymi technologiami i robić proste rzeczy od podstaw - wynajdować koło na nowo.
-    Zwykle używa narzędzia odpowiedniego do zadania, ale jego ulubione środowisko programistyczne to vim + tmux + czarno-biała konsola.
-    Słynie z tego że dzieli się swoją skromną wiedzą z innymi w formie anegdotek, czy tego chcą czy nie.
-  thumbnailUrl: michal-borkowski.jpg
-  rockstar: true
-- id: 4
-  name: "Jakub"
-  surname: "Pilimon"
-  thumbnailUrl: jakub-pilimon.jpeg
-  rockstar: true
-  feedback: https://forms.gle/81efWdz9FZwvqR4k6
-  bio: >
-    Miłośnik DDD, OOP oraz TDD. Developer/Architekt pod kątem inżynierskim głównie zainteresowany modelowaniem oraz architekturą. 
-    Swój wysiłek skupia na czytelności kodu, skalowalności oraz wydajności.
-    <br /><br />
-    Podczas dotychczasowej kariery projektował oraz implementował systemy dla branży finansowej, medycznej, telekomunikacyjnej oraz energetycznej
-    <br /><br />
-    Prywatnie fanatyk piłki nożnej, narciarstwa i jazdy motocyklem
-- id: 5
-  name: "Jakub"
-  surname: "Nabrdalik"
-  thumbnailUrl: jakub_nabrdalik.jpg
-  feedback: https://forms.gle/YBnFSbo54AWAc2BL8
-  bio: >
-    20 years of designing, building, coding, and operating systems on production.
-    200+ workshops and lectures.
-    More at nabrdalik.dev
-  rockstar: true
-- id: 6
-  name: "Wojtek"
-  surname: "Ptak"
-  thumbnailUrl: wojtek-ptak.jpg
-  rockstar: true
-  feedback: https://forms.gle/ww9iL9h9hgK7skVE9
-  bio: >    
-    Wojtek works as Head of Product Engineering at Revolut. 
-    Before, he worked as CTO for several companies, provided consulting, training, and assisted in building various data collecting, 
-    analytics, and applied ML/AI solutions, including Big Data implementations, data stream processing systems, and data insight projects.
-    <br /><br />
-    He worked with multiple Forbes 500 brands in the US, UK, and the Netherlands, including The Coca-Cola Company, 
-    the American Bankers Association, Macy’s, Bloomingdales, Heineken, Saks 5th Avenue, BP, Boots, Polo Ralph Lauren, Porsche, HSBC, and others.
-- id: 7
-  name: "Wiktor"
-  surname: "Sztajerowski"
-  thumbnailUrl: wiktor-sztajerowski.jpg
-  feedback: https://forms.gle/AqfAygt1mXjya2Vg8
-  bio: >
-    Wiktor określa się jako cynik, wielbiciel marnych dowcipów i koneser chemexa.
-    Obecnie skupiony na technologiach blockchain.
-    Bywalec salonów konferencyjnych (czasami nawet udaje, że coś wie i mądrzy się ze sceny).
-    Na co dzień programista, architekt lub konsultant - w zależności od potrzeb.
-    Jeden z ojców założycieli konferencji SegFault oraz członek kapituły łódzkiego JUG.
-  rockstar: true
-- id: 8
-  name: "Barbara"
-  surname: "Kozioł"
-  feedback: https://forms.gle/YVEfGaT26RY45JMAA
-  thumbnailUrl: barbara-koziol.jpg
-  bio: >
-    Specjalistka do spraw zachowania jakości, fanka podejścia TestOps oraz testów Accessibility.
-    Dbaniem o jakość zajmuje się ponad pięć lat.
-    W Xebia oprócz pracy projekcie zajmuje się koordynowaniem działań Gildii Accessibility.
-    W wolnym czasie spaceruje lub czyta książki.
-  rockstar: true
-- id: 9
-  name: "Piotr"
-  surname: "Stapp"
-  thumbnailUrl: piotr-stapp.jpg
-  feedback: https://forms.gle/1opeeNwyRuNwGm3V7
-  bio: >
-    Programista, inżynier, rzemieślnik, projektant i rowerzysta oraz Microsoft MVP.
-    Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery.
-    Tworzy i projektuje oprogramowanie, a to czasem bywa trudne.
-  rockstar: true
-- id: 10
-  name: "Wojciech"
-  surname: "Rząsa"
-  thumbnailUrl: wojciech-rzasa.jpg
-  rockstar: true
-  feedback: https://forms.gle/BREEpaB4yLoDJekTA
-  bio: >
-    Informatyk z zamiłowania i z zawodu. Inżynier z doktoratem, administrator, tech-lead, architekt. 
-    Od początku kariery blisko systemów rozproszonych, wytwarzania oprogramowania i po prostu programowania. 
-    Po 15 latach pracy akademickiej i badania systemów rozproszonych, obecnie tworzy oprogramowanie dla <a href='http://flyrlabs.com'>FLYR Inc.</a>. 
-    Współtworzy Rzeszowską grupę użytkowników języka Ruby (<a href='http://RRUG.pl'>RRUG.pl</a>). 
-    Więcej na <a href='https://www.linkedin.com/in/wrzasa/'>linkedin.com/in/wrzasa/</a>.
-- id: 11  # SII
-  name: "Artur"
-  surname: "Molendowski"
-  title: "Microsoft Azure MVP, Microsoft Certified Trainer (MCT)"
-  thumbnailUrl: artur-molendowski.png
-  feedback: https://forms.gle/C7v4irZnUGmyqH6H8
-  bio: >
-    W Sii Polska pracuje na stanowisku DevOps/Cloud Engineer. Na co dzień wykorzystuje usługi Microsoft Azure.
-    Buduje i programuje roboty z klocków Lego.
-    Prowadzi podcast „Chwila dla Admina” (chwiladlaadmina.pl) skupiający się szeroko na obszarach IT i nowych technologii.
-    Organizator meetupów Microsoft Azure User Group Poland, prelegent na konferencjach i webinarach.
-  social:
-    - { name: "site", link: "http://chwiladlaadmina.pl/" }
-    - { name: "linkedin", link: "https://www.linkedin.com/in/artur-molendowski/" }
-    - { name: "twitter", link: "https://twitter.com/AMolendowski" }
-- id: 12 #New Orbit
-  name: "Jakub"
-  surname: "Koleżyński"
-  thumbnailUrl: jakub-kolezynski.jpg
-  feedback: https://forms.gle/cYmwMGV48ecrbDKT6
-  bio: >
-    Inżynier oprogramowania, dotnetowiec, full stack.
-    Dociekliwie chce wszystko rozłożyć na czynniki pierwsze, a wyzwania traktuje jako szansę do rozwoju.
-    Posiada backendowe korzenie i rozkwitającą pasję do frontendu, ale najbardziej uwielbia po prostu budować
-    - wspólnie, samodzielnie, z potrzeby czy dla eksperymentu, zawsze chce znaleźć najprostsze rozwiązanie.
-    Zawodowo pisał dla różnorodnej widowni, od przemysłu ciężkiego po korporacje finansowe,
-    a aktualnie doskonale bawi się w NewOrbit, wymieniając się doświadczeniem i szlifując swoje rzemiosło.
-  social:
-    - { name: "site", link: "https://kolezyn.ski/" }
-- id: 13 # xebia
-  name: "Paweł"
-  surname: "Zajączkowski"
-  bio: >
-    Siedzi we Wrocławskim IT od 2009.
-    Rozgrzebywał kod w fińskim telecomie, niemieckiej logistyce, szwajcarskim banku, fabryce aut, podróżniczym startupie,
-    brytyjskim compliance oraz wynajmie willi.
-    Aktualnie zszedł na ciemną stronę mocy i zajmuje się opieką nad stadkiem programistów i team leaderów,
-    programem mentoringowym, gildiami oraz wtykaniem wszędzie swojego nosa.
-    Prywatnie lubi czytać, grać w planszówki, RPG papierowe i komputerowe,
-    trenuje trójbój siłowy oraz kolekcjonuje stare Lego Technic.
-    Gdy najdzie go wena, pisze o technologii, ludziologii i smokach na HowToTrainYourJava.com.
-  feedback: https://forms.gle/xuounAkyTPVovdkM8
-  thumbnailUrl: pawel-zajaczkowski.jpg
-- id: 14
-  name: "Michał" # Fabrity
-  surname: "Żurawski"
-  title: "Architekt IT w Fabrity"
-  thumbnailUrl: michal-zurawski.jpeg
-  feedback: https://forms.gle/hN6FwGhsaaA3m3S29
-  bio: >
-    Michał jest architektem oprogramowania. Zarządzaniem zespołami i prowadzeniem ich pod kątem technicznym zajmuje się od przeszło 5 lat. 
-    Na co dzień stara się łączyć prace stricte techniczną z zarządzaniem. Pasjonat czystych i rozszerzalnych rozwiązań. 
-    Prywatnie mąż, ojciec i akrobata.
-- id: 15
-  name: "Kamil"
-  surname: "Mrzygłód"
-  thumbnailUrl: kamil-mrzyglod.jpg
-  feedback: https://forms.gle/w8iMQ6Pr6p2SQyWn9
-  bio: >
-    Programista, konsultant, trener, architekt oraz tech lead (w dowolnej kolejności, zależnej od potrzeb). 
-    Backgroundowo .NET developer, od wielu lat specjalizuję się w chmurze Azure popełniając po drodze dwie książki na temat wykorzystania 
-    jej w kontekście administracji oraz developmentu aplikacji. Pracował z tymi najmniejszymi, jak i największymi klientami w różnych rolach 
-    i z różnymi technologiami. W wolnych chwilach rozwija swoje projekty na GitHubie albo robi kolejne podejście do napisania własnej gry komputerowej.
-- id: 16
-  name: "Artur"
-  surname: "Morawski"
-  thumbnailUrl: artur-morawski.jpg
-  feedback: https://forms.gle/unHX9MB8nTt9XYw8A
-  bio: >
-    Od blisko 12 lat zajmuję się tematami związanymi z jakością i oprogramowaniem, w tym testami, automatyzacją, 
-    procesami oraz zarządzaniem zespołami QA. Pracowałem przy pełnym spektrum projektów, od embedded, 
-    przez aplikacje biznesowe, bankowe i użytkowe, zarówno w chmurze jak i w piwnicy, dla startupów, a także dużych korporacyjnych organizacji. 
-    W wolnych chwilach żegluję, a jak spadnie śnieg, rozpoczynam sezon narciarski.
-- id: 17
-  name: "Sławomir"
-  surname: "Sobótka"
-  thumbnailUrl: slawek-sobotka.jpg
-  rockstar: true
-  feedback: https://forms.gle/Wx2jvZi5tFh4DGZT8
-  bio: >
-    Od 12 lat jestem trenerem i konsultantem w firmie Bottega IT Minds. 
-    <br /><br />    
-    W codziennej pracy integruję Domain Driven Design, Event Storming, style architektoniczne, zwinne procesy wytwórcze i zdrowy rozsądek.
-    Stosuję nadrzędną zasadę: rozpoznać klasę problemu z jaką mamy do czynienia i dobrać do niej odpowiednią klasę narzędzia.
-    Hobbystycznie interesuję się psychologią pozytywną i kognitywistyką. Lubię myśleć o sobie jako entuzjaście Software Craftsmanship.
+# - id: 1
+#   name: "Jarosław"
+#   surname: "Pałka"
+#   title: "Software Consultant/Architect/Trainer"
+#   feedback: https://forms.gle/dGDCnxazER2fePzG8
+#   bio: >
+#     Od ponad 20 lat w branży IT jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”.
+#     Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk - z tym samym zawsze skutkiem.
+#     Wszystko to doprowadziło mnie do wniosku, że nieważne co robisz, ważne byś robił to dobrze, w najprostszy z możliwych sposobów i przy użyciu właściwych narzędzi, które wykonają pracę za Ciebie.
+#     W międzyczasie dałem się porwać ideom TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL. Porzuciłem je, by zgłębić tajniki „system thinking” i zachwycić się siłą, jaką niesie ze sobą „metafora” oraz by odkryć, że rządzą nami te same prawa „natury”.
+#     Niepokorny wyznawca kościoła JVM, badacz bytecode’u i JIT oraz wszelkiej maści parserów, interpreterów i kompilatorów.
+#     Na co dzień walczący o lepszą wydajność w Neo4j. Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce.
+#     W wolnych chwilach trener w Symentis, autor bloga na <a href="http://geekyprimitives.wordpress.com/">http://geekyprimitives.wordpress.com/</a> oraz samozwańczy dyktator w Radzie Programowej konferencji SegFault.
+#   thumbnailUrl: jarek-palka.jpg
+#   rockstar: true
+#   social:
+#     - { name: "linkedin", link: "https://www.linkedin.com/in/jpalka/" }
+#     - { name: "twitter", link: "https://twitter.com/j_palka" }
+# - id: 2
+#   name: "Krzysztof"
+#   surname: "Kędzierski"
+#   title: "Engineering Leader"
+#   feedback: https://forms.gle/h9QS3JjdQmeZomuj9
+#   bio: >
+#     Swoją przygodę z IT rozpoczynał od ról developerskich, stopniowo wchodząc w role liderskie/managerskie.
+#     Pracował w firmach o różnej specyfice jak software house, startup/scaleup, duża firma produktowa, bank inwestycyjny.
+#     Specjalizuje się w architekturze na przecięciu z zarządzaniem zespołami i organizacją.
+#     Prywatnie: wielki fan piłki nożnej.
+#   thumbnailUrl: krzysztof-kedzierski.jpeg
+#   rockstar: true
+#   social:
+#     - { name: "linkedin", link: "https://www.linkedin.com/in/krzysztofkedzierski/" }
+#     - { name: "twitter", link: "https://twitter.com/kkedzierski87" }
+# - id: 3
+#   name: "Michał"
+#   surname: "Borkowski"
+#   feedback: https://forms.gle/HEpGvdfVon2nGphU7
+#   bio: >
+#     Michał tworzy oprogramowanie w Xebia. Kiedy nie programuje, lubi dzielić się wiedzą ze studentami i przypadkowymi przechodniami.
+#     W wolnym czasie lubi eksperymentować z niszowymi technologiami i robić proste rzeczy od podstaw - wynajdować koło na nowo.
+#     Zwykle używa narzędzia odpowiedniego do zadania, ale jego ulubione środowisko programistyczne to vim + tmux + czarno-biała konsola.
+#     Słynie z tego że dzieli się swoją skromną wiedzą z innymi w formie anegdotek, czy tego chcą czy nie.
+#   thumbnailUrl: michal-borkowski.jpg
+#   rockstar: true
+# - id: 4
+#   name: "Jakub"
+#   surname: "Pilimon"
+#   thumbnailUrl: jakub-pilimon.jpeg
+#   rockstar: true
+#   feedback: https://forms.gle/81efWdz9FZwvqR4k6
+#   bio: >
+#     Miłośnik DDD, OOP oraz TDD. Developer/Architekt pod kątem inżynierskim głównie zainteresowany modelowaniem oraz architekturą. 
+#     Swój wysiłek skupia na czytelności kodu, skalowalności oraz wydajności.
+#     <br /><br />
+#     Podczas dotychczasowej kariery projektował oraz implementował systemy dla branży finansowej, medycznej, telekomunikacyjnej oraz energetycznej
+#     <br /><br />
+#     Prywatnie fanatyk piłki nożnej, narciarstwa i jazdy motocyklem
+# - id: 5
+#   name: "Jakub"
+#   surname: "Nabrdalik"
+#   thumbnailUrl: jakub_nabrdalik.jpg
+#   feedback: https://forms.gle/YBnFSbo54AWAc2BL8
+#   bio: >
+#     20 years of designing, building, coding, and operating systems on production.
+#     200+ workshops and lectures.
+#     More at nabrdalik.dev
+#   rockstar: true
+# - id: 6
+#   name: "Wojtek"
+#   surname: "Ptak"
+#   thumbnailUrl: wojtek-ptak.jpg
+#   rockstar: true
+#   feedback: https://forms.gle/ww9iL9h9hgK7skVE9
+#   bio: >    
+#     Wojtek works as Head of Product Engineering at Revolut. 
+#     Before, he worked as CTO for several companies, provided consulting, training, and assisted in building various data collecting, 
+#     analytics, and applied ML/AI solutions, including Big Data implementations, data stream processing systems, and data insight projects.
+#     <br /><br />
+#     He worked with multiple Forbes 500 brands in the US, UK, and the Netherlands, including The Coca-Cola Company, 
+#     the American Bankers Association, Macy’s, Bloomingdales, Heineken, Saks 5th Avenue, BP, Boots, Polo Ralph Lauren, Porsche, HSBC, and others.
+# - id: 7
+#   name: "Wiktor"
+#   surname: "Sztajerowski"
+#   thumbnailUrl: wiktor-sztajerowski.jpg
+#   feedback: https://forms.gle/AqfAygt1mXjya2Vg8
+#   bio: >
+#     Wiktor określa się jako cynik, wielbiciel marnych dowcipów i koneser chemexa.
+#     Obecnie skupiony na technologiach blockchain.
+#     Bywalec salonów konferencyjnych (czasami nawet udaje, że coś wie i mądrzy się ze sceny).
+#     Na co dzień programista, architekt lub konsultant - w zależności od potrzeb.
+#     Jeden z ojców założycieli konferencji SegFault oraz członek kapituły łódzkiego JUG.
+#   rockstar: true
+# - id: 8
+#   name: "Barbara"
+#   surname: "Kozioł"
+#   feedback: https://forms.gle/YVEfGaT26RY45JMAA
+#   thumbnailUrl: barbara-koziol.jpg
+#   bio: >
+#     Specjalistka do spraw zachowania jakości, fanka podejścia TestOps oraz testów Accessibility.
+#     Dbaniem o jakość zajmuje się ponad pięć lat.
+#     W Xebia oprócz pracy projekcie zajmuje się koordynowaniem działań Gildii Accessibility.
+#     W wolnym czasie spaceruje lub czyta książki.
+#   rockstar: true
+# - id: 9
+#   name: "Piotr"
+#   surname: "Stapp"
+#   thumbnailUrl: piotr-stapp.jpg
+#   feedback: https://forms.gle/1opeeNwyRuNwGm3V7
+#   bio: >
+#     Programista, inżynier, rzemieślnik, projektant i rowerzysta oraz Microsoft MVP.
+#     Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery.
+#     Tworzy i projektuje oprogramowanie, a to czasem bywa trudne.
+#   rockstar: true
+# - id: 10
+#   name: "Wojciech"
+#   surname: "Rząsa"
+#   thumbnailUrl: wojciech-rzasa.jpg
+#   rockstar: true
+#   feedback: https://forms.gle/BREEpaB4yLoDJekTA
+#   bio: >
+#     Informatyk z zamiłowania i z zawodu. Inżynier z doktoratem, administrator, tech-lead, architekt. 
+#     Od początku kariery blisko systemów rozproszonych, wytwarzania oprogramowania i po prostu programowania. 
+#     Po 15 latach pracy akademickiej i badania systemów rozproszonych, obecnie tworzy oprogramowanie dla <a href='http://flyrlabs.com'>FLYR Inc.</a>. 
+#     Współtworzy Rzeszowską grupę użytkowników języka Ruby (<a href='http://RRUG.pl'>RRUG.pl</a>). 
+#     Więcej na <a href='https://www.linkedin.com/in/wrzasa/'>linkedin.com/in/wrzasa/</a>.
+# - id: 11  # SII
+#   name: "Artur"
+#   surname: "Molendowski"
+#   title: "Microsoft Azure MVP, Microsoft Certified Trainer (MCT)"
+#   thumbnailUrl: artur-molendowski.png
+#   feedback: https://forms.gle/C7v4irZnUGmyqH6H8
+#   bio: >
+#     W Sii Polska pracuje na stanowisku DevOps/Cloud Engineer. Na co dzień wykorzystuje usługi Microsoft Azure.
+#     Buduje i programuje roboty z klocków Lego.
+#     Prowadzi podcast „Chwila dla Admina” (chwiladlaadmina.pl) skupiający się szeroko na obszarach IT i nowych technologii.
+#     Organizator meetupów Microsoft Azure User Group Poland, prelegent na konferencjach i webinarach.
+#   social:
+#     - { name: "site", link: "http://chwiladlaadmina.pl/" }
+#     - { name: "linkedin", link: "https://www.linkedin.com/in/artur-molendowski/" }
+#     - { name: "twitter", link: "https://twitter.com/AMolendowski" }
+# - id: 12 #New Orbit
+#   name: "Jakub"
+#   surname: "Koleżyński"
+#   thumbnailUrl: jakub-kolezynski.jpg
+#   feedback: https://forms.gle/cYmwMGV48ecrbDKT6
+#   bio: >
+#     Inżynier oprogramowania, dotnetowiec, full stack.
+#     Dociekliwie chce wszystko rozłożyć na czynniki pierwsze, a wyzwania traktuje jako szansę do rozwoju.
+#     Posiada backendowe korzenie i rozkwitającą pasję do frontendu, ale najbardziej uwielbia po prostu budować
+#     - wspólnie, samodzielnie, z potrzeby czy dla eksperymentu, zawsze chce znaleźć najprostsze rozwiązanie.
+#     Zawodowo pisał dla różnorodnej widowni, od przemysłu ciężkiego po korporacje finansowe,
+#     a aktualnie doskonale bawi się w NewOrbit, wymieniając się doświadczeniem i szlifując swoje rzemiosło.
+#   social:
+#     - { name: "site", link: "https://kolezyn.ski/" }
+# - id: 13 # xebia
+#   name: "Paweł"
+#   surname: "Zajączkowski"
+#   bio: >
+#     Siedzi we Wrocławskim IT od 2009.
+#     Rozgrzebywał kod w fińskim telecomie, niemieckiej logistyce, szwajcarskim banku, fabryce aut, podróżniczym startupie,
+#     brytyjskim compliance oraz wynajmie willi.
+#     Aktualnie zszedł na ciemną stronę mocy i zajmuje się opieką nad stadkiem programistów i team leaderów,
+#     programem mentoringowym, gildiami oraz wtykaniem wszędzie swojego nosa.
+#     Prywatnie lubi czytać, grać w planszówki, RPG papierowe i komputerowe,
+#     trenuje trójbój siłowy oraz kolekcjonuje stare Lego Technic.
+#     Gdy najdzie go wena, pisze o technologii, ludziologii i smokach na HowToTrainYourJava.com.
+#   feedback: https://forms.gle/xuounAkyTPVovdkM8
+#   thumbnailUrl: pawel-zajaczkowski.jpg
+# - id: 14
+#   name: "Michał" # Fabrity
+#   surname: "Żurawski"
+#   title: "Architekt IT w Fabrity"
+#   thumbnailUrl: michal-zurawski.jpeg
+#   feedback: https://forms.gle/hN6FwGhsaaA3m3S29
+#   bio: >
+#     Michał jest architektem oprogramowania. Zarządzaniem zespołami i prowadzeniem ich pod kątem technicznym zajmuje się od przeszło 5 lat. 
+#     Na co dzień stara się łączyć prace stricte techniczną z zarządzaniem. Pasjonat czystych i rozszerzalnych rozwiązań. 
+#     Prywatnie mąż, ojciec i akrobata.
+# - id: 15
+#   name: "Kamil"
+#   surname: "Mrzygłód"
+#   thumbnailUrl: kamil-mrzyglod.jpg
+#   feedback: https://forms.gle/w8iMQ6Pr6p2SQyWn9
+#   bio: >
+#     Programista, konsultant, trener, architekt oraz tech lead (w dowolnej kolejności, zależnej od potrzeb). 
+#     Backgroundowo .NET developer, od wielu lat specjalizuję się w chmurze Azure popełniając po drodze dwie książki na temat wykorzystania 
+#     jej w kontekście administracji oraz developmentu aplikacji. Pracował z tymi najmniejszymi, jak i największymi klientami w różnych rolach 
+#     i z różnymi technologiami. W wolnych chwilach rozwija swoje projekty na GitHubie albo robi kolejne podejście do napisania własnej gry komputerowej.
+# - id: 16
+#   name: "Artur"
+#   surname: "Morawski"
+#   thumbnailUrl: artur-morawski.jpg
+#   feedback: https://forms.gle/unHX9MB8nTt9XYw8A
+#   bio: >
+#     Od blisko 12 lat zajmuję się tematami związanymi z jakością i oprogramowaniem, w tym testami, automatyzacją, 
+#     procesami oraz zarządzaniem zespołami QA. Pracowałem przy pełnym spektrum projektów, od embedded, 
+#     przez aplikacje biznesowe, bankowe i użytkowe, zarówno w chmurze jak i w piwnicy, dla startupów, a także dużych korporacyjnych organizacji. 
+#     W wolnych chwilach żegluję, a jak spadnie śnieg, rozpoczynam sezon narciarski.
+# - id: 17
+#   name: "Sławomir"
+#   surname: "Sobótka"
+#   thumbnailUrl: slawek-sobotka.jpg
+#   rockstar: true
+#   feedback: https://forms.gle/Wx2jvZi5tFh4DGZT8
+#   bio: >
+#     Od 12 lat jestem trenerem i konsultantem w firmie Bottega IT Minds. 
+#     <br /><br />    
+#     W codziennej pracy integruję Domain Driven Design, Event Storming, style architektoniczne, zwinne procesy wytwórcze i zdrowy rozsądek.
+#     Stosuję nadrzędną zasadę: rozpoznać klasę problemu z jaką mamy do czynienia i dobrać do niej odpowiednią klasę narzędzia.
+#     Hobbystycznie interesuję się psychologią pozytywną i kognitywistyką. Lubię myśleć o sobie jako entuzjaście Software Craftsmanship.
