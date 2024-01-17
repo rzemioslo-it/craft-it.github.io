@@ -106,13 +106,13 @@ mapMobileCenterCoordinates: "50.028207872097916, 22.01418622033724"
 
 # Venue Block
 venueBlockTitle: "Miejsce"
-venueBigImage: "exterior1.jpg"
-venueSmallImage1: "conference-room1.jpg"
-venueSmallImage2: "couches.jpg"
+#venueBigImage: "exterior1.jpg"
+#venueSmallImage1: "conference-room1.jpg"
+#venueSmallImage2: "couches.jpg"
 venueSmallImage3: "interior.jpg"
-venueTitle: "Hilton Garden Inn Rzeszów"
-venueSubTitle: "Galeria Millenium Hall"
-venueFeatures: ["Komfortowy hotel w centrum Rzeszowa "]
+venueTitle: "TBD"
+#venueSubTitle: "Galeria Millenium Hall"
+#venueFeatures: ["Komfortowy hotel w centrum Rzeszowa "]
 
 # Partners Block
 organizersTitle: "Organizatorzy"
