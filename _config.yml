@@ -100,19 +100,19 @@ eventAddressLocalityRegion: "Rzeszów"
 #eventStartTime: "2019-05-25T09:00"
 #eventDoorTime: "08:00"
 #eventEndTime: "2019-05-26T18:00"
-eventPlaceCoordinates: "50.028207872097916, 22.01418622033724" # "50.0382509, 22.004591"
-mapCenterCoordinates: "50.028207872097916, 22.01418622033724"
-mapMobileCenterCoordinates: "50.028207872097916, 22.01418622033724"
+eventPlaceCoordinates: "50.0382509, 22.004591"
+mapCenterCoordinates: "50.0382509, 22.004591"
+mapMobileCenterCoordinates: "50.0382509, 22.004591"
 
 # Venue Block
 venueBlockTitle: "Miejsce"
-#venueBigImage: "exterior1.jpg"
-#venueSmallImage1: "conference-room1.jpg"
-#venueSmallImage2: "couches.jpg"
-venueSmallImage3: "interior.jpg"
-venueTitle: "TBD"
-#venueSubTitle: "Galeria Millenium Hall"
-#venueFeatures: ["Komfortowy hotel w centrum Rzeszowa "]
+venueBigImage: "bristol1.jpg"
+venueSmallImage1: "bristol-sala1.jpg"
+venueSmallImage2: "bristol2.jpg"
+venueSmallImage3: "bristol-sala2.jpg"
+venueTitle: "Bristol Tradition&Luxury Hotel"
+venueSubTitle: ""
+venueFeatures: ["Hotel w samym centrum Rzeszowa"]
 
 # Partners Block
 organizersTitle: "Organizatorzy"
