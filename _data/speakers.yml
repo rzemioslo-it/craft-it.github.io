@@ -1,21 +1,62 @@
-# - id: 1
-#   name: "Jarosław"
-#   surname: "Pałka"
-#   title: "Software Consultant/Architect/Trainer"
-#   feedback: https://forms.gle/dGDCnxazER2fePzG8
-#   bio: >
-#     Od ponad 20 lat w branży IT jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”.
-#     Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk - z tym samym zawsze skutkiem.
-#     Wszystko to doprowadziło mnie do wniosku, że nieważne co robisz, ważne byś robił to dobrze, w najprostszy z możliwych sposobów i przy użyciu właściwych narzędzi, które wykonają pracę za Ciebie.
-#     W międzyczasie dałem się porwać ideom TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL. Porzuciłem je, by zgłębić tajniki „system thinking” i zachwycić się siłą, jaką niesie ze sobą „metafora” oraz by odkryć, że rządzą nami te same prawa „natury”.
-#     Niepokorny wyznawca kościoła JVM, badacz bytecode’u i JIT oraz wszelkiej maści parserów, interpreterów i kompilatorów.
-#     Na co dzień walczący o lepszą wydajność w Neo4j. Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce.
-#     W wolnych chwilach trener w Symentis, autor bloga na <a href="http://geekyprimitives.wordpress.com/">http://geekyprimitives.wordpress.com/</a> oraz samozwańczy dyktator w Radzie Programowej konferencji SegFault.
-#   thumbnailUrl: jarek-palka.jpg
-#   rockstar: true
-#   social:
-#     - { name: "linkedin", link: "https://www.linkedin.com/in/jpalka/" }
-#     - { name: "twitter", link: "https://twitter.com/j_palka" }
+- id: 1
+  name: "Jarosław"
+  surname: "Pałka"
+  title: "Software Consultant/Architect/Trainer"
+  bio: >
+    Od ponad 20 lat w branży IT, jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”. 
+    Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze skutkiem. 
+    Co doprowadziło mnie do wniosku, że nieważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi, które wykonają pracę za ciebie. 
+    W międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL, 
+    by potem porzucić je, by zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą „metafora” i odkryć, że rządzą nami te same prawa „natury”. 
+    Niepokorny wyznawca kościoła JVM, badacz bytecode’u i JIT oraz wszelkiej maści parserów, interpreterów i kompilatorów. Na co dzień walczący o lepszą wydajność w Neo4j. 
+    Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce. 
+    W wolnych chwilach trener w http://symentis.pl i autor bloga na http://geekyprimitives.wordpress.com/ oraz samozwańczy dyktator w radach programowych konferencji.
+  thumbnailUrl: jarek-palka.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/jpalka/" }
+    - { name: "twitter", link: "https://twitter.com/j_palka" }
+- id: 2
+  name: Łukasz
+  surname: Szydło
+  thumbnailUrl: lukasz-szydlo.jpg
+- id: 3
+  name: Michał
+  surname: Bartyzel
+- id: 4
+  name: "Wojtek"
+  surname: "Ptak"
+  thumbnailUrl: wojtek-ptak.jpg
+  rockstar: true
+  bio: >    
+    Wojtek works as Head of Product Engineering at Revolut. 
+    Before, he worked as CTO for several companies, provided consulting, training, and assisted in building various data collecting, 
+    analytics, and applied ML/AI solutions, including Big Data implementations, data stream processing systems, and data insight projects.
+    <br /><br />
+    He worked with multiple Forbes 500 brands in the US, UK, and the Netherlands, including The Coca-Cola Company, 
+    the American Bankers Association, Macy’s, Bloomingdales, Heineken, Saks 5th Avenue, BP, Boots, Polo Ralph Lauren, Porsche, HSBC, and others.
+- id: 5
+  name: Konrad
+  surname: Kokosa
+  thumbnailUrl: konrad-kokosa.jpg
+- id: 6
+  name: Szymon
+  surname: Warda
+- id: 7
+  name: Łukasz
+  surname: Kałużny
+- id: 8
+  name: Kamil
+  surname: Gałuszka
+- id: 9
+  name: Mariusz
+  surname: Gil
+  thumbnailUrl: mariusz-gil.jpg
+- id: 10
+  name: Grzegorz
+  surname: Piwowarek
+  bio: >
+    Founding Engineer w Quesma, niezależny konsultant/trener, blogger (4comprehension.com). Interesują go systemy rozproszone, bebechy, wydajność i architektura systemów. Krążą plotki, że istnieje tylko w czasie kompilacji.
 # - id: 2
 #   name: "Krzysztof"
 #   surname: "Kędzierski"
