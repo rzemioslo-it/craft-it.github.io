@@ -23,6 +23,7 @@
 - id: 3
   name: Michał
   surname: Bartyzel
+  thumbnailUrl: michal-bartyzel.jpg
 - id: 4
   name: "Wojtek"
   surname: "Ptak"
@@ -42,9 +43,11 @@
 - id: 6
   name: Szymon
   surname: Warda
+  thumbnailUrl: szymon-warda.jpg
 - id: 7
   name: Łukasz
   surname: Kałużny
+  thumbnailUrl: lukasz-kaluzny.jpg
 - id: 8
   name: Kamil
   surname: Gałuszka
@@ -55,6 +58,7 @@
 - id: 10
   name: Grzegorz
   surname: Piwowarek
+  thumbnailUrl: grzegorz-piwowarek.jpg
   bio: >
     Founding Engineer w Quesma, niezależny konsultant/trener, blogger (4comprehension.com). Interesują go systemy rozproszone, bebechy, wydajność i architektura systemów. Krążą plotki, że istnieje tylko w czasie kompilacji.
 # - id: 2
