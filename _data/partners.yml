@@ -12,6 +12,8 @@
   elements:
     - { name: "rg-dev", description: "Rzeszowska Grupa rg-dev", link: "https://www.meetup.com/pl-PL/rg-dev/", imageUrl: "rg-dev.png" }
     - { name: "RRUG", description: "Rzeszów Ruby User Group", link: "http://rrug.pl/", imageUrl: "rrug.png" }
+    - { name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
+
 # -
 #   group: "Partnerzy brązowi"
 #   elements:
@@ -27,7 +29,6 @@
 
 #     - {name: "RZE.NET", description: "RZE.NET", link: "https://www.meetup.com/pl-PL/Rzeszow-NET/", imageUrl: "rze-net.png"}
 #     - {name: "Rzeszów .NET Mobile", description: "Rzeszów .NET Mobile Xamarin Meetup", link: "https://www.meetup.com/pl-PL/Rzeszow-NET-Mobile-Xamarin-Meetup/", imageUrl: "rze-mobile.jpeg"}
-#     - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
 #     - {name: "SJUG", description: "Silesia Java Users Group", link: "https://silesia.jug.pl/", imageUrl: "sjug.png"}
 #     - {name: "LJUG", description: "Lublin Java User Group", link: "https://www.meetup.com/pl-PL/Lublin-Java-User-Group/", imageUrl: "ljug.jpg"}
 #     - {name: "SKNI KOD", description: "Studenckie Koło Naukowe Informatyków KOD", link: "https://kod.prz.edu.pl/", imageUrl: "skni-kod.png"}
