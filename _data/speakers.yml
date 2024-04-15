@@ -48,9 +48,10 @@
   name: Łukasz
   surname: Kałużny
   thumbnailUrl: lukasz-kaluzny.jpg
-#- id: 8
-#  name: Kamil
-#  surname: Gałuszka
+- id: 8
+  name: Kamil
+  surname: Gałuszka
+  thumbnailUrl: placeholder.png
 - id: 9
   name: Mariusz
   surname: Gil
