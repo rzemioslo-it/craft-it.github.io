@@ -3,13 +3,13 @@
   surname: "Pałka"
   title: "Software Consultant/Architect/Trainer"
   bio: >
-    Od ponad 20 lat w branży IT, jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”. 
-    Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze skutkiem. 
-    Co doprowadziło mnie do wniosku, że nieważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi, które wykonają pracę za ciebie. 
-    W międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL, 
-    by potem porzucić je, by zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą „metafora” i odkryć, że rządzą nami te same prawa „natury”. 
-    Niepokorny wyznawca kościoła JVM, badacz bytecode’u i JIT oraz wszelkiej maści parserów, interpreterów i kompilatorów. Na co dzień walczący o lepszą wydajność w Neo4j. 
-    Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce. 
+    Od ponad 20 lat w branży IT, jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”.
+    Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze skutkiem.
+    Co doprowadziło mnie do wniosku, że nieważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi, które wykonają pracę za ciebie.
+    W międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL,
+    by potem porzucić je, by zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą „metafora” i odkryć, że rządzą nami te same prawa „natury”.
+    Niepokorny wyznawca kościoła JVM, badacz bytecode’u i JIT oraz wszelkiej maści parserów, interpreterów i kompilatorów. Na co dzień walczący o lepszą wydajność w Neo4j.
+    Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce.
     W wolnych chwilach trener w http://symentis.pl i autor bloga na http://geekyprimitives.wordpress.com/ oraz samozwańczy dyktator w radach programowych konferencji.
   thumbnailUrl: jarek-palka.jpg
   rockstar: true
@@ -29,12 +29,12 @@
   surname: "Ptak"
   thumbnailUrl: wojtek-ptak.jpg
   rockstar: true
-  bio: >    
-    Wojtek works as Head of Product Engineering at Revolut. 
-    Before, he worked as CTO for several companies, provided consulting, training, and assisted in building various data collecting, 
+  bio: >
+    Wojtek works as Head of Product Engineering at Revolut.
+    Before, he worked as CTO for several companies, provided consulting, training, and assisted in building various data collecting,
     analytics, and applied ML/AI solutions, including Big Data implementations, data stream processing systems, and data insight projects.
     <br /><br />
-    He worked with multiple Forbes 500 brands in the US, UK, and the Netherlands, including The Coca-Cola Company, 
+    He worked with multiple Forbes 500 brands in the US, UK, and the Netherlands, including The Coca-Cola Company,
     the American Bankers Association, Macy’s, Bloomingdales, Heineken, Saks 5th Avenue, BP, Boots, Polo Ralph Lauren, Porsche, HSBC, and others.
 - id: 5
   name: Konrad
@@ -51,7 +51,7 @@
 - id: 8
   name: Kamil
   surname: Gałuszka
-  thumbnailUrl: placeholder.png
+  thumbnailUrl: kamil-galuszka.jpg
 - id: 9
   name: Mariusz
   surname: Gil
@@ -99,7 +99,7 @@
 #   rockstar: true
 #   feedback: https://forms.gle/81efWdz9FZwvqR4k6
 #   bio: >
-#     Miłośnik DDD, OOP oraz TDD. Developer/Architekt pod kątem inżynierskim głównie zainteresowany modelowaniem oraz architekturą. 
+#     Miłośnik DDD, OOP oraz TDD. Developer/Architekt pod kątem inżynierskim głównie zainteresowany modelowaniem oraz architekturą.
 #     Swój wysiłek skupia na czytelności kodu, skalowalności oraz wydajności.
 #     <br /><br />
 #     Podczas dotychczasowej kariery projektował oraz implementował systemy dla branży finansowej, medycznej, telekomunikacyjnej oraz energetycznej
@@ -121,12 +121,12 @@
 #   thumbnailUrl: wojtek-ptak.jpg
 #   rockstar: true
 #   feedback: https://forms.gle/ww9iL9h9hgK7skVE9
-#   bio: >    
-#     Wojtek works as Head of Product Engineering at Revolut. 
-#     Before, he worked as CTO for several companies, provided consulting, training, and assisted in building various data collecting, 
+#   bio: >
+#     Wojtek works as Head of Product Engineering at Revolut.
+#     Before, he worked as CTO for several companies, provided consulting, training, and assisted in building various data collecting,
 #     analytics, and applied ML/AI solutions, including Big Data implementations, data stream processing systems, and data insight projects.
 #     <br /><br />
-#     He worked with multiple Forbes 500 brands in the US, UK, and the Netherlands, including The Coca-Cola Company, 
+#     He worked with multiple Forbes 500 brands in the US, UK, and the Netherlands, including The Coca-Cola Company,
 #     the American Bankers Association, Macy’s, Bloomingdales, Heineken, Saks 5th Avenue, BP, Boots, Polo Ralph Lauren, Porsche, HSBC, and others.
 # - id: 7
 #   name: "Wiktor"
@@ -168,10 +168,10 @@
 #   rockstar: true
 #   feedback: https://forms.gle/BREEpaB4yLoDJekTA
 #   bio: >
-#     Informatyk z zamiłowania i z zawodu. Inżynier z doktoratem, administrator, tech-lead, architekt. 
-#     Od początku kariery blisko systemów rozproszonych, wytwarzania oprogramowania i po prostu programowania. 
-#     Po 15 latach pracy akademickiej i badania systemów rozproszonych, obecnie tworzy oprogramowanie dla <a href='http://flyrlabs.com'>FLYR Inc.</a>. 
-#     Współtworzy Rzeszowską grupę użytkowników języka Ruby (<a href='http://RRUG.pl'>RRUG.pl</a>). 
+#     Informatyk z zamiłowania i z zawodu. Inżynier z doktoratem, administrator, tech-lead, architekt.
+#     Od początku kariery blisko systemów rozproszonych, wytwarzania oprogramowania i po prostu programowania.
+#     Po 15 latach pracy akademickiej i badania systemów rozproszonych, obecnie tworzy oprogramowanie dla <a href='http://flyrlabs.com'>FLYR Inc.</a>.
+#     Współtworzy Rzeszowską grupę użytkowników języka Ruby (<a href='http://RRUG.pl'>RRUG.pl</a>).
 #     Więcej na <a href='https://www.linkedin.com/in/wrzasa/'>linkedin.com/in/wrzasa/</a>.
 # - id: 11  # SII
 #   name: "Artur"
@@ -223,8 +223,8 @@
 #   thumbnailUrl: michal-zurawski.jpeg
 #   feedback: https://forms.gle/hN6FwGhsaaA3m3S29
 #   bio: >
-#     Michał jest architektem oprogramowania. Zarządzaniem zespołami i prowadzeniem ich pod kątem technicznym zajmuje się od przeszło 5 lat. 
-#     Na co dzień stara się łączyć prace stricte techniczną z zarządzaniem. Pasjonat czystych i rozszerzalnych rozwiązań. 
+#     Michał jest architektem oprogramowania. Zarządzaniem zespołami i prowadzeniem ich pod kątem technicznym zajmuje się od przeszło 5 lat.
+#     Na co dzień stara się łączyć prace stricte techniczną z zarządzaniem. Pasjonat czystych i rozszerzalnych rozwiązań.
 #     Prywatnie mąż, ojciec i akrobata.
 # - id: 15
 #   name: "Kamil"
@@ -232,9 +232,9 @@
 #   thumbnailUrl: kamil-mrzyglod.jpg
 #   feedback: https://forms.gle/w8iMQ6Pr6p2SQyWn9
 #   bio: >
-#     Programista, konsultant, trener, architekt oraz tech lead (w dowolnej kolejności, zależnej od potrzeb). 
-#     Backgroundowo .NET developer, od wielu lat specjalizuję się w chmurze Azure popełniając po drodze dwie książki na temat wykorzystania 
-#     jej w kontekście administracji oraz developmentu aplikacji. Pracował z tymi najmniejszymi, jak i największymi klientami w różnych rolach 
+#     Programista, konsultant, trener, architekt oraz tech lead (w dowolnej kolejności, zależnej od potrzeb).
+#     Backgroundowo .NET developer, od wielu lat specjalizuję się w chmurze Azure popełniając po drodze dwie książki na temat wykorzystania
+#     jej w kontekście administracji oraz developmentu aplikacji. Pracował z tymi najmniejszymi, jak i największymi klientami w różnych rolach
 #     i z różnymi technologiami. W wolnych chwilach rozwija swoje projekty na GitHubie albo robi kolejne podejście do napisania własnej gry komputerowej.
 # - id: 16
 #   name: "Artur"
@@ -242,9 +242,9 @@
 #   thumbnailUrl: artur-morawski.jpg
 #   feedback: https://forms.gle/unHX9MB8nTt9XYw8A
 #   bio: >
-#     Od blisko 12 lat zajmuję się tematami związanymi z jakością i oprogramowaniem, w tym testami, automatyzacją, 
-#     procesami oraz zarządzaniem zespołami QA. Pracowałem przy pełnym spektrum projektów, od embedded, 
-#     przez aplikacje biznesowe, bankowe i użytkowe, zarówno w chmurze jak i w piwnicy, dla startupów, a także dużych korporacyjnych organizacji. 
+#     Od blisko 12 lat zajmuję się tematami związanymi z jakością i oprogramowaniem, w tym testami, automatyzacją,
+#     procesami oraz zarządzaniem zespołami QA. Pracowałem przy pełnym spektrum projektów, od embedded,
+#     przez aplikacje biznesowe, bankowe i użytkowe, zarówno w chmurze jak i w piwnicy, dla startupów, a także dużych korporacyjnych organizacji.
 #     W wolnych chwilach żegluję, a jak spadnie śnieg, rozpoczynam sezon narciarski.
 # - id: 17
 #   name: "Sławomir"
@@ -253,8 +253,8 @@
 #   rockstar: true
 #   feedback: https://forms.gle/Wx2jvZi5tFh4DGZT8
 #   bio: >
-#     Od 12 lat jestem trenerem i konsultantem w firmie Bottega IT Minds. 
-#     <br /><br />    
+#     Od 12 lat jestem trenerem i konsultantem w firmie Bottega IT Minds.
+#     <br /><br />
 #     W codziennej pracy integruję Domain Driven Design, Event Storming, style architektoniczne, zwinne procesy wytwórcze i zdrowy rozsądek.
 #     Stosuję nadrzędną zasadę: rozpoznać klasę problemu z jaką mamy do czynienia i dobrać do niej odpowiednią klasę narzędzia.
 #     Hobbystycznie interesuję się psychologią pozytywną i kognitywistyką. Lubię myśleć o sobie jako entuzjaście Software Craftsmanship.
