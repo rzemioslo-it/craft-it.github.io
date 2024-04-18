@@ -13,6 +13,7 @@
     - { name: "rg-dev", description: "Rzeszowska Grupa rg-dev", link: "https://www.meetup.com/pl-PL/rg-dev/", imageUrl: "rg-dev.png" }
     - { name: "RRUG", description: "Rzeszów Ruby User Group", link: "http://rrug.pl/", imageUrl: "rrug.png" }
     - { name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
+    - { name: "WKONTENERACH", description: "W Kontenerach", link: "https://wkontenerach.pl/", imageUrl: "wkontenerach.png"}
 
 # -
 #   group: "Partnerzy brązowi"
