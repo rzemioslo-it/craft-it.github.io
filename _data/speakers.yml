@@ -63,6 +63,26 @@
   bio: >
     Founding Engineer w Quesma, niezależny konsultant/trener, blogger (4comprehension.com). Interesują go systemy rozproszone, bebechy, wydajność i architektura systemów. Krążą plotki, że istnieje tylko w czasie kompilacji.
 - id: 11
+  name: Tomasz
+  surname: Onyszko
+  bio: > 
+    Tomek, jak w wielu przypadkach w swojej karierze, w CTO Morning Coffee obsługuje śrubokręt i taśmę klejącą.
+    <br /><br />
+    CTO w firmie professional services, którą z braku pasującego mu miejsca do rozwoju sam sobie stworzył (no z kolegami), przez większość swojej kariery odpowiadał "to zależy", różnym firmom na całym świecie (od małych, do tych gigantycznych) jako konsultant. Przez ostatnie kilkanaście lat, łączył budowanie firmy, z decyzjami co do tego jakiej technologii użyć i gdzie jest następne "złote runo IT" i obecnością w szeroko pojętej sieci. Jak sam powiada - "Mam opinię, i nie zawaham się jej użyć", co też często można usłyszeć w "Coffee".
+    <br /><br />
+    Strona techniczna Coffee, spojrzenie od strony budowania organizacji i biznesu jak i kariery "solo", to to, czego możecie się od niego spodziewać w Coffee.
+  thumbnailUrl: tomasz-onyszko.jpg
+- id: 12
+  name: Sebastian
+  surname: Gębski
+  bio: >
+    Sebastian Gębski, jak sam się określa na swoim blogu "No Kill Switch" - engineering leader (at scale).
+    <br /><br />
+    Zaprawiony w świecie IT w różnych miejscach i pozycjach, od mrocznego świata konsultingu, przez dynamiczny świat rosnących i upadających startupów, po architekturę w chmurze. Sebastian to nie tylko "No Kill Switch", ale też "no bullshit" podejście do technologii i organizacji. Niejedną organizację i technologię ma za kołnierzem, jasno wyraża swoje przemyślenia i nie bierze jeńców.
+    <br /><br />
+    Jeżeli zastanawiacie się, kto przygotowuje nasze błyskotliwe pytania i riposty na spotkaniach Coffee, to człowiek, na którego powinniście spojrzeć.
+  thumbnailUrl: sebastian-gebski.jpg
+- id: 13
   name: TBA
   surname: TBA
   thumbnailUrl: placeholder.png
