@@ -73,6 +73,20 @@
     A crème de la crème sesji: 
     jeżeli jesteś programistą, usłyszysz, co powiedzieć do adminów i DevOpsów, i vice versa ;-)
   speakers: [ 7 ]
+- id: 210
+  title: "Embracing Microservices"
+  place: ""
+  subtype: presentation
+  description: >
+    Mikrousługi już od dłuższego czasu nie są rzadkością na rynku - 
+    przez ten czas branża odkryła tysiące sposobów jak wdrażać je źle. 
+    Przykładowo: poprzez przywiązanie do starych nawyków przyjaznych monolitom, złych praktyk wdrożeniowych, 
+    groteskowej polityki bezpieczeństwa firmy itp.
+    <br /><br />
+    Podczas tej prelekcji będziemy uczyć się na błędach innych i przypomnimy sobie 
+    najważniejsze wnioski wyciągnięte z udanych i nieudanych wdrożeń mikrousług. 
+    Skupimy się na kwestiach, które nie zostały poruszone w podobnych prezentacjach.
+  speakers: [ 10 ]
 # # ################################## WORKSHOPS ##################################
 # - id: 304
 #   title: "(Nie)trudna sztuka modelowania agregatów "
