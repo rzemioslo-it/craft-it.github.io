@@ -19,10 +19,12 @@
 - id: 2
   name: Łukasz
   surname: Szydło
+  rockstar: true
   thumbnailUrl: lukasz-szydlo.jpg
 - id: 3
   name: Michał
   surname: Bartyzel
+  rockstar: true
   thumbnailUrl: michal-bartyzel.jpg
 - id: 4
   name: "Wojtek"
@@ -39,32 +41,39 @@
 - id: 5
   name: Konrad
   surname: Kokosa
+  rockstar: true
   thumbnailUrl: konrad-kokosa.jpg
 - id: 6
   name: Szymon
   surname: Warda
+  rockstar: true
   thumbnailUrl: szymon-warda.jpg
 - id: 7
   name: Łukasz
   surname: Kałużny
+  rockstar: true
   thumbnailUrl: lukasz-kaluzny.jpg
 - id: 8
   name: Kamil
   surname: Gałuszka
+  rockstar: true
   thumbnailUrl: kamil-galuszka.jpg
 - id: 9
   name: Mariusz
   surname: Gil
+  rockstar: true
   thumbnailUrl: mariusz-gil.jpg
 - id: 10
   name: Grzegorz
   surname: Piwowarek
+  rockstar: true
   thumbnailUrl: grzegorz-piwowarek.jpg
   bio: >
     Founding Engineer w Quesma, niezależny konsultant/trener, blogger (4comprehension.com). Interesują go systemy rozproszone, bebechy, wydajność i architektura systemów. Krążą plotki, że istnieje tylko w czasie kompilacji.
 - id: 11
   name: Tomasz
   surname: Onyszko
+  rockstar: true
   bio: > 
     Tomek, jak w wielu przypadkach w swojej karierze, w CTO Morning Coffee obsługuje śrubokręt i taśmę klejącą.
     <br /><br />
@@ -75,6 +84,7 @@
 - id: 12
   name: Sebastian
   surname: Gębski
+  rockstar: true
   bio: >
     Sebastian Gębski, jak sam się określa na swoim blogu "No Kill Switch" - engineering leader (at scale).
     <br /><br />
@@ -83,9 +93,16 @@
     Jeżeli zastanawiacie się, kto przygotowuje nasze błyskotliwe pytania i riposty na spotkaniach Coffee, to człowiek, na którego powinniście spojrzeć.
   thumbnailUrl: sebastian-gebski.jpg
 - id: 13
-  name: TBA
-  surname: TBA
-  thumbnailUrl: placeholder.png
+  name: "Wojciech"
+  surname: "Rząsa"
+  thumbnailUrl: wojciech-rzasa.jpg
+  rockstar: true
+  bio: >
+    Informatyk z zamiłowania i z zawodu. Inżynier z doktoratem, administrator, tech-lead, architekt.
+    Od początku kariery blisko systemów rozproszonych, wytwarzania oprogramowania i po prostu programowania.
+    Po 15 latach pracy akademickiej i badania systemów rozproszonych, obecnie tworzy oprogramowanie dla <a href='http://flyrlabs.com'>FLYR Inc.</a>.
+    Współtworzy Rzeszowską grupę użytkowników języka Ruby (<a href='http://RRUG.pl'>RRUG.pl</a>).
+    Więcej na <a href='https://www.linkedin.com/in/wrzasa/'>linkedin.com/in/wrzasa/</a>.
 # - id: 2
 #   name: "Krzysztof"
 #   surname: "Kędzierski"
