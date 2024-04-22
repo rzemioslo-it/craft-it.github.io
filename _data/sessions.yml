@@ -35,22 +35,19 @@
 #     <p>W trakcie prezentacji spojrzę na temat szybkości wytwarzania oprogramowania – problemy, przyczyny i rozwiązania z różnych perspektyw.
 #     Pokażę kto znajduje się w centrum tego zagadnienia i jak może sprawić by było lepiej 😉</p>
 #   speakers: [ 2 ]
-# - id: 217
-#   title: "Modularyzacja - miało być tak pięknie a wyszło jak zwykle"
-#   place: ""
-#   subtype: presentation
-#   speakers: [ 17 ]
-#   description: >
-#     Przepiszmy to! - to hasło padło w niejednym projekcie.
-#     Zaciągany latami dług technologiczny i złe decyzje nawarstwiały się,
-#     utrudniając coraz to bardziej efektywne rozwijanie projektu i dostarczanie nowych funkcji.
-#     Niestety po przepisaniu sporej części systemu często okazuje się, że choć kod jest nowszy,
-#     to pierwotne problemy cały czas istnieją dalej...
-#     Skuteczna refaktoryzacja to piramida działań na wielu poziomach.
-#     W designie kodu, architekturze, rozmowie, organizacji.
-#     Jeśli problem jest na wyższej warstwie, na niższej często maskujemy jego skutki.
-#     Weźmy więc pod lupę piramidę refaktoryzacji i na bazie realnych doświadczeń z projektów zobaczmy,
-#     w jaki sposób i jakimi narzędziami można naprawiać projekt na poszczególnych poziomach.
+- id: 203
+  title: "Szybki kurs myślenia biznesowego dla inżynierów i inżynierek"
+  place: ""
+  subtype: presentation
+  speakers: [ 3 ]
+  description: >    
+    Niektórym inżynierom/-kom w pewnym momencie przychodzi do głowy, że są traktowani jako podwykonawcy biznesu. 
+    Jeśli jest to klient wewnętrzny to inżynier jest dla biznes po prostu dostawca, a jeśli są w jednej organizacji, 
+    to IT jest dla biznesu wewnętrznym podwykonem. Tyle, że Ci inżynierowie/-ki chcą być dla klienta partnerem, 
+    nie podwykonem i nie wiedzą jak to zrobić.
+    <br /><br />
+    Jeśli to, co wyżej napisałem w jakiś sposób odzwierciedla Twoje wewnętrzne przemyślenia, wpadnij na moją prezkę. 
+    Podam Ci kilka punktów, na które warto zwrócić uwagę, jeśli chcesz budować partnerską relację z biznesem.
 # - id: 203
 #   title: "Dyskrecja DevOpsa. Co robimy w ukryciu?"
 #   place: ""
