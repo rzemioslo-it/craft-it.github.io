@@ -1,21 +1,28 @@
 # # ################################## PRESENTATION ##################################
-# - id: 201
-#   title: "25 lat mijania się z prawdą"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     Kto nie chciałby zobaczyć, jak tym wystąpieniem niszczę swoją karierę?
-#     Minęło 25 lat, co brzmi jak wyrok za ciężką zbrodnię z mrocznych zakątków kodeksu karnego, ale dla mnie to czas podsumowań.
-#     Prezentacja, stand-up, coaching? - nazwijcie to jak chcecie. Będzie o naszej branży, biznesie i o nas samych,
-#     o "uniwersalnych kłamstwach", które często powtarzane stają się prawdą.
-#     To będzie brutalny przewodnik po karierze w IT. Wielu z was zapewne poczuje się urażonych, ale jestem gotów na to poświęcenie.
-#     Czy wybór technologii ma znaczenie? Dlaczego większość stanowisk to "bullshit jobs"? Czy greenfieldy naprawdę są takie fajne?
-#     Komu potrzebne są estymaty? Co się dzieje, kiedy nie udaje się dowieźć sprintu? Jak feedback stał się rakiem toczącym organizacje?
-#     Dlaczego duża część z nas ma wrażenie, że ciągle robi to samo? I jak w tym bajzlu zachować szacunek do siebie,
-#     zdrowie psychiczne i dobrze bawić się przez 25 lat? Postaram się odpowiedzieć na te i inne pytania,
-#     które sam sobie stawiam od dłuższego czasu.
-#     Ci którzy odsieją śmiech przez łzy w tej prezentacji, odnajdą kilka cennych rad jak pokierować swoją karierą.
-#   speakers: [ 1 ]
+- id: 201
+  title: "Test wydajnościowe i inne kłamstwa"
+  place: ""
+  subtype: presentation
+  description: >
+    Powszechnie znaną prawdą jest, iż niewielu z nas przejmuję się wydajnością naszego kodu, jeszcze mniej z nas miało do czynienia z testami wydajnościowymi. Wśród tych z nas, którzy toczą nierówną walkę z wydajnością, wąska garstka z nas jest świadoma jak wiele kryję się w nich kłamstw, niedomówień i fałszywych obietnic. Podczas prezentacji poznamy antywzorce w testowaniu wydajności oraz kilka sprawdzonych w boju praktycznych rad jak nie dać się omamić wynikom testów.
+    <ul><li>
+    Czy powinniśmy się obawiać „coordinated ommision”?
+    </li><li>
+    Dlaczego statystyka to najwyższa forma kłamstwa, czyli szybki kurs czytania wyników testów.
+    </li><li>
+    Dlaczego „latency” i „throughput” to nie to samo?
+    </li><li>
+    Dlaczego dane wejściowe są równie ważne jak scenariusze testowe?
+    </li><li>
+    Na jakie pytania odpowiadają microbenchmarki?
+    </li><li>
+    Czy testy wydajnościowe mają warstwy?
+    </li><li>
+    Dlaczego w testach wydajnościowych nie chodzi o liczby?
+    </li></ul>
+    <br /><br />
+    To tylko wybrane zagadnienia, o których opowiem. Jeśli nie interesują Cię testy wydajnościowe i unikasz tego tematu jak zarazy, na tej prezentacji dowiesz się dlaczego tak jest. Jeśli jednak czujesz się wyznawcą maszyny i tematy wydajności nie są Ci obce, pomogę Ci z większą świadomością projektować testy i interpretować ich wyniki.
+  speakers: [ 1 ]
 # - id: 202
 #   title: "Wolni jak ślimaki, pasywni jak rurkowce"
 #   place: ""
