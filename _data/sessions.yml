@@ -24,16 +24,10 @@
     To tylko wybrane zagadnienia, o których opowiem. Jeśli nie interesują Cię testy wydajnościowe i unikasz tego tematu jak zarazy, na tej prezentacji dowiesz się dlaczego tak jest. Jeśli jednak czujesz się wyznawcą maszyny i tematy wydajności nie są Ci obce, pomogę Ci z większą świadomością projektować testy i interpretować ich wyniki.
   speakers: [ 1 ]
 # - id: 202
-#   title: "Wolni jak ślimaki, pasywni jak rurkowce"
+#   title: ""
 #   place: ""
 #   subtype: presentation
 #   description: >
-#     <p>Jest rok 2023. Postęp technologiczny, który widzimy robi wrażenie.
-#     Mimo to pytanie, które w kuluarach zadaje sobie wiele (większość?) firm wytwarzających oprogramowanie brzmi “Co zrobić by software development był u nas szybszy?
-#     Okazuje się, że jako ruch Software Craftsmanship mamy odpowiedź na to pytanie. </p>
-
-#     <p>W trakcie prezentacji spojrzę na temat szybkości wytwarzania oprogramowania – problemy, przyczyny i rozwiązania z różnych perspektyw.
-#     Pokażę kto znajduje się w centrum tego zagadnienia i jak może sprawić by było lepiej 😉</p>
 #   speakers: [ 2 ]
 - id: 203
   title: "Szybki kurs myślenia biznesowego dla inżynierów i inżynierek"
@@ -48,182 +42,37 @@
     <br /><br />
     Jeśli to, co wyżej napisałem w jakiś sposób odzwierciedla Twoje wewnętrzne przemyślenia, wpadnij na moją prezkę. 
     Podam Ci kilka punktów, na które warto zwrócić uwagę, jeśli chcesz budować partnerską relację z biznesem.
-# - id: 203
-#   title: "Dyskrecja DevOpsa. Co robimy w ukryciu?"
+# - id: 202
+#   title: ""
 #   place: ""
 #   subtype: presentation
 #   description: >
-#     Bezpieczeństwo danych, wdrożenia na produkcję, milionowe biznesy i dostęp tylko w razie potrzeby.
-#     Wszystkie aspekty automatyzacji budowania i wdrażania aplikacji w zabezpieczonym środowisku składają się na obraz zadania,
-#      które jednocześnie ma dobrze znane prawidłowe rozwiązania i bardzo łatwo zrealizować je źle.
-#      A ponieważ konsekwencje zaniedbań mogą spowodować nagłe zmiany w karierze, to warto o nich pomyśleć wcześniej. Zróbmy to teraz.
-#   speakers: [ 3 ]
-# - id: 204
-#   title: "Beyond Clean Code: Ethernal architectural practises"
-#   subtype: presentation
-#   description: "In this talk we will cover: thinking in terms of abstractions, placing the right language in the right places, fighting with cognitive load and biases, what kinds of coupling can we see and which one is the worst, how to overcome the fear of having many small classes, hot to explain cohesion to a junior developer and more. Those evergreen rules can help you become more efficient and persuasive at work."
-#   speakers: [ 4 ]
-# - id: 205
-#   title: "Best practices in practice: things that work for me so well I cannot believe you are not using them"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     There’s a lot of “best practices” around,
-#     but after 20 years of work I’ve found a set that really helps get my systems done well.
-#     I’d like to share those tools and methods and why they work in my context.
-#     While they are not a novelty (some of them have years of history), I see even experienced developers ignoring them.
-#     These include: how to use BDD to work with requirements, using a scientific method to fix problems in production
-#     (as opposed to shotgun debugging), verifying observability during development (before going to production),
-#     making the most interesting parts visible via higher order functions, and more. Nothing groundbreaking,
-#     but perhaps those will also work in your context.
-#   speakers: [ 5 ]
-# - id: 207
-#   title: "Rewolucja w cyfrowych tożsamościach za sprawą Web3 i Self-Sovereign Identity"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     Obecnie w kontekście zarządzania naszymi cyfrowymi tożsamościami królują Facebook i Google z swoimi wtyczkami
-#     "Zaloguj z...". Takie podejście do zarządzania danymi osobowymi niesie sporo niebezpieczeństw,
-#     a nade wszystko oddala użytkownika od jego własnych cyfrowych tożsamości.
-#     <br /><br />
-#     Self-Sovereign Identity (SSI) to ruch mający na celu oddać użytkownikowi kontrolę nad własną
-#     cyfrową tożsamością oraz tym, komu i jakie dane przekazuje. Pod parasolem SSI, poza ruchem społecznym,
-#     kryje się także stos technologiczny implementujący zdecentralizowanych model zarządzania tożsamościami.
-#     <br /><br />
-#     Podczas prezentacji porównamy modele zarządzania tożsamościami, czym różni się SSI
-#     od już istniejących rozwiązań i - co najistotniejsze - o szczegółach samego SSI.
-#     Pomówimy o DID, Verifiable Credentials, Governance Frameworks i co w tym wszystkim robi blockchain.
-#   speakers: [ 7 ]
-# - id: 208
-#   title: "Dla kogo my to robimy?"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     Nasza praca to robienie oprogramowania.
-#     W pędzie codziennych zadań często myślimy o kolejnych wymaganiach do zaimplementowania,
-#     kolejnych pull requestach do wystawienia, o jakości kodu i o tym, żeby wyrobić się w czasie.
-#     Czy pamiętamy wtedy o użytkownikach końcowych? Kim są? W jakim wieku są? Skąd pochodzą?
-#     Czy mają jakieś specjalne potrzeby? I dlaczego warto rozważać te pytania? Spotkajmy się i porozmawiajmy.
-#     Na prezentacji poznacie Darka, personę, która w swojej ewolucji będzie reprezentować wielu z nas.
-#   speakers: [ 8 ]
-# - id: 209
-#   title: "Dlaczego buzzwordy szczęścia nie dają"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     Z jednej strony mówmy wszystko jako kod, z drugiej czasem do szczęścia brakuje nam dwóch kliknięć i gotowe, a kod zajmie nam godziny.
-#     <br />Z jednej strony mówimy HA, redundancja czy mikro-serwisy, a z drugiej nasza aplikacja ma load 300RPH (Request Per Hour w przeciwieństwie do Request Per Second) i przynosi niezłe pieniądze
-#     <br />Z jednej strony walczymy jak lwy w dyskusjach o SOLID, DRY czy YAGNI, a z drugiej siedzimy jak myszki pod miotłą, gdy ktoś porusza temat RODO/GDPR, ochrony danych czy przesyłania danych przez SFTP w plikach CSV.
-#     <br />Z jednej strony budujemy pipeline, które budują docker i wdrażają je na Kubernetes z użyciem Terraform i sprawdzają wszystkie podatności CVE, a z drugiej wypuszczamy naszą aplikację raz na 6 miesięcy i wszędzie musimy robić upgrade.
-#     <br />Z jednej strony na prezentacjach padają te wszystkie buzzword, a z drugiej człowiek wraca do biura i ....
-#     <br />No właśnie "co", o tych 3 kropkach będzie ta prezentacja. Z przykładami z życia,  podejściem "na chłopski rozum" i w formie lekkiej dyskusji z Tobą słuchaczu.
-#   speakers: [ 9 ]
-# - id: 211 # SII
-#   title: "GitHub Action i GitHub Copilot w pracy DevOps’a"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     Zadania DevOps’a skupiają się m.in. na pracy z infrastrukturą oraz kodem.
-#     Coraz częściej jednak stajemy przed zadaniem automatyzacji wytwarzania oprogramowania czy infrastruktury.
-#     Prezentacja skupi się na dwóch narzędziach wspomagających te działania.
-#     <br /><br />
-#     W trakcie prezentacji przygotuję workflow w oparciu o GitHub Action wraz z integracją z chmurą Azure i wdrożeniem aplikacji.
-#     Przejdziemy przez przykłady automatyzacji pisania kodu infrastruktury wykorzystując GitHub Copilot.
-#   speakers: [ 11 ]
-# - id: 212
-#   title: "Autostopem przez JavaScript - Poradnik dla Backendowców"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     W świecie backendu dość łatwo przychodzi znajomość wielu języków.
-#     Paradygmaty się powtarzają, konwencje są podobne, a języki czerpią pomysły od siebie nawzajem.
-#     Doświadczeni takim stanem rzeczy, backendowcy coraz chętniej sięgają w stronę full-stacku, po JavaScript.
-#     Przecież z roku na rok JavaScript wygląda coraz bardziej znajomo - ma już klasy i w ogóle!
-#     <br /><br />
-#     Nie trzeba jednak bardzo się starać, żeby natknąć się na jeden z wielu przypadków,
-#     w których JavaScript zachowa się zupełnie inaczej niż byśmy się tego spodziewali.
-#     Co? Dlaczego? Kto to wymyślił?!
-#     - Na te I inne pytania odpowiedź znajdziemy po drodze do nowej intuicji w tym jakże odmiennym świecie JavaScriptu.
-#   speakers: [ 12 ]
-# - id: 213
-#   title: "Syndrom Oszusta w IT"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     Czy dopada Cię czasami to okropne uczucie, że nie jesteś wystarczająco dobry, żeby robić swoją robotę? Że brak Ci umiejętności, inteligencji i talentu? Że wszyscy wokół Ciebie wiedzą, co robią, a Ty prześlizgujesz się wyłącznie dzięki szczęściu, przypadkowi i sprawianiu wrażenia, że jesteś lepszy, niż w rzeczywistości? Czy żyjesz w strachu, że to jedynie kwestia czasu, aż ktoś wreszcie odkryje, że jesteś zwyczajnym oszustem?
-#     <br /><br />
-#     Nie jesteś sam.
-#     <br /><br />
-#     Według badań, Syndrom Oszusta dotyka niemal 90% osób pracujących w IT. W tej prezentacji opowiem czym ów syndrom jest, czemu jest tak dominujący w naszej branży, jak wpada się w błędne koło i dokąd można się stoczyć. Omówię, jak znajomość prostych mechanizmów pomoże Ci dostrzec swoje kompetencje oraz jakie triki stosować, żeby nie dać się pokonać demonom niepewności.
-#     <br /><br />
-#     *Może zawierać śladowe ilości gumowych kaczuszek.
-#   speakers: [ 13 ]
-# - id: 214 # Fabrity
-#   title: "7 grzechów głównych tech leada"
-#   place: ""
-#   subtype: presentation
-#   speakers: [ 14 ]
-#   description: >
-#     Zostałeś tech leadem i co dalej?
-#     <br /><br />
-#     W idealnym świcie przejmujesz idealnie zgrany, autonomiczny zespół, który pracuje nad projektem bez grama legacy. Co miesiąc żonglujecie nowymi technologiami, a jedyną sytuacją kryzysową jest brak kawy w biurowej kuchni.
-#     <br /><br />
-#     Rzeczywistość wygląda zupełnie inaczej. Zróżnicowany, niezgrany zespół, niskie morale, a może projekt, który jest legacy od momentu pierwszego commita? Czasami to dowolna konfiguracja tych problemów, a czasami wszystkie na raz.
-#     <br /><br />
-#     Podczas prezentacji spróbujemy odpowiedzieć sobie na pytania jak prowadzić zespół tak, aby nie zwariować oraz po co i czy, w ogóle, warto zostać tech leadem.
-# - id: 215
-#   title: "Teściowa potrzebowała Toyotę Yaris więc kupiliśmy jej BMW X6"
-#   place: ""
-#   subtype: presentation
-#   speakers: [ 15 ]
-#   description: >
-#     Praca nad systemem dla nowego klienta to zawsze wyzwanie. Nowe środowisko, inny zakres kompetencji, odmienne oczekiwania.
-#     Doradzamy, rozmawiamy, zastanawiamy się – krok po kroku tworzymy nowe usługi oraz komponenty.
-#     Mijają tygodnie, potem miesiące, a my coraz bardziej naginamy rzeczywistość, aby zmieścić się w wycenach, estymacjach, celach.
-#     W końcu nadchodzi upragniony koniec, idziemy na produkcję i patrzymy z boku na nasze dzieło.
-#     Sukces! Skończyliśmy z małym potworkiem, do którego ciężko się przyznać, ale na szczęście mamy kolejny projekt na horyzoncie.
-#     Pyk, nowa pozycja w CV a nasza abominacją na całe szczęście zajmie się kto inny.
-#     <br /><br />
-#     W trakcie prezentacji porozmawiamy o tym jak bardzo nasze ego przeszkadza w delivery,
-#     o czym zapominamy podczas analizy potrzeb klienta i dlaczego musieliśmy przebudować garaż tytułowej teściowej.
-# - id: 216
-#   title: "Rola QA w starciu z nadciągającym AI - Czy to koniec testów jakie znamy?"
-#   place: ""
-#   subtype: presentation
-#   speakers: [ 16 ]
-#   description: >
-#     Temat sztucznej inteligencji coraz odważniej wkracza w przestrzeń wytwarzania oprogramowania.
-#     Obietnice, jakie składa AI, zawładnęły głowami zarządów wielu firm w naszej branży,
-#     co jest wyraźnie widoczne na dzisiejszych rynkach pracy.
-#     Artykuły i eksperci opowiadają o korzyściach wynikających z testów z wiodącym udziałem AI,
-#     ale czy nie są one składane tylko na kredyt? Czy to koniec testów manualnych, a testerzy staną się zbędni?
-#     Czy automatyzacja testów w projektach stanie się standardem? Czy może to tylko kolejne zamieszanie,
-#     które dostarczy jeszcze więcej oprogramowania do testów?
-# - id: 210
-#   title: "Microservices, Data, Decoupling and Messages"
-#   description: >
-#     Co nas czeka, gdy już zrealizujemy naszą nową doskonałą architekturę mikroserwisową? Jakie nieoczekiwane problemy odkryjemy, gdy nasz kod trafi na produkcję?
-#     <br /><br />
-#     Rok temu mieliśmy we FLYR monolityczny backend RESTowej aplikacji i powstające wokół niego nowe serwisy. Wiedzieliśmy, że część funkcjonalności tego monolitu będzie potrzebna w nowych produktach tworzonych przez nowe zespoły. Poświęciliśmy sporo czasu i uwagi, żeby nauczyć się jak zaprojektować łatwą w utrzymaniu, skalowalną i luźno powiązaną architekturę mikroserwisów do przetwarzania opartego na danych. Teraz, gdy część pracy jest za nami i działa na produkcji, chciałem Wam opowiedzieć nie tylko, jak to zaprojektowaliśmy, ale przede wszystkim czego się nauczyliśmy już po pierwszych produkcyjnych wdrożeniach.
-#     <br /><br />
-#     Chciałbym, żebyście z tej prezentacji dowiedzieli się przede wszystkim, jakie pułapki czekają po wdrożeniu mikroserwisów i na jakie szczegóły warto zwrócić uwagę &ndash; problemy, o których często nie mówi się na prezentacjach, bo rzekomo "to oczywiste" i "wszyscy to wiedzą". Ale czy rzeczywiście?
-#   place: ""
-#   subtype: presentation
-#   speakers: [ 10 ]
-# - id: 206
-#   title: "Hypergrowth scaling made simple"
-#   place: ""
-#   subtype: presentation
-#   description: >
-#     This presentation will present a counterintuitive, straightforward,
-#     and business-friendly approach to creating a hyper-scalable systems using surprisingly simple architecture and patterns.
-#     <br /><br />
-#     In the presentation, I will discuss how extraordinary simplicity can boost your growth with examples of Revolut's architecture,
-#     its advantages, and potential challenges. We will look into what does it mean that a system is complicated,
-#     complex, and how to make good architectural decisions to enable fast growth at the hypergrowth stage.
-#     <br /><br />
-#     A promise: You will never look at systems of this scale the same way again.
-#   speakers: [ 6 ]
+#   speakers: [ 2 ]
+- id: 206
+  title: "Internal Developer Platform = Procesy + Technologie + ?"
+  place: ""
+  subtype: presentation
+  description: >
+    Od zera do wewnętrznej platformy developerskiej. 
+    Czyli przejście przez to czego potrzebujemy żeby na koniec mieć wewnętrzną platformę developerską. 
+    Jak uzyskać alignment w organizacji, jakie standardy zdefiniować i jak je wdrożyć? 
+    Jak wdrażać, monitorować i testować? Kubernetes, zarządzany Kubernetes, czy coś innego? Jak zabezpieczyć? 
+    Do czego dalej wykorzystać i jak rozwijać?
+  speakers: [ 6 ]
+- id: 207
+  title: "Reliability 101, czyli co powinieneś wiedzieć o niezawodności"
+  place: ""
+  subtype: presentation
+  description: >
+    Pewnie już dziesiątki razy słyszałeś/słyszałaś, że aplikacja ma być niezawodna, wysokodostępna, bla bla bla... 
+    że Google ma SRE i jest to super! Serio?!
+    <br /><br />
+    W trakcie odczarujemy ten marketingowy bełkot i zdefiniujemy, co to w ogóle jest ta cała niezawodność. 
+    Do tego dorzucimy kilka dobrych rad, jak tego użyć w praktyce.
+    <br /><br />
+    A crème de la crème sesji: 
+    jeżeli jesteś programistą, usłyszysz, co powiedzieć do adminów i DevOpsów, i vice versa ;-)
+  speakers: [ 7 ]
 # # ################################## WORKSHOPS ##################################
 # - id: 304
 #   title: "(Nie)trudna sztuka modelowania agregatów "
