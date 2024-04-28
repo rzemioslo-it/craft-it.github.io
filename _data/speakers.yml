@@ -21,11 +21,24 @@
   surname: Szydło
   rockstar: true
   thumbnailUrl: lukasz-szydlo.jpg
+  bio: >
+    Programista pasjonat, fan “Software Craftsmanship” i zwinnego podejścia do wytwarzania oprogramowania.
+    <br /><br />
+    Lubi proste rozwiązania skomplikowanych problemów. 
+    Na codzień zajmuje się tematami z zakresu architektury aplikacji biznesowych, Domain-Driven Design, 
+    Continuous Delivery, technologii Java oraz testowania automatycznego. Prywatnie mąż, ojciec piątki dzieci.
 - id: 3
   name: Michał
   surname: Bartyzel
   rockstar: true
   thumbnailUrl: michal-bartyzel.jpg
+  bio: >
+    Pracuję w branży IT od 20 lat jako programista, team leader, architekt, przedsiębiorca. 
+    Przez wiele lat pomagałem zespołom refaktoryzować kod, od jakiegoś czasu zajmuję się reorganizacją 
+    procesów dostarczania oprogramowania oraz usprawnianiem współpracy z klientem. Napisałem kilka książek min. 
+    “Oprogramowanie szyte na miarę. Jak rozmawiać z klientem, który nie wie, czego chce?” i 
+    “Getting Things Programmed. Droga do efektywności”. 
+    Więcej o mnie i o mojej pracy dowiesz się na stronie <a href="https://michalbartyzel.pl" target="_blank">https://michalbartyzel.pl</a>
 - id: 4
   name: "Wojtek"
   surname: "Ptak"
@@ -43,16 +56,32 @@
   surname: Kokosa
   rockstar: true
   thumbnailUrl: konrad-kokosa.jpg
+  bio: >
+    Założyciel <a href="https://crowdpub.org" target="_blank">https://crowdpub.org</a>, na nowo definiujący sposób pisania i czytania książek. 
+    Współzałożyciel inicjatywy <a href="https://dotnetos.org" target="_blank">https://dotnetos.org</a> mającej na celu nauczanie w obszarze .NET, 
+    w szczególności o wydajności aplikacji. Niezależny konsultant programujący od kilkunastu lat, 
+    prelegent konferencyjny i autor książki Pro .NET Memory Management. 
+    Sceptyczny fan technologii Web3 i blockchain. Microsoft MVP.
 - id: 6
   name: Szymon
   surname: Warda
   rockstar: true
   thumbnailUrl: szymon-warda.jpg
+  bio: >
+    W IT od czasów kiedy Internet Explorer 6 uchodził za "lepszą" przeglądarkę. 
+    Po zrealizowaniu marzenia każdego informatyka, czyli stworzeniu gry, buduję systemy rozproszone. 
+    Pasjonat modelowania danych, ewolucyjnego podejścia do architektury i znajdywania balansu między rozwiązaniami 
+    białkowymi a technologicznymi. 1/2 PatoArchitektów.
 - id: 7
   name: Łukasz
   surname: Kałużny
   rockstar: true
   thumbnailUrl: lukasz-kaluzny.jpg
+  bio: >
+    Pracuje jako doradca technologiczny w zakresie strategii i architektury IT w Protopii, 
+    głównie związanych z technologiami chmurowymi i kontenerowymi - z Azure od 2013, Dockerem od 2014, 
+    a K8s - 2016/2017. Prowadzi podcast Patoarchitekci.io o technologii skierowany seniorów deweloperów, 
+    architektów IT. Od 2012 roku wyróżniany corocznie nagrodą Microsoft MVP.
 - id: 8
   name: Kamil
   surname: Gałuszka
@@ -63,13 +92,23 @@
   surname: Gil
   rockstar: true
   thumbnailUrl: mariusz-gil.jpg
+  bio: >
+    Software architect interesujący się złożonymi systemami o wysokiej wartości biznesowej, 
+    związany głównie z platformami webowymi. Ex-CTO, konsultant, speaker i trener w Bottega IT Minds. 
+    Z branżą IT związany od ponad 18 lat. Od kilku lat wykorzystuje EventStorming jako narzędzie do komunikacji 
+    pomiędzy zespołami developerskimi i biznesowymi, a także do modelowania oprogramowania w oparciu o DDD, 
+    CQRS czy EventSourcing. Uczestnik EventStorming Summit 2017, gdzie wspólnie z innymi zaproszonymi przez 
+    Alberto Brandoliniego osobami pracował nad rozwojem tej techniki. Po godzinach oddaje się swoim innym pasjom, 
+    fotografii i gitarze elektrycznej.
 - id: 10
   name: Grzegorz
   surname: Piwowarek
   rockstar: true
   thumbnailUrl: grzegorz-piwowarek.jpg
   bio: >
-    Founding Engineer w Quesma, niezależny konsultant/trener, blogger (4comprehension.com). Interesują go systemy rozproszone, bebechy, wydajność i architektura systemów. Krążą plotki, że istnieje tylko w czasie kompilacji.
+    Founding Engineer w Quesma, niezależny konsultant/trener, blogger (4comprehension.com). 
+    Interesują go systemy rozproszone, bebechy, wydajność i architektura systemów. 
+    Krążą plotki, że istnieje tylko w czasie kompilacji.
 - id: 11
   name: Tomasz
   surname: Onyszko
