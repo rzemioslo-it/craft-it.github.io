@@ -23,12 +23,20 @@
     <br /><br />
     To tylko wybrane zagadnienia, o których opowiem. Jeśli nie interesują Cię testy wydajnościowe i unikasz tego tematu jak zarazy, na tej prezentacji dowiesz się dlaczego tak jest. Jeśli jednak czujesz się wyznawcą maszyny i tematy wydajności nie są Ci obce, pomogę Ci z większą świadomością projektować testy i interpretować ich wyniki.
   speakers: [ 1 ]
-# - id: 202
-#   title: ""
-#   place: ""
-#   subtype: presentation
-#   description: >
-#   speakers: [ 2 ]
+- id: 202
+  title: "Czysty kod – to jednak nie takie proste"
+  place: ""
+  subtype: presentation
+  description: >
+    Skąd wiesz czy piszesz dobry kod?! Bo jest zgodny z konwencjami? Bo statyczna analiza nie wykrywa błędów? 
+    Bo przestrzega SOLID, CUPID, DRY, KISS?
+    <br /><br />
+    Wszystkie te kryteria są niesamowicie subiektywne, bo czy zgadzamy się wszyscy czym jest pojedyncza odpowiedzialność, 
+    albo ile linii ma krótką metoda, czy dana klasa wystarczająco enkapsuluje?
+    <br /><br />
+    I tu pojawia się pytanie, czy da się obiektywnie oceniać kod? W 100% raczej nie, 
+    ale da się dużo bardziej niż do tej pory.
+  speakers: [ 2 ]
 - id: 203
   title: "Szybki kurs myślenia biznesowego dla inżynierów i inżynierek"
   place: ""
@@ -42,12 +50,29 @@
     <br /><br />
     Jeśli to, co wyżej napisałem w jakiś sposób odzwierciedla Twoje wewnętrzne przemyślenia, wpadnij na moją prezkę. 
     Podam Ci kilka punktów, na które warto zwrócić uwagę, jeśli chcesz budować partnerską relację z biznesem.
-# - id: 202
-#   title: ""
-#   place: ""
-#   subtype: presentation
-#   description: >
-#   speakers: [ 2 ]
+- id: 204
+  title: "Architecture Uncomplicated: tools for simplified large scale systems"
+  place: ""
+  subtype: presentation
+  description: >    
+    Forget about the spine-chilling tales of managing large–scale systems. It doesn’t have to be a daunting task. 
+    We’re here to advocate for battle’s proven simplicity with a pinch of fun. 
+    We’ll slice through the Gordian knot of complexity, juggle scalability patterns while uncovering their dark sides, 
+    and turn time modelling into a time-travel adventure.
+    <br /><br />
+    No sale of silver bullets here; 
+    instead, we arm you with practical solutions and actionable strategies based on real-world examples and 
+    the dark sides of rapid-scaling problems.
+    <br /><br />
+    Join us to transform your approach to evolving system architecture, 
+    leaving you with insights immediately applicable to your work.
+  speakers: [ 5 ]
+- id: 205
+  title: "Quo Vadis IT"
+  place: ""
+  subtype: presentation
+  description:
+  speakers: [ 5 ]
 - id: 206
   title: "Internal Developer Platform = Procesy + Technologie + ?"
   place: ""
@@ -73,6 +98,23 @@
     A crème de la crème sesji: 
     jeżeli jesteś programistą, usłyszysz, co powiedzieć do adminów i DevOpsów, i vice versa ;-)
   speakers: [ 7 ]
+# - id: 208
+#   title: ""
+#   place: ""
+#   subtype: presentation
+#   description:
+#   speakers: [ 8 ]
+- id: 209
+  title: "Domain Driven Disaster"
+  place: ""
+  subtype: presentation
+  description: >
+    DDD i jego pozytywy odmieniono już w prezentacjach chyba na wszystkie możliwe przypadki. 
+    „Wdrażanie” DDD często może być marszem ku klęsce, bo rzeczywistość nie jest już tak różowa jak na slajdach… 
+    Nie mówmy więc kolejny raz o roli i znaczeniu agregatów czy bounded-contextów, 
+    ale na konkretnych przykładach pokażmy, jakie pułapki tu czekają i jak można je skutecznie ominąć, 
+    aby uniknąć tytułowej porażki i kolejnych szram z Wietnamu.
+  speakers: [ 9 ]
 - id: 210
   title: "Embracing Microservices"
   place: ""
@@ -87,57 +129,31 @@
     najważniejsze wnioski wyciągnięte z udanych i nieudanych wdrożeń mikrousług. 
     Skupimy się na kwestiach, które nie zostały poruszone w podobnych prezentacjach.
   speakers: [ 10 ]
+# - id: 211
+#   title: ""
+#   place: ""
+#   subtype: presentation
+#   description:
+#   speakers: [ 11 ]
+- id: 212
+  title: "Unicorn's baby steps: what should you know (& do) as a first-time startup CTO"
+  place: ""
+  subtype: presentation
+  description: >
+    Startup's early days aren't easy: there are always too many topics on your plate 
+    and everything is of the highest priority. As a first-time CTO you have to pick your battles wisely - 
+    I'll try to help by sharing my experience as a former startup CTO and a person who cooperates with startups 
+    on daily basis. There is no single blueprint to follow, but we'll go through major decision points, 
+    key concerns to be addressed, most pressing questions to be answered. To illustrate the challenges 
+    covered and make it an interactive experience, we will create an artificial startup and take it for 
+    a virtual spin together.
+  speakers: [ 11 ]
 # # ################################## WORKSHOPS ##################################
-# - id: 304
-#   title: "(Nie)trudna sztuka modelowania agregatów "
-#   place: "TBA"
-#   subtype: workshop
-#   description: >
-#     Agregaty to chyba natrudniejszy element konstrukcyjny taktycznego Domain-Driven Design.
-#     Czy naprawdę chodzi tylko (lub aż) o dobrze skrojone programowanie obiektowe?
-#     <br /><br />
-#     Dobrze zaprojektowany agregat potrafi wyeliminować potrzebę dokupowania chmury dla naszych czterdziestu mikroserwisów.
-#     Źle zaprojektowany agregat potrafi sprawić, że używanie systemu jest koszmarem.
-#     <br /><br />
-#     W tym praktycznym warsztacie przejdziemy przez typowe przypadki modelowania i implementacji agregatów.
-#     Tak, typowe, bo... nasze projekty mocno się nie różnią. Zahaczymy też o archetypy.
-#     <br /><br />
-#     <p>Wymagania</p>
-#     <ul>
-#       <li>Laptop</li>
-#       <li>GIT</li>
-#       <li>Większość warsztatu odbędzie się na platformie miro.com, więc dobrze się z nią zapoznać (zajmuje sie jakieś 2 minuty)</li>
-#       <li>Dodatkowo warto mieć zainstalowane ulubione IDE, ulubiony język oraz klienta git (bo może pojawi się nasz wspólny kod)</li>
-#       <li>będziemy pracować w grupach (2-4 osobowych, w zależności od liczby osób)<li/>
-#     </ul>
-#   speakers: [ 4 ]
 # - id: 301
-#   title: Wydajność aplikacji Java dla ciekawskich
+#   title: ""
 #   place: "TBA"
 #   subtype: workshop
-#   description: >
-#     Celem tego warsztatu jest łagodne wprowadzenie Cię w świat wydajności na platformie JVM.
-#     Nie wiesz nic o JMH, JFR, async profiler, dlaczego twój kod musi być wygrzewany?
-#     Nigdy nie widziałeś "flamegraph"?
-#     <br /><br />
-#     Spokojnie. Tego wszystkiego dowiesz się podczas jednodniowego warsztatu.
-#     Skupimy się nie tylko na narzędziach, ale także na procesie i technikach optymalizowania wydajności.
-#     Weźmiemy na warsztat jeden z sztandarowych modeli przetwarzania danych, "map reduce".
-#     Od prostej jednowątkowej implementacji, po wielowątkowe monstrum oparte o fork-join pool,
-#     będziemy poznawać techniki i narzędzia pracy z testami wydajnościowymi
-#     ( w skali micro, znanymi także jako "microbenchmark").
-#     <br /><br />
-#     Będzie też czas na zapoznanie się z mechanizmami JVM, takimi jak just-in-time compiler,
-#     garbage collector czy adaptive locking. Więcej informacji na stronie https://jvmperformance.pl/.
-#     <br /><br />
-#     <p>Wymagania</p>
-#     <ul>
-#       <li>JDK 20</li>
-#       <li>Docker</li>
-#       <li>Maven</li>
-#       <li>Zaznajomienie się z biznesowymi i technicznymi metodami modularyzacji systemu. </li>
-#       <li>IDE</li>
-#     </ul>
+#   description: 
 #   speakers: [ 1 ]
 # ################################## SERVICE ##################################
 - id: 100
