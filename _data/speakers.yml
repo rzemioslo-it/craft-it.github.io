@@ -142,6 +142,24 @@
     Po 15 latach pracy akademickiej i badania systemów rozproszonych, obecnie tworzy oprogramowanie dla <a href='http://flyrlabs.com'>FLYR Inc.</a>.
     Współtworzy Rzeszowską grupę użytkowników języka Ruby (<a href='http://RRUG.pl'>RRUG.pl</a>).
     Więcej na <a href='https://www.linkedin.com/in/wrzasa/'>linkedin.com/in/wrzasa/</a>.
+- id: 14
+  name: "Dawid"
+  surname: "Pereira"
+  thumbnailUrl: dawid-pereira.jpg
+  rockstar: true
+  bio: >
+    Programista z wieloletnim doświadczeniem w technologiach Microsoft, 
+    specjalizujący się w projektowaniu aplikacji skoncentrowanych na potrzebach biznesowych ponad potrzebami 
+    realizacji skrytych marzeń architekta. Miłośnik trudnych pytań i prostych rozwiązań. 
+    Zwolennik metodyki „5 Why”, Domain-Driven Design oraz pragmatycznych rozwiązań. 
+    Przekonany o możliwości utrzymania prostoty kodu dłużej niż przez pierwsze trzy miesiące projektu. 
+    Prywatnie szczęśliwy mąż, niespełniony filmowiec, zakochany w Japonii i Natto. 
+- id: 15
+  name: "TBA"
+  surname: "TBA"
+  thumbnailUrl: placeholder.png
+  rockstar: true
+  bio:
 # - id: 2
 #   name: "Krzysztof"
 #   surname: "Kędzierski"

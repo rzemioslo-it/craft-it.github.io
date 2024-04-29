@@ -98,12 +98,12 @@
     A crème de la crème sesji: 
     jeżeli jesteś programistą, usłyszysz, co powiedzieć do adminów i DevOpsów, i vice versa ;-)
   speakers: [ 7 ]
-# - id: 208
-#   title: ""
-#   place: ""
-#   subtype: presentation
-#   description:
-#   speakers: [ 8 ]
+- id: 208
+  title: "Be curious, not judgmental. Unikernel stories."
+  place: ""
+  subtype: presentation
+  description:
+  speakers: [ 8 ]
 - id: 209
   title: "Domain Driven Disaster"
   place: ""
@@ -148,6 +148,55 @@
     covered and make it an interactive experience, we will create an artificial startup and take it for 
     a virtual spin together.
   speakers: [ 12 ]
+- id: 213
+  title: "Mastering Software Delivery: A Step Beyond Coding Efficiency"
+  place: ""
+  subtype: presentation
+  description:
+  speakers: [ 13 ]
+- id: 214
+  title: "Hi I'm Dawid, and I'm love being STUPID"
+  place: ""
+  subtype: presentation
+  description: >
+    Dlaczego jedne projekty są łatwiejsze od innych i na czym właściwie ta łatwość polega? Czy więcej, "lepiej", mądrzej faktycznie zawsze znaczy lepiej?
+    <br /><br />
+    Nie wszystko musi być zawsze najnowsze i najlepsze, a dodawanie ficzeru za ficzerem po tygodniu pracy nad nowym projektem niekoniecznie oznacza, że jesteś programistą sigma. Brak fancy wzorców projektowych wbrew pozorom może poprawić czytelność kodu i efektywność pracy, a z czasem wszyscy możemy pokochać bycie STUPID.
+    <br /><br />
+    Co to znaczy, że mój kod jest prosty/trudny.
+    <br />
+    Jak minimalizować ryzyko powstania trudnego kodu.
+    <br />
+    Jak korzystać z wzorców, a nie być przez nie wykorzystywanym.
+    <br />
+    Jak pokochać bycie STUPID
+    <br /><br /><br />
+    Jeśli spytasz dowolnego programisty jak wyglądał jego pierwszy projekt to najprawdopodobniej usłyszysz, że był bardzo łatwy/trudny, - niepotrzebne skreśl. Jeśli spytasz o drugi, trzeci i kolejny projekt, znowu dostaniesz jedną z tych dwóch opcji, ale niekoniecznie będą one zawsze takie same. 
+    <br />
+    Od czego to zależy?
+    <br />
+    Co to właściwie znaczy, że projekt jest łatwy bądź trudny? 
+    <br />
+    Czy system zarządzania linią lotniczą może być łatwiejszy od prostego CRUDa?
+    <br /><br />
+    O czym będziemy rozmawiać:
+    <br />
+    Dlaczego jedne projekty są łatwiejsze od innych i na czym właściwie ta łatwość polega? Czy więcej, "lepiej", mądrzej faktycznie zawsze znaczy lepiej?
+    <br />
+    Nie wszystko musi być zawsze najnowsze i najlepsze, a dodawanie ficzeru za ficzerem po tygodniu pracy nad nowym projektem niekoniecznie oznacza, że jesteś programistą sigma. Brak fancy wzorców projektowych wbrew pozorom może poprawić czytelność kodu i efektywność pracy, a z czasem wszyscy możemy pokochać bycie STUPID.
+    <br />
+    Co to znaczy, że mój kod jest prosty/trudny.
+    <br /><br />
+    Jak minimalizować ryzyko powstania trudnego kodu.
+    <br />
+    Jak korzystać z wzorców, a nie być przez nie wykorzystywanym.
+    <br />
+    Jak pokochać bycie STUPID
+    <br /><br />
+    Zaraz, zaraz, prosty do bólu kod, brak wzorców projektowych? A co z DDD, TDD, BDD, DRY, SOLID, (...) - tu wstaw dowolny inny akronim, który lubisz albo fajnie brzmi? Wszystkie z tych technik są pomocne i bardzo często niemalże konieczne do osiągnięcia celu. Przecież wszyscy wiemy, że skomplikowane problemy, wymagają skomplikowanych rozwiązań. Czy na pewno to jest zawsze prawdą, a przede wszystkim czy na pewno Twój problem jest tym z natury skomplikowanych i specyficznych?
+    <br /><br />
+    Po tej prezentacji spojrzysz na swoje zadania  z nowej perspektywy i zyskasz narzędzia, które pomogą Ci pisać "głupi", nudny kod.
+  speakers: [ 14 ]
 # # ################################## WORKSHOPS ##################################
 # - id: 301
 #   title: ""
