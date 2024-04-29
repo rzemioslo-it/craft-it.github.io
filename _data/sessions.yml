@@ -250,6 +250,6 @@
   description: ""
 - id: 105
   title: "After Party"
-  #place: "Stary Browar Rzeszowski"
+  place: "Stary Browar Rzeszowski"
   service: true
-  #description: <a href='http://www.browar-rzeszow.pl/'>Stary Browar Rzeszowski</a>, Rynek, tuż obok Bristolu.
+  description: <a href='http://www.browar-rzeszow.pl/'>Stary Browar Rzeszowski</a>, Rynek, tuż obok Bristolu.
