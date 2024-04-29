@@ -210,10 +210,10 @@
   description: 
   speakers: [ 16 ]
 - id: 217
-  title: "Panel dyskusyjny - CTO Morning Coffee na żywo"
+  title: "Panel dyskusyjny"
   place: ""
   subtype: presentation
-  description: 
+  description: "CTO Morning Coffee na żywo"
   speakers: [ 4,11,12 ]
 # # ################################## WORKSHOPS ##################################
 # - id: 301
