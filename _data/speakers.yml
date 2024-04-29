@@ -155,9 +155,15 @@
     Przekonany o możliwości utrzymania prostoty kodu dłużej niż przez pierwsze trzy miesiące projektu. 
     Prywatnie szczęśliwy mąż, niespełniony filmowiec, zakochany w Japonii i Natto. 
 - id: 15
-  name: "TBA"
-  surname: "TBA"
+  name: "Bartosz"
+  surname: "Pałka"
   thumbnailUrl: placeholder.png
+  rockstar: true
+  bio:
+- id: 16
+  name: "Michał"
+  surname: "Borkowski"
+  thumbnailUrl: michal-borkowski.jpg
   rockstar: true
   bio:
 # - id: 2
