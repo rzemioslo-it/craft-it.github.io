@@ -165,7 +165,12 @@
   surname: "Borkowski"
   thumbnailUrl: michal-borkowski.jpg
   rockstar: true
-  bio:
+  bio: >
+    Michał tworzy oprogramowanie w Xebia. 
+    W wolnym czasie lubi eksperymentować z niszowymi technologiami i robić proste rzeczy od podstaw - wynajdować koło na nowo. 
+    Zwykle używa narzędzia odpowiedniego do zadania ale jego ulubione środowisko programistyczne to vim + tmux + czarno-biała konsola. 
+    Lubi kiedy rzeczy działają, a jeszcze bardziej kiedy działają automatycznie i bez nadzoru - 
+    nawet jeśli automatyzacja zajmuje więcej czasu niż sama czynność.
 # - id: 2
 #   name: "Krzysztof"
 #   surname: "Kędzierski"

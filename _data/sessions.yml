@@ -204,10 +204,14 @@
   description: 
   speakers: [ 15 ]
 - id: 216
-  title: TBA
+  title: "Co drażni DevOpsa? Survival we współczesnym zespole developerskim."
   place: ""
   subtype: presentation
-  description: 
+  description: >
+    Stanowisko DevOps jest tak niedookreślone, że w każdej firmie, może się wiązać z całkiem innym typem pracy. 
+    To daje okazję do pracy w bardzo różnych warunkach, z bardzo różnymi typami osób, nierzadko w stresującej atmosferze. 
+    Programista, tester, project manager, czy nawet inny DevOps - może być opoką zespołu, albo kijem w szprychach. Kierownik Jiry? Programista-kowboj? 
+    Wymienię kilka dobrze znanych antywzorców i propozycje rozwiązań. Znając je, łatwiej sobie z nimi radzić... i nie tworzyć ich samemu.
   speakers: [ 16 ]
 - id: 217
   title: "Panel dyskusyjny"
