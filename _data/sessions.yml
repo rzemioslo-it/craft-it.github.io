@@ -152,7 +152,19 @@
   title: "Mastering Software Delivery: A Step Beyond Coding Efficiency"
   place: ""
   subtype: presentation
-  description:
+  description: >
+    Zastanawiasz jak podnieść swoje deweloperskie kwalifikacje i mieć większy wpływ na projekt? 
+    Może kodowanie jeszcze szybciej, czy kolejny framework nie wydają Ci się właściwym kierunkiem rozwoju? 
+    A może po prostu szukasz pomysłu na swoją karierę? Jeśli tak, to zapraszam Cię na tę prezentację. 
+    Chciałbym Cię zachęcić do zrobienia kolejnego kroku na deweloperskiej ścieżce.
+    <br /> <br />
+    Podczas tej prezentacji opowiem jak poza sprawnym kodowaniem możesz przyczynić się do sukcesu Twojego zespołu. 
+    Porozmawiamy co zrobić, żeby zespół inżynierów zabierając się do pracy lepiej rozumiał co ma dostarczyć: jak odkrywać wymagania, 
+    jak rozmawiać z właścicielami produktu, jak sprawić, żeby powiedzieli nam o wymaganiach, których sami sobie nie uświadomili.
+    <br /> <br />
+    Podzielę się własnymi doświadczeniami i opowiem w jaki sposób możesz mieć kluczowy wpływ na sukces projektu. 
+    Po tej prezentacji będziesz znacznie lepiej rozumieć jak analizować i interpretować wymagania, jakie pytania zadawać i ostatecznie -- co zrobić, 
+    żeby Twój zespół mógł szybciej dostarczać lepsze oprogramowanie.
   speakers: [ 13 ]
 - id: 214
   title: "Hi I'm Dawid, and I'm love being STUPID"
