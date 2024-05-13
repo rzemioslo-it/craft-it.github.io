@@ -123,6 +123,7 @@
   name: Grzegorz
   surname: Piwowarek
   rockstar: true
+  feedback: https://forms.gle/6naWkD8MkM6j8BhJ8
   thumbnailUrl: grzegorz-piwowarek.jpg
   bio: >
     Founding Engineer w Quesma, niezależny konsultant/trener, blogger (4comprehension.com). 
@@ -131,6 +132,7 @@
 - id: 11
   name: Tomasz
   surname: Onyszko
+  feedback: https://forms.gle/nubZ2QDK7GUEFyYN8
   rockstar: true
   bio: > 
     Tomek, jak w wielu przypadkach w swojej karierze, w CTO Morning Coffee obsługuje śrubokręt i taśmę klejącą.
@@ -142,6 +144,7 @@
 - id: 12
   name: Sebastian
   surname: Gębski
+  feedback: https://forms.gle/h5bqcAxSNRQbKyvA9
   rockstar: true
   bio: >
     Sebastian Gębski, jak sam się określa na swoim blogu "No Kill Switch" - engineering leader (at scale).
@@ -154,6 +157,7 @@
   name: "Wojciech"
   surname: "Rząsa"
   thumbnailUrl: wojciech-rzasa.jpg
+  feedback: https://forms.gle/3gTxD4jv4mkRqkoy7
   rockstar: true
   bio: >
     Informatyk z zamiłowania i z zawodu. Inżynier z doktoratem, administrator, tech-lead, architekt.
@@ -165,6 +169,7 @@
   name: "Dawid"
   surname: "Pereira"
   thumbnailUrl: dawid-pereira.jpg
+  feedback: https://forms.gle/bL8rHTegCWSxaRQs8
   rockstar: true
   bio: >
     Programista z wieloletnim doświadczeniem w technologiach Microsoft, 
@@ -177,12 +182,14 @@
   name: "Bartosz"
   surname: "Pałka"
   thumbnailUrl: bartosz-palka.jpg
+  feedback: https://forms.gle/X8WdRHc8vWUAfBTY8
   rockstar: true
   bio:
 - id: 16
   name: "Michał"
   surname: "Borkowski"
   thumbnailUrl: michal-borkowski.jpg
+  feedback: https://forms.gle/UNrvkzFwLQ5NaLZo6
   rockstar: true
   bio: >
     Michał tworzy oprogramowanie w Xebia. 
