@@ -13,6 +13,7 @@
     W wolnych chwilach trener w http://symentis.pl i autor bloga na http://geekyprimitives.wordpress.com/ oraz samozwańczy dyktator w radach programowych konferencji.
   thumbnailUrl: jarek-palka.jpg
   rockstar: true
+  feedback: https://forms.gle/ebN5ZkMnXanD8prD9
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/jpalka/" }
     - { name: "twitter", link: "https://twitter.com/j_palka" }
@@ -20,6 +21,7 @@
   name: Łukasz
   surname: Szydło
   rockstar: true
+  feedback: https://forms.gle/c5F17o2N6CjNyFUP9
   thumbnailUrl: lukasz-szydlo.jpg
   bio: >
     Programista pasjonat, fan “Software Craftsmanship” i zwinnego podejścia do wytwarzania oprogramowania.
@@ -31,6 +33,7 @@
   name: Michał
   surname: Bartyzel
   rockstar: true
+  feedback: https://forms.gle/Rc62x9GCR23QrTqWA
   thumbnailUrl: michal-bartyzel.jpg
   bio: >
     Pracuję w branży IT od 20 lat jako programista, team leader, architekt, przedsiębiorca. 
@@ -44,6 +47,7 @@
   surname: "Ptak"
   thumbnailUrl: wojtek-ptak.jpg
   rockstar: true
+  feedback: https://forms.gle/JZmFRp3yyWvpxqea7
   bio: >
     Wojtek works as Head of Product Engineering at Revolut.
     Before, he worked as CTO for several companies, provided consulting, training, and assisted in building various data collecting,
@@ -55,6 +59,7 @@
   name: Konrad
   surname: Kokosa
   rockstar: true
+  feedback: https://forms.gle/SQSeGjdDGyaWAQAP6
   thumbnailUrl: konrad-kokosa.jpg
   bio: >
     Założyciel <a href="https://crowdpub.org" target="_blank">https://crowdpub.org</a>, na nowo definiujący sposób pisania i czytania książek. 
@@ -66,6 +71,7 @@
   name: Szymon
   surname: Warda
   rockstar: true
+  feedback: https://forms.gle/oANntM8rYJEcSMpq6
   thumbnailUrl: szymon-warda.jpg
   bio: >
     W IT od czasów kiedy Internet Explorer 6 uchodził za "lepszą" przeglądarkę. 
@@ -76,6 +82,7 @@
   name: Łukasz
   surname: Kałużny
   rockstar: true
+  feedback: https://forms.gle/JTh34Y896nP3BacU6
   thumbnailUrl: lukasz-kaluzny.jpg
   bio: >
     Pracuje jako doradca technologiczny w zakresie strategii i architektury IT w Protopii, 
@@ -86,11 +93,23 @@
   name: Kamil
   surname: Gałuszka
   rockstar: true
+  feedback: https://forms.gle/uKmse8kqkQu7Xy2j7
+  bio: >
+    W branży IT od ponad 15 lat. Organizator (i uczestnik) wielu hackathonów takich jak HackSilesia, 
+    Koduj dla Polski, Hacktoberfest, Hackfest itd. Sympatyk i okazjonalny kontrybutor wielu różnych projektów otwartego 
+    i wolnego oprogramowania (open source & free software). Współzałożyciel już nie istniejącego Hackerspace Silesia, 
+    z sympatią patrzy na środowisko Hackerspace-ów na świecie i w Polsce. Zafascynowany analizą danych.
+    <br />
+    Na codzień pracuje jako Software Architect w FLYR Inc. Jako prosty człowiek pisał większość życia w Pythonie, 
+    ale lubi czasami pisać w innych językach.
+    <br />
+    Nie zna się na Unikernelach, ale chętnie się o nich ostatnio uczy. 
   thumbnailUrl: kamil-galuszka.jpg
 - id: 9
   name: Mariusz
   surname: Gil
   rockstar: true
+  feedback: https://forms.gle/YNj6CKaUuLTLsiLn6
   thumbnailUrl: mariusz-gil.jpg
   bio: >
     Software architect interesujący się złożonymi systemami o wysokiej wartości biznesowej, 

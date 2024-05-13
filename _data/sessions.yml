@@ -102,7 +102,31 @@
   title: "Be curious, not judgmental. Unikernel stories."
   place: ""
   subtype: presentation
-  description:
+  description: >
+    Dzisiaj można bez zmiany kodu:
+    <ul><li>
+    Przyspieszyć o nawet 200% Memcache'a czy Redisa
+    </li><li>
+    Szybko skalować aplikacje dostawiając nowe VMki w mniej niż 100 ms a czasami nawet 10 ms!
+    </li><li>
+    Zwiększyć stanowczo bezpieczeństwo swojej aplikacji na ataki typu remote execution.
+    </li></ul>
+    <br /><br />
+    W ostatnich latach obserwujemy rozwój sposobów wdrażania (tzw. "deployowania") mikrousług i serwisów na serwerach. Od wirtualizacji, która zapoczątkowała nową erę przenoszenia usług do chmury, poprzez wzorce takie jak 12 factor i immutable infrastructure, aż po erę Dockera i kontenerów z Kubernetes na czele, każda zmiana przynosi nowe możliwości, ale i znacznie zwiększa złożoność systemów.
+    <br /><br />
+    Czy zastanawialiście się kiedyś, ile tak naprawdę wywołań systemowych (syscall) potrzebuje Wasza aplikacja? Po co używacie systemu operacyjnego (np. Linuxa czy Windowsa), zaprojektowanego dla wielu użytkowników, procesów i zastosowań, skoro uruchamiacie w nim tylko jeden proces HTTP? Po co ktoś stworzył coś takiego jak plik i czy potrzebne Wam są do niego uprawnienia, jeśli macie tylko jeden proces? Jaki jest czasowy koszt przełączania kontekstu z user mode do kernel mode w Waszej aplikacji?
+    <br /><br />
+    A co gdyby istniał sposób na uproszczenie tego wszystkiego?  A może Wasza aplikacja może być bezpieczniejsza dzięki użyciu Unikernela? 
+    <br /><br />
+    W tej prezentacji:
+    <ul><li>
+    Wyjaśnię, czym są Unikernele oraz jakie mają zalety i wady.
+    </li><li>
+    Pokażę benchmarki i przykłady zastosowań Unikerneli.
+    </li><li>
+    Przedstawię argumenty, dlaczego Unikernele mogą być lepszym wyborem od kontenerów dla mikrousług.
+    </li></ul>
+    Unikernele to nie tylko przyszłość, to już teraźniejszość.
   speakers: [ 8 ]
 - id: 209
   title: "Domain Driven Disaster"
