@@ -172,19 +172,25 @@
   feedback: https://forms.gle/bL8rHTegCWSxaRQs8
   rockstar: true
   bio: >
-    Programista z wieloletnim doświadczeniem w technologiach Microsoft, 
-    specjalizujący się w projektowaniu aplikacji skoncentrowanych na potrzebach biznesowych ponad potrzebami 
-    realizacji skrytych marzeń architekta. Miłośnik trudnych pytań i prostych rozwiązań. 
-    Zwolennik metodyki „5 Why”, Domain-Driven Design oraz pragmatycznych rozwiązań. 
-    Przekonany o możliwości utrzymania prostoty kodu dłużej niż przez pierwsze trzy miesiące projektu. 
-    Prywatnie szczęśliwy mąż, niespełniony filmowiec, zakochany w Japonii i Natto. 
+    Programista z wieloletnim doświadczeniem w technologiach Microsoft,
+    specjalizujący się w projektowaniu aplikacji skoncentrowanych na potrzebach biznesowych ponad potrzebami
+    realizacji skrytych marzeń architekta. Miłośnik trudnych pytań i prostych rozwiązań.
+    Zwolennik metodyki „5 Why”, Domain-Driven Design oraz pragmatycznych rozwiązań.
+    Przekonany o możliwości utrzymania prostoty kodu dłużej niż przez pierwsze trzy miesiące projektu.
+    Prywatnie szczęśliwy mąż, niespełniony filmowiec, zakochany w Japonii i Natto.
 - id: 15
   name: "Bartosz"
   surname: "Pałka"
   thumbnailUrl: bartosz-palka.jpg
   feedback: https://forms.gle/X8WdRHc8vWUAfBTY8
   rockstar: true
-  bio:
+  bio: >
+    Kiedyś myślał, że odnajdzie się w roli dewelopera. Dzisiaj spełnia się jako Delivery Manager w Xebia Poland.
+    Odpowiada za efektywne dostarczanie rozwiązań w szerokim spektrum technicznych projektów,
+    od aplikacji webowych i mobilnych, przez rozwój backendu, aż po data science.
+    Pasjonat informatyki związany z branżą IT od 10 lat, w tym od 7 lat w ramach projektów komercyjnych.
+    W swojej karierze współpracował zarówno z globalnymi korporacjami, jak i z lokalnymi startupami,
+    wszędzie zauważając zbliżone problemy wpływające na zdolności zespołów do dostarczania na czas...
 - id: 16
   name: "Michał"
   surname: "Borkowski"

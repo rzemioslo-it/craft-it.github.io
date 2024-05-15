@@ -42,46 +42,49 @@
   place: ""
   subtype: presentation
   speakers: [ 3 ]
-  description: >    
-    Niektórym inżynierom/-kom w pewnym momencie przychodzi do głowy, że są traktowani jako podwykonawcy biznesu. 
-    Jeśli jest to klient wewnętrzny to inżynier jest dla biznes po prostu dostawca, a jeśli są w jednej organizacji, 
-    to IT jest dla biznesu wewnętrznym podwykonem. Tyle, że Ci inżynierowie/-ki chcą być dla klienta partnerem, 
+  description: >
+    Niektórym inżynierom/-kom w pewnym momencie przychodzi do głowy, że są traktowani jako podwykonawcy biznesu.
+    Jeśli jest to klient wewnętrzny to inżynier jest dla biznes po prostu dostawca, a jeśli są w jednej organizacji,
+    to IT jest dla biznesu wewnętrznym podwykonem. Tyle, że Ci inżynierowie/-ki chcą być dla klienta partnerem,
     nie podwykonem i nie wiedzą jak to zrobić.
     <br /><br />
-    Jeśli to, co wyżej napisałem w jakiś sposób odzwierciedla Twoje wewnętrzne przemyślenia, wpadnij na moją prezkę. 
+    Jeśli to, co wyżej napisałem w jakiś sposób odzwierciedla Twoje wewnętrzne przemyślenia, wpadnij na moją prezkę.
     Podam Ci kilka punktów, na które warto zwrócić uwagę, jeśli chcesz budować partnerską relację z biznesem.
 - id: 204
   title: "Architecture Uncomplicated: tools for simplified large scale systems"
   place: ""
   subtype: presentation
-  description: >    
-    Forget about the spine-chilling tales of managing large–scale systems. It doesn’t have to be a daunting task. 
-    We’re here to advocate for battle’s proven simplicity with a pinch of fun. 
-    We’ll slice through the Gordian knot of complexity, juggle scalability patterns while uncovering their dark sides, 
+  description: >
+    Forget about the spine-chilling tales of managing large–scale systems. It doesn’t have to be a daunting task.
+    We’re here to advocate for battle’s proven simplicity with a pinch of fun.
+    We’ll slice through the Gordian knot of complexity, juggle scalability patterns while uncovering their dark sides,
     and turn time modelling into a time-travel adventure.
     <br /><br />
-    No sale of silver bullets here; 
-    instead, we arm you with practical solutions and actionable strategies based on real-world examples and 
+    No sale of silver bullets here;
+    instead, we arm you with practical solutions and actionable strategies based on real-world examples and
     the dark sides of rapid-scaling problems.
     <br /><br />
-    Join us to transform your approach to evolving system architecture, 
+    Join us to transform your approach to evolving system architecture,
     leaving you with insights immediately applicable to your work.
   speakers: [ 4 ]
 - id: 205
   title: "Quo Vadis IT"
   place: ""
   subtype: presentation
-  description:
+  description: >
+    Przewidywanie przyszłości na ogół wychodzi kiepsko. Dlatego spróbujmy to zrobić ponownie. Przyjrzymy się pokrótce technologiom, na które hype ostatnio był, jest i będzie - takim jak AI, Web3 czy quantum computing - i zastanowimy się co może przynieść nam, deweloperom, bliższa i dalsza przyszłość.
+    <br /><br />
+    Oczywiście odpowiemy m.in. na pytanie, czy AI zastąpi programistów, czy era blockchaina już się skończyła, co będzie następnym "hitem" i co z tego wszystkiego wynika dla nas.
   speakers: [ 5 ]
 - id: 206
   title: "Internal Developer Platform = Procesy + Technologie + ?"
   place: ""
   subtype: presentation
   description: >
-    Od zera do wewnętrznej platformy developerskiej. 
-    Czyli przejście przez to czego potrzebujemy żeby na koniec mieć wewnętrzną platformę developerską. 
-    Jak uzyskać alignment w organizacji, jakie standardy zdefiniować i jak je wdrożyć? 
-    Jak wdrażać, monitorować i testować? Kubernetes, zarządzany Kubernetes, czy coś innego? Jak zabezpieczyć? 
+    Od zera do wewnętrznej platformy developerskiej.
+    Czyli przejście przez to czego potrzebujemy żeby na koniec mieć wewnętrzną platformę developerską.
+    Jak uzyskać alignment w organizacji, jakie standardy zdefiniować i jak je wdrożyć?
+    Jak wdrażać, monitorować i testować? Kubernetes, zarządzany Kubernetes, czy coś innego? Jak zabezpieczyć?
     Do czego dalej wykorzystać i jak rozwijać?
   speakers: [ 6 ]
 - id: 207
@@ -256,16 +259,21 @@
   title: "Nie poganiaj mnie bo tracę oddech, czyli o wpływie błędów poznawczych na oszacowania projektów IT"
   place: ""
   subtype: presentation
-  description: 
+  description: >
+    Jeżeli Twoje estymacje zawsze są idealnie trafione, to nie jest to prezentacja dla Ciebie.
+    <br /><br />
+    Jeżeli jednak zauważasz, że mimo szczerych chęci często zdarzają Ci się niedoszacowania, a zakres realizowanych projektów z jakiegoś powodu rośnie, to po tej prezentacji będziesz znacznie lepiej rozumieć skąd te problemy się biorą, a także co zrobić, żeby poprawić sytuację w Twoim zespole.
+    <br /><br />
+    Wieloletnia współpraca z software house’ami pozwoliła mi zauważyć, jak powszechne są wyzwania związane z estymacjami. Okazuje się, że w podobnym stopniu dotyczą one zarówno małych, lokalnych inicjatyw, jak i przedsięwzięć na dużą skalę. To wszystko dlatego, że te problemy często mają wspólny mianownik. Na prezentacji dowiesz się więcej i poznasz praktyczne techniki, które można zastosować, aby zwiększyć szanse na swój projektowy sukces.
   speakers: [ 15 ]
 - id: 216
   title: "Co drażni DevOpsa? Survival we współczesnym zespole developerskim."
   place: ""
   subtype: presentation
   description: >
-    Stanowisko DevOps jest tak niedookreślone, że w każdej firmie, może się wiązać z całkiem innym typem pracy. 
-    To daje okazję do pracy w bardzo różnych warunkach, z bardzo różnymi typami osób, nierzadko w stresującej atmosferze. 
-    Programista, tester, project manager, czy nawet inny DevOps - może być opoką zespołu, albo kijem w szprychach. Kierownik Jiry? Programista-kowboj? 
+    Stanowisko DevOps jest tak niedookreślone, że w każdej firmie, może się wiązać z całkiem innym typem pracy.
+    To daje okazję do pracy w bardzo różnych warunkach, z bardzo różnymi typami osób, nierzadko w stresującej atmosferze.
+    Programista, tester, project manager, czy nawet inny DevOps - może być opoką zespołu, albo kijem w szprychach. Kierownik Jiry? Programista-kowboj?
     Wymienię kilka dobrze znanych antywzorców i propozycje rozwiązań. Znając je, łatwiej sobie z nimi radzić... i nie tworzyć ich samemu.
   speakers: [ 16 ]
 - id: 217
