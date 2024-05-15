@@ -144,32 +144,51 @@
   place: ""
   subtype: presentation
   description: >
-    Mikrousługi już od dłuższego czasu nie są rzadkością na rynku - 
-    przez ten czas branża odkryła tysiące sposobów jak wdrażać je źle. 
-    Przykładowo: poprzez przywiązanie do starych nawyków przyjaznych monolitom, złych praktyk wdrożeniowych, 
+    Mikrousługi już od dłuższego czasu nie są rzadkością na rynku -
+    przez ten czas branża odkryła tysiące sposobów jak wdrażać je źle.
+    Przykładowo: poprzez przywiązanie do starych nawyków przyjaznych monolitom, złych praktyk wdrożeniowych,
     groteskowej polityki bezpieczeństwa firmy itp.
     <br /><br />
-    Podczas tej prelekcji będziemy uczyć się na błędach innych i przypomnimy sobie 
-    najważniejsze wnioski wyciągnięte z udanych i nieudanych wdrożeń mikrousług. 
+    Podczas tej prelekcji będziemy uczyć się na błędach innych i przypomnimy sobie
+    najważniejsze wnioski wyciągnięte z udanych i nieudanych wdrożeń mikrousług.
     Skupimy się na kwestiach, które nie zostały poruszone w podobnych prezentacjach.
   speakers: [ 10 ]
 - id: 211
   title: "How to become CTO, Cloud Architect or Consultant - lessons for 20yrs in IT on path to leadership"
   place: ""
   subtype: presentation
-  description:
+  description: >
+    CTO, Architekt, Konsultant… wszystkie te tytuły brzmią jak wspaniałe pozycje – można robić niesamowite rzeczy i napędzać wdrażanie nowych technologii. Można zobaczyć wspaniałe światy, poznać wspaniałych ludzi i...
+    <br /><br />
+    Ale czy warto? Czego potrzeba, żeby dojść do jak to się określa "leadership?" Co to wogóle oznacza? Czy to same benefity czy ból istnienia i zgryzota?
+    <br /><br />
+    Byłem tam, robiłem to to, poniosłem porażki i odniosłem sukcesy jednocześnie. W tej sesji podzielę się doświadczeniami związanych z rozwojem kariery w świecie technologii. 20+ lat w branży, od podstaw, do CTO i prowadzącego firmę.
+    <ul><li>
+    Dobre, złe i brzydkie strony różnych ścieżek kariery?
+    </li><li>
+    Czy wybór dostawcy chmury ma znaczenie… czy jest bez znaczenia?
+    </li><li>
+    Czego można się spodziewać na stanowiskach inżynierskich?
+    </li><li>
+    Czy CTO jest najmądrzejszą osobą w zespole (i czy powinien być)?
+    </li><li>
+    Czy praca CTO jest dla każdego? Co robić dalej po byciu CTO?
+    </li></ul>
+    Dzieląc się 20+ -letnim doświadczeniem w technologii i chmurze, powiem Ci czego się nauczyłem, a czego musiałem się oduczyć. Porady. Odpowiedzialność. Jak dotrzeć do celu. Umiejętności, które warto zdobyć i te, które trzeba odrzucić po drodze.
+    <br /><br />
+    Tylko sprawdzone w boju umiejętności, porady i taktyki dla starszych ról technologicznych.
   speakers: [ 11 ]
 - id: 212
   title: "Unicorn's baby steps: what should you know (& do) as a first-time startup CTO"
   place: ""
   subtype: presentation
   description: >
-    Startup's early days aren't easy: there are always too many topics on your plate 
-    and everything is of the highest priority. As a first-time CTO you have to pick your battles wisely - 
-    I'll try to help by sharing my experience as a former startup CTO and a person who cooperates with startups 
-    on daily basis. There is no single blueprint to follow, but we'll go through major decision points, 
-    key concerns to be addressed, most pressing questions to be answered. To illustrate the challenges 
-    covered and make it an interactive experience, we will create an artificial startup and take it for 
+    Startup's early days aren't easy: there are always too many topics on your plate
+    and everything is of the highest priority. As a first-time CTO you have to pick your battles wisely -
+    I'll try to help by sharing my experience as a former startup CTO and a person who cooperates with startups
+    on daily basis. There is no single blueprint to follow, but we'll go through major decision points,
+    key concerns to be addressed, most pressing questions to be answered. To illustrate the challenges
+    covered and make it an interactive experience, we will create an artificial startup and take it for
     a virtual spin together.
   speakers: [ 12 ]
 - id: 213
