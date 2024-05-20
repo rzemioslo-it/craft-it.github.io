@@ -281,7 +281,7 @@
   place: ""
   subtype: presentation
   description: "CTO Morning Coffee na żywo"
-  speakers: [ 4,11,12 ]
+  speakers: [ 4,11,12,6,7 ]
 # # ################################## WORKSHOPS ##################################
 # - id: 301
 #   title: ""
