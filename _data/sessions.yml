@@ -1,293 +1,34 @@
 # # ################################## PRESENTATION ##################################
-- id: 201
-  title: "Testy wydajnościowe i inne kłamstwa"
-  place: ""
-  subtype: presentation
-  description: >
-    Powszechnie znaną prawdą jest, iż niewielu z nas przejmuję się wydajnością naszego kodu, jeszcze mniej z nas miało do czynienia z testami wydajnościowymi. Wśród tych z nas, którzy toczą nierówną walkę z wydajnością, wąska garstka z nas jest świadoma jak wiele kryję się w nich kłamstw, niedomówień i fałszywych obietnic. Podczas prezentacji poznamy antywzorce w testowaniu wydajności oraz kilka sprawdzonych w boju praktycznych rad jak nie dać się omamić wynikom testów.
-    <ul><li>
-    Czy powinniśmy się obawiać „coordinated ommision”?
-    </li><li>
-    Dlaczego statystyka to najwyższa forma kłamstwa, czyli szybki kurs czytania wyników testów.
-    </li><li>
-    Dlaczego „latency” i „throughput” to nie to samo?
-    </li><li>
-    Dlaczego dane wejściowe są równie ważne jak scenariusze testowe?
-    </li><li>
-    Na jakie pytania odpowiadają microbenchmarki?
-    </li><li>
-    Czy testy wydajnościowe mają warstwy?
-    </li><li>
-    Dlaczego w testach wydajnościowych nie chodzi o liczby?
-    </li></ul>
-    <br /><br />
-    To tylko wybrane zagadnienia, o których opowiem. Jeśli nie interesują Cię testy wydajnościowe i unikasz tego tematu jak zarazy, na tej prezentacji dowiesz się dlaczego tak jest. Jeśli jednak czujesz się wyznawcą maszyny i tematy wydajności nie są Ci obce, pomogę Ci z większą świadomością projektować testy i interpretować ich wyniki.
-  speakers: [ 1 ]
-- id: 202
-  title: "Czysty kod – to jednak nie takie proste"
-  place: ""
-  subtype: presentation
-  description: >
-    Skąd wiesz czy piszesz dobry kod?! Bo jest zgodny z konwencjami? Bo statyczna analiza nie wykrywa błędów? 
-    Bo przestrzega SOLID, CUPID, DRY, KISS?
-    <br /><br />
-    Wszystkie te kryteria są niesamowicie subiektywne, bo czy zgadzamy się wszyscy czym jest pojedyncza odpowiedzialność, 
-    albo ile linii ma krótką metoda, czy dana klasa wystarczająco enkapsuluje?
-    <br /><br />
-    I tu pojawia się pytanie, czy da się obiektywnie oceniać kod? W 100% raczej nie, 
-    ale da się dużo bardziej niż do tej pory.
-  speakers: [ 2 ]
-- id: 203
-  title: "Szybki kurs myślenia biznesowego dla inżynierów i inżynierek"
-  place: ""
-  subtype: presentation
-  speakers: [ 3 ]
-  description: >
-    Niektórym inżynierom/-kom w pewnym momencie przychodzi do głowy, że są traktowani jako podwykonawcy biznesu.
-    Jeśli jest to klient wewnętrzny to inżynier jest dla biznes po prostu dostawca, a jeśli są w jednej organizacji,
-    to IT jest dla biznesu wewnętrznym podwykonem. Tyle, że Ci inżynierowie/-ki chcą być dla klienta partnerem,
-    nie podwykonem i nie wiedzą jak to zrobić.
-    <br /><br />
-    Jeśli to, co wyżej napisałem w jakiś sposób odzwierciedla Twoje wewnętrzne przemyślenia, wpadnij na moją prezkę.
-    Podam Ci kilka punktów, na które warto zwrócić uwagę, jeśli chcesz budować partnerską relację z biznesem.
-- id: 204
-  title: "Architecture Uncomplicated: tools for simplified large scale systems"
-  place: ""
-  subtype: presentation
-  description: >
-    Forget about the spine-chilling tales of managing large–scale systems. It doesn’t have to be a daunting task.
-    We’re here to advocate for battle’s proven simplicity with a pinch of fun.
-    We’ll slice through the Gordian knot of complexity, juggle scalability patterns while uncovering their dark sides,
-    and turn time modelling into a time-travel adventure.
-    <br /><br />
-    No sale of silver bullets here;
-    instead, we arm you with practical solutions and actionable strategies based on real-world examples and
-    the dark sides of rapid-scaling problems.
-    <br /><br />
-    Join us to transform your approach to evolving system architecture,
-    leaving you with insights immediately applicable to your work.
-  speakers: [ 4 ]
-- id: 205
-  title: "Quo Vadis IT"
-  place: ""
-  subtype: presentation
-  description: >
-    Przewidywanie przyszłości na ogół wychodzi kiepsko. Dlatego spróbujmy to zrobić ponownie. Przyjrzymy się pokrótce technologiom, na które hype ostatnio był, jest i będzie - takim jak AI, Web3 czy quantum computing - i zastanowimy się co może przynieść nam, deweloperom, bliższa i dalsza przyszłość.
-    <br /><br />
-    Oczywiście odpowiemy m.in. na pytanie, czy AI zastąpi programistów, czy era blockchaina już się skończyła, co będzie następnym "hitem" i co z tego wszystkiego wynika dla nas.
-  speakers: [ 5 ]
-- id: 206
-  title: "Internal Developer Platform = Procesy + Technologie + ?"
-  place: ""
-  subtype: presentation
-  description: >
-    Od zera do wewnętrznej platformy developerskiej.
-    Czyli przejście przez to czego potrzebujemy żeby na koniec mieć wewnętrzną platformę developerską.
-    Jak uzyskać alignment w organizacji, jakie standardy zdefiniować i jak je wdrożyć?
-    Jak wdrażać, monitorować i testować? Kubernetes, zarządzany Kubernetes, czy coś innego? Jak zabezpieczyć?
-    Do czego dalej wykorzystać i jak rozwijać?
-  speakers: [ 6 ]
-- id: 207
-  title: "Reliability 101, czyli co powinieneś wiedzieć o niezawodności"
-  place: ""
-  subtype: presentation
-  description: >
-    Pewnie już dziesiątki razy słyszałeś/słyszałaś, że aplikacja ma być niezawodna, wysokodostępna, bla bla bla... 
-    że Google ma SRE i jest to super! Serio?!
-    <br /><br />
-    W trakcie odczarujemy ten marketingowy bełkot i zdefiniujemy, co to w ogóle jest ta cała niezawodność. 
-    Do tego dorzucimy kilka dobrych rad, jak tego użyć w praktyce.
-    <br /><br />
-    A crème de la crème sesji: 
-    jeżeli jesteś programistą, usłyszysz, co powiedzieć do adminów i DevOpsów, i vice versa ;-)
-  speakers: [ 7 ]
-- id: 208
-  title: "Be curious, not judgmental. Unikernel stories."
-  place: ""
-  subtype: presentation
-  description: >
-    Dzisiaj można bez zmiany kodu:
-    <ul><li>
-    Przyspieszyć o nawet 200% Memcache'a czy Redisa
-    </li><li>
-    Szybko skalować aplikacje dostawiając nowe VMki w mniej niż 100 ms a czasami nawet 10 ms!
-    </li><li>
-    Zwiększyć stanowczo bezpieczeństwo swojej aplikacji na ataki typu remote execution.
-    </li></ul>
-    <br /><br />
-    W ostatnich latach obserwujemy rozwój sposobów wdrażania (tzw. "deployowania") mikrousług i serwisów na serwerach. Od wirtualizacji, która zapoczątkowała nową erę przenoszenia usług do chmury, poprzez wzorce takie jak 12 factor i immutable infrastructure, aż po erę Dockera i kontenerów z Kubernetes na czele, każda zmiana przynosi nowe możliwości, ale i znacznie zwiększa złożoność systemów.
-    <br /><br />
-    Czy zastanawialiście się kiedyś, ile tak naprawdę wywołań systemowych (syscall) potrzebuje Wasza aplikacja? Po co używacie systemu operacyjnego (np. Linuxa czy Windowsa), zaprojektowanego dla wielu użytkowników, procesów i zastosowań, skoro uruchamiacie w nim tylko jeden proces HTTP? Po co ktoś stworzył coś takiego jak plik i czy potrzebne Wam są do niego uprawnienia, jeśli macie tylko jeden proces? Jaki jest czasowy koszt przełączania kontekstu z user mode do kernel mode w Waszej aplikacji?
-    <br /><br />
-    A co gdyby istniał sposób na uproszczenie tego wszystkiego?  A może Wasza aplikacja może być bezpieczniejsza dzięki użyciu Unikernela? 
-    <br /><br />
-    W tej prezentacji:
-    <ul><li>
-    Wyjaśnię, czym są Unikernele oraz jakie mają zalety i wady.
-    </li><li>
-    Pokażę benchmarki i przykłady zastosowań Unikerneli.
-    </li><li>
-    Przedstawię argumenty, dlaczego Unikernele mogą być lepszym wyborem od kontenerów dla mikrousług.
-    </li></ul>
-    Unikernele to nie tylko przyszłość, to już teraźniejszość.
-  speakers: [ 8 ]
-- id: 209
-  title: "Domain Driven Disaster"
-  place: ""
-  subtype: presentation
-  description: >
-    DDD i jego pozytywy odmieniono już w prezentacjach chyba na wszystkie możliwe przypadki. 
-    „Wdrażanie” DDD często może być marszem ku klęsce, bo rzeczywistość nie jest już tak różowa jak na slajdach… 
-    Nie mówmy więc kolejny raz o roli i znaczeniu agregatów czy bounded-contextów, 
-    ale na konkretnych przykładach pokażmy, jakie pułapki tu czekają i jak można je skutecznie ominąć, 
-    aby uniknąć tytułowej porażki i kolejnych szram z Wietnamu.
-  speakers: [ 9 ]
-- id: 210
-  title: "Embracing Microservices"
-  place: ""
-  subtype: presentation
-  description: >
-    Mikrousługi już od dłuższego czasu nie są rzadkością na rynku -
-    przez ten czas branża odkryła tysiące sposobów jak wdrażać je źle.
-    Przykładowo: poprzez przywiązanie do starych nawyków przyjaznych monolitom, złych praktyk wdrożeniowych,
-    groteskowej polityki bezpieczeństwa firmy itp.
-    <br /><br />
-    Podczas tej prelekcji będziemy uczyć się na błędach innych i przypomnimy sobie
-    najważniejsze wnioski wyciągnięte z udanych i nieudanych wdrożeń mikrousług.
-    Skupimy się na kwestiach, które nie zostały poruszone w podobnych prezentacjach.
-  speakers: [ 10 ]
-- id: 211
-  title: "How to become CTO, Cloud Architect or Consultant - lessons for 20yrs in IT on path to leadership"
-  place: ""
-  subtype: presentation
-  description: >
-    CTO, Architekt, Konsultant… wszystkie te tytuły brzmią jak wspaniałe pozycje – można robić niesamowite rzeczy i napędzać wdrażanie nowych technologii. Można zobaczyć wspaniałe światy, poznać wspaniałych ludzi i...
-    <br /><br />
-    Ale czy warto? Czego potrzeba, żeby dojść do jak to się określa "leadership?" Co to wogóle oznacza? Czy to same benefity czy ból istnienia i zgryzota?
-    <br /><br />
-    Byłem tam, robiłem to to, poniosłem porażki i odniosłem sukcesy jednocześnie. W tej sesji podzielę się doświadczeniami związanych z rozwojem kariery w świecie technologii. 20+ lat w branży, od podstaw, do CTO i prowadzącego firmę.
-    <ul><li>
-    Dobre, złe i brzydkie strony różnych ścieżek kariery?
-    </li><li>
-    Czy wybór dostawcy chmury ma znaczenie… czy jest bez znaczenia?
-    </li><li>
-    Czego można się spodziewać na stanowiskach inżynierskich?
-    </li><li>
-    Czy CTO jest najmądrzejszą osobą w zespole (i czy powinien być)?
-    </li><li>
-    Czy praca CTO jest dla każdego? Co robić dalej po byciu CTO?
-    </li></ul>
-    Dzieląc się 20+ -letnim doświadczeniem w technologii i chmurze, powiem Ci czego się nauczyłem, a czego musiałem się oduczyć. Porady. Odpowiedzialność. Jak dotrzeć do celu. Umiejętności, które warto zdobyć i te, które trzeba odrzucić po drodze.
-    <br /><br />
-    Tylko sprawdzone w boju umiejętności, porady i taktyki dla starszych ról technologicznych.
-  speakers: [ 11 ]
-- id: 212
-  title: "Unicorn's baby steps: what should you know (& do) as a first-time startup CTO"
-  place: ""
-  subtype: presentation
-  description: >
-    Startup's early days aren't easy: there are always too many topics on your plate
-    and everything is of the highest priority. As a first-time CTO you have to pick your battles wisely -
-    I'll try to help by sharing my experience as a former startup CTO and a person who cooperates with startups
-    on daily basis. There is no single blueprint to follow, but we'll go through major decision points,
-    key concerns to be addressed, most pressing questions to be answered. To illustrate the challenges
-    covered and make it an interactive experience, we will create an artificial startup and take it for
-    a virtual spin together.
-  speakers: [ 12 ]
-- id: 213
-  title: "Mastering Software Delivery: A Step Beyond Coding Efficiency"
-  place: ""
-  subtype: presentation
-  description: >
-    Zastanawiasz jak podnieść swoje deweloperskie kwalifikacje i mieć większy wpływ na projekt? 
-    Może kodowanie jeszcze szybciej, czy kolejny framework nie wydają Ci się właściwym kierunkiem rozwoju? 
-    A może po prostu szukasz pomysłu na swoją karierę? Jeśli tak, to zapraszam Cię na tę prezentację. 
-    Chciałbym Cię zachęcić do zrobienia kolejnego kroku na deweloperskiej ścieżce.
-    <br /> <br />
-    Podczas tej prezentacji opowiem jak poza sprawnym kodowaniem możesz przyczynić się do sukcesu Twojego zespołu. 
-    Porozmawiamy co zrobić, żeby zespół inżynierów zabierając się do pracy lepiej rozumiał co ma dostarczyć: jak odkrywać wymagania, 
-    jak rozmawiać z właścicielami produktu, jak sprawić, żeby powiedzieli nam o wymaganiach, których sami sobie nie uświadomili.
-    <br /> <br />
-    Podzielę się własnymi doświadczeniami i opowiem w jaki sposób możesz mieć kluczowy wpływ na sukces projektu. 
-    Po tej prezentacji będziesz znacznie lepiej rozumieć jak analizować i interpretować wymagania, jakie pytania zadawać i ostatecznie -- co zrobić, 
-    żeby Twój zespół mógł szybciej dostarczać lepsze oprogramowanie.
-  speakers: [ 13 ]
-- id: 214
-  title: "Hi I'm Dawid, and I love being STUPID"
-  place: ""
-  subtype: presentation
-  description: >
-    Dlaczego jedne projekty są łatwiejsze od innych i na czym właściwie ta łatwość polega? Czy więcej, "lepiej", mądrzej faktycznie zawsze znaczy lepiej?
-    <br /><br />
-    Nie wszystko musi być zawsze najnowsze i najlepsze, a dodawanie ficzeru za ficzerem po tygodniu pracy nad nowym projektem niekoniecznie oznacza, że jesteś programistą sigma. Brak fancy wzorców projektowych wbrew pozorom może poprawić czytelność kodu i efektywność pracy, a z czasem wszyscy możemy pokochać bycie STUPID.
-    <br /><br />
-    Co to znaczy, że mój kod jest prosty/trudny.
-    <br />
-    Jak minimalizować ryzyko powstania trudnego kodu.
-    <br />
-    Jak korzystać z wzorców, a nie być przez nie wykorzystywanym.
-    <br />
-    Jak pokochać bycie STUPID
-    <br /><br /><br />
-    Jeśli spytasz dowolnego programisty jak wyglądał jego pierwszy projekt to najprawdopodobniej usłyszysz, że był bardzo łatwy/trudny, - niepotrzebne skreśl. Jeśli spytasz o drugi, trzeci i kolejny projekt, znowu dostaniesz jedną z tych dwóch opcji, ale niekoniecznie będą one zawsze takie same. 
-    <br />
-    Od czego to zależy?
-    <br />
-    Co to właściwie znaczy, że projekt jest łatwy bądź trudny? 
-    <br />
-    Czy system zarządzania linią lotniczą może być łatwiejszy od prostego CRUDa?
-    <br /><br />
-    O czym będziemy rozmawiać:
-    <br />
-    Dlaczego jedne projekty są łatwiejsze od innych i na czym właściwie ta łatwość polega? Czy więcej, "lepiej", mądrzej faktycznie zawsze znaczy lepiej?
-    <br />
-    Nie wszystko musi być zawsze najnowsze i najlepsze, a dodawanie ficzeru za ficzerem po tygodniu pracy nad nowym projektem niekoniecznie oznacza, że jesteś programistą sigma. Brak fancy wzorców projektowych wbrew pozorom może poprawić czytelność kodu i efektywność pracy, a z czasem wszyscy możemy pokochać bycie STUPID.
-    <br />
-    Co to znaczy, że mój kod jest prosty/trudny.
-    <br /><br />
-    Jak minimalizować ryzyko powstania trudnego kodu.
-    <br />
-    Jak korzystać z wzorców, a nie być przez nie wykorzystywanym.
-    <br />
-    Jak pokochać bycie STUPID
-    <br /><br />
-    Zaraz, zaraz, prosty do bólu kod, brak wzorców projektowych? A co z DDD, TDD, BDD, DRY, SOLID, (...) - tu wstaw dowolny inny akronim, który lubisz albo fajnie brzmi? Wszystkie z tych technik są pomocne i bardzo często niemalże konieczne do osiągnięcia celu. Przecież wszyscy wiemy, że skomplikowane problemy, wymagają skomplikowanych rozwiązań. Czy na pewno to jest zawsze prawdą, a przede wszystkim czy na pewno Twój problem jest tym z natury skomplikowanych i specyficznych?
-    <br /><br />
-    Po tej prezentacji spojrzysz na swoje zadania  z nowej perspektywy i zyskasz narzędzia, które pomogą Ci pisać "głupi", nudny kod.
-  speakers: [ 14 ]
-- id: 215
-  title: "Nie poganiaj mnie bo tracę oddech, czyli o wpływie błędów poznawczych na oszacowania projektów IT"
-  place: ""
-  subtype: presentation
-  description: >
-    Jeżeli Twoje estymacje zawsze są idealnie trafione, to nie jest to prezentacja dla Ciebie.
-    <br /><br />
-    Jeżeli jednak zauważasz, że mimo szczerych chęci często zdarzają Ci się niedoszacowania, a zakres realizowanych projektów z jakiegoś powodu rośnie, to po tej prezentacji będziesz znacznie lepiej rozumieć skąd te problemy się biorą, a także co zrobić, żeby poprawić sytuację w Twoim zespole.
-    <br /><br />
-    Wieloletnia współpraca z software house’ami pozwoliła mi zauważyć, jak powszechne są wyzwania związane z estymacjami. Okazuje się, że w podobnym stopniu dotyczą one zarówno małych, lokalnych inicjatyw, jak i przedsięwzięć na dużą skalę. To wszystko dlatego, że te problemy często mają wspólny mianownik. Na prezentacji dowiesz się więcej i poznasz praktyczne techniki, które można zastosować, aby zwiększyć szanse na swój projektowy sukces.
-  speakers: [ 15 ]
-- id: 216
-  title: "Co drażni DevOpsa? Survival we współczesnym zespole developerskim."
-  place: ""
-  subtype: presentation
-  description: >
-    Stanowisko DevOps jest tak niedookreślone, że w każdej firmie, może się wiązać z całkiem innym typem pracy.
-    To daje okazję do pracy w bardzo różnych warunkach, z bardzo różnymi typami osób, nierzadko w stresującej atmosferze.
-    Programista, tester, project manager, czy nawet inny DevOps - może być opoką zespołu, albo kijem w szprychach. Kierownik Jiry? Programista-kowboj?
-    Wymienię kilka dobrze znanych antywzorców i propozycje rozwiązań. Znając je, łatwiej sobie z nimi radzić... i nie tworzyć ich samemu.
-  speakers: [ 16 ]
-- id: 217
-  title: "Panel dyskusyjny"
-  place: ""
-  subtype: presentation
-  description: "CTO Morning Coffee na żywo"
-  speakers: [ 4,11,12,6,7 ]
+#- id: 201
+# title: "Testy wydajnościowe i inne kłamstwa"
+# place: ""
+# subtype: presentation
+# description: >
+#   Powszechnie znaną prawdą jest, iż niewielu z nas przejmuję się wydajnością naszego kodu, jeszcze mniej z nas miało do czynienia z testami wydajnościowymi. Wśród tych z nas, którzy toczą nierówną walkę z wydajnością, wąska garstka z nas jest świadoma jak wiele kryję się w nich kłamstw, niedomówień i fałszywych obietnic. Podczas prezentacji poznamy antywzorce w testowaniu wydajności oraz kilka sprawdzonych w boju praktycznych rad jak nie dać się omamić wynikom testów.
+#   <ul><li>
+#   Czy powinniśmy się obawiać „coordinated ommision”?
+#   </li><li>
+#   Dlaczego statystyka to najwyższa forma kłamstwa, czyli szybki kurs czytania wyników testów.
+#   </li><li>
+#   Dlaczego „latency” i „throughput” to nie to samo?
+#   </li><li>
+#   Dlaczego dane wejściowe są równie ważne jak scenariusze testowe?
+#   </li><li>
+#   Na jakie pytania odpowiadają microbenchmarki?
+#   </li><li>
+#   Czy testy wydajnościowe mają warstwy?
+#   </li><li>
+#   Dlaczego w testach wydajnościowych nie chodzi o liczby?
+#   </li></ul>
+#   <br /><br />
+#   To tylko wybrane zagadnienia, o których opowiem. Jeśli nie interesują Cię testy wydajnościowe i unikasz tego tematu jak zarazy, na tej prezentacji dowiesz się dlaczego tak jest. Jeśli jednak czujesz się wyznawcą maszyny i tematy wydajności nie są Ci obce, pomogę Ci z większą świadomością projektować testy i interpretować ich wyniki.
+# speakers: [ 1 ]
 # # ################################## WORKSHOPS ##################################
 # - id: 301
 #   title: ""
 #   place: "TBA"
 #   subtype: workshop
-#   description: 
+#   description:
 #   speakers: [ 1 ]
 # ################################## SERVICE ##################################
 - id: 100

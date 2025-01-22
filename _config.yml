@@ -38,11 +38,12 @@ socialImageSrcFacebook: "/img/seo/craft-it-2023-sharing-fb.png"
 
 # Navigation
 navigationLinks:
-- {permalink: "/#schedule", text: "Program"}
+# - {permalink: "/#schedule", text: "Program"}
 #- {permalink: "/speakers/", text: "Prelegenci"}
 #- {permalink: "/team/", text: "Zespół"}
 #- {permalink: "/logistics/", text: "Logistyka"}
-- {permalink: "/#rockstar-speakers", text: "Prelegenci"}
+#- {permalink: "/#rockstar-speakers", text: "Prelegenci"}
+- {link: "https://2024.craft-it.pl", text: "2024"}
 - {link: "https://2023.craft-it.pl", text: "2023"}
 - {link: "https://2022.craft-it.pl", text: "2022"}
 - {link: "https://2019.rzemioslo.it", text: "2019"}
@@ -66,7 +67,7 @@ aboutTitle: "O konferencji"
 aboutText:
  - "Craft-IT.pl to konferencja programistyczna na Podkarpaciu poświęcona tematyce \"Software Craftsmanship\"."
  - "Nowe technologie pojawiają się i znikają. My wierzymy, że warto inwestować we własne programistyczne rzemiosło, w warsztat, który zawsze będzie aktualny, niezależnie od aktualnych trendów."
- - "Serdecznie zapraszamy: Rzeszów. 25 maja 2024"
+ - "Serdecznie zapraszamy: Rzeszów. 31 maja 2025"
  - "Zapewniamy świetne prelekcje techniczne, catering przez cały dzień i after party."
 #aboutBlock:
 # - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
@@ -105,14 +106,14 @@ mapCenterCoordinates: "50.0382509, 22.004591"
 mapMobileCenterCoordinates: "50.0382509, 22.004591"
 
 # Venue Block
-venueBlockTitle: "Miejsce"
-venueBigImage: "bristol1.jpg"
-venueSmallImage1: "bristol-sala1.jpg"
-venueSmallImage2: "bristol2.jpg"
-venueSmallImage3: "bristol-sala2.jpg"
-venueTitle: "Bristol Tradition&Luxury Hotel"
-venueSubTitle: ""
-venueFeatures: ["Hotel w samym centrum Rzeszowa"]
+#venueBlockTitle: "Miejsce"
+#venueBigImage: "bristol1.jpg"
+#venueSmallImage1: "bristol-sala1.jpg"
+#venueSmallImage2: "bristol2.jpg"
+#venueSmallImage3: "bristol-sala2.jpg"
+#venueTitle: "Bristol Tradition&Luxury Hotel"
+#venueSubTitle: ""
+#venueFeatures: ["Hotel w samym centrum Rzeszowa"]
 
 # Partners Block
 organizersTitle: "Organizatorzy"
@@ -127,10 +128,10 @@ partnersC4sponsorsButton: "Zostań sponsorem"
 
 # Last edition Block
 lastEditionImage: "edition2022.jpg"
-lastEditionTitle: "Jak było w 2023 roku?"
+lastEditionTitle: "Jak było w 2024 roku?"
 lastEditionButtons:
-   - {link: "https://www.facebook.com/craftitpl/posts/pfbid02QCTaffNmcwR2V7YWkjDDgjwRXNtYWBib7C3nH7aJEYoCZo7FagozeoBSduXpYA8Gl", text: "Relacja fotograficzna"}
-   - {link: "https://www.youtube.com/watch?v=3gpoYy5F2IE&list=PLbZvErsS2PmELXS-f1I3YGtJqAaYmY_kC&ab_channel=Craft-IT", text: "Relacja wideo"}
+   - {link: "https://www.facebook.com/media/set/?vanity=craftitpl&set=a.978042694328201", text: "Relacja fotograficzna"}
+   - {link: "https://www.youtube.com/watch?v=DxW_78kBVrQ", text: "Relacja wideo"}
 
 # Tickets Block
 ticketsTitle: "Bilety"
@@ -158,13 +159,14 @@ footerBlocks:
     - { permalink: "/files/polityka_prywatnosci.pdf", text: "Polityka Prywatności" }
  - title: "Archiwum"
    links:
+    - { link: "https://2024.craft-it.pl", text: "2024" }
     - { link: "https://2023.craft-it.pl", text: "2023" }
     - { link: "https://2022.craft-it.pl", text: "2022" }
     - { link: "https://2019.rzemioslo.it", text: "2019" }
     - { link: "https://2018.rzemioslo.it", text: "2018" }
     - { link: "https://2017.rzemioslo.it", text: "2017" }
-    - { link: "https://www.facebook.com/craftitpl/posts/pfbid02QCTaffNmcwR2V7YWkjDDgjwRXNtYWBib7C3nH7aJEYoCZo7FagozeoBSduXpYA8Gl", text: "Galeria zdjęć" }
-    - { link: "https://www.youtube.com/watch?v=_wUUtM-MiDI", text: "Relacja video" }
+    - {link: "https://www.facebook.com/media/set/?vanity=craftitpl&set=a.978042694328201", text: "Relacja fotograficzna"}
+    - {link: "https://www.youtube.com/watch?v=DxW_78kBVrQ", text: "Relacja wideo"}
  -
   title: "Social"
   links:
