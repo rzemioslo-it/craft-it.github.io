@@ -143,6 +143,7 @@ socialLinks:
  - {link: "https://twitter.com/craftit_pl", icon: "twitter"}
  - {link: "https://facebook.com/craftitpl/", icon: "facebook"}
  - {link: "https://www.youtube.com/channel/UCKuLHBJ7bMib3JcKN7eP5-Q", icon: "youtube"}
+ - {link: "https://www.linkedin.com/company/stowarzyszenie-craft-it/", icon: "linkedin"}
 # - {permalink: "/feed.xml", icon: "rss"}
 footerInfo:
  -
