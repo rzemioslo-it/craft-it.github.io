@@ -106,14 +106,14 @@ mapCenterCoordinates: "50.0382509, 22.004591"
 mapMobileCenterCoordinates: "50.0382509, 22.004591"
 
 # Venue Block
-#venueBlockTitle: "Miejsce"
-#venueBigImage: "bristol1.jpg"
-#venueSmallImage1: "bristol-sala1.jpg"
-#venueSmallImage2: "bristol2.jpg"
-#venueSmallImage3: "bristol-sala2.jpg"
-#venueTitle: "Bristol Tradition&Luxury Hotel"
-#venueSubTitle: ""
-#venueFeatures: ["Hotel w samym centrum Rzeszowa"]
+venueBlockTitle: "Miejsce"
+venueBigImage: "bristol1.jpg"
+venueSmallImage1: "bristol-sala1.jpg"
+venueSmallImage2: "bristol2.jpg"
+venueSmallImage3: "bristol-sala2.jpg"
+venueTitle: "Bristol Tradition&Luxury Hotel"
+venueSubTitle: ""
+venueFeatures: ["Hotel w samym centrum Rzeszowa"]
 
 # Partners Block
 organizersTitle: "Organizatorzy"
