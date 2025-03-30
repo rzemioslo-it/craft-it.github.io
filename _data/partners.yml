@@ -13,7 +13,7 @@
   elements:
     - { name: "rg-dev", description: "Rzeszowska Grupa rg-dev", link: "https://www.meetup.com/pl-PL/rg-dev/", imageUrl: "rg-dev.png" }
     - { name: "RRUG", description: "Rzeszów Ruby User Group", link: "https://www.meetup.com/rzeszow-ruby-user-group/", imageUrl: "rrug.png" }
-    #- { name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
+    - { name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
     #- { name: "WKONTENERACH", description: "W Kontenerach", link: "https://wkontenerach.pl/", imageUrl: "wkontenerach.png"}
     #- { name: "LJUG", description: "Lublin Java User Group", link: "https://www.meetup.com/pl-PL/lublin-java-user-group/", imageUrl: "ljug.png"}
     #- { name: "DDD-KRK", description: "DDD-Krk", link: "https://www.meetup.com/pl-PL/ddd-krk/", imageUrl: "ddd-krk.webp"}
