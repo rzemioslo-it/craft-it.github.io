@@ -1,28 +1,125 @@
 # # ################################## PRESENTATION ##################################
-#- id: 201
-# title: "Testy wydajnościowe i inne kłamstwa"
-# place: ""
-# subtype: presentation
-# description: >
-#   Powszechnie znaną prawdą jest, iż niewielu z nas przejmuję się wydajnością naszego kodu, jeszcze mniej z nas miało do czynienia z testami wydajnościowymi. Wśród tych z nas, którzy toczą nierówną walkę z wydajnością, wąska garstka z nas jest świadoma jak wiele kryję się w nich kłamstw, niedomówień i fałszywych obietnic. Podczas prezentacji poznamy antywzorce w testowaniu wydajności oraz kilka sprawdzonych w boju praktycznych rad jak nie dać się omamić wynikom testów.
-#   <ul><li>
-#   Czy powinniśmy się obawiać „coordinated ommision”?
-#   </li><li>
-#   Dlaczego statystyka to najwyższa forma kłamstwa, czyli szybki kurs czytania wyników testów.
-#   </li><li>
-#   Dlaczego „latency” i „throughput” to nie to samo?
-#   </li><li>
-#   Dlaczego dane wejściowe są równie ważne jak scenariusze testowe?
-#   </li><li>
-#   Na jakie pytania odpowiadają microbenchmarki?
-#   </li><li>
-#   Czy testy wydajnościowe mają warstwy?
-#   </li><li>
-#   Dlaczego w testach wydajnościowych nie chodzi o liczby?
-#   </li></ul>
-#   <br /><br />
-#   To tylko wybrane zagadnienia, o których opowiem. Jeśli nie interesują Cię testy wydajnościowe i unikasz tego tematu jak zarazy, na tej prezentacji dowiesz się dlaczego tak jest. Jeśli jednak czujesz się wyznawcą maszyny i tematy wydajności nie są Ci obce, pomogę Ci z większą świadomością projektować testy i interpretować ich wyniki.
-# speakers: [ 1 ]
+# - id: 200
+#   title: ""
+#   place: ""
+#   subtype: presentation
+#   description: >
+
+#   speakers: [  ]
+- id: 201
+  title: "Z manuskryptów starożytnych inżynierów – bazy danych"
+  place: ""
+  subtype: presentation
+  description: >
+    Kolejne warstwy frameworków, abstrakcji i pudru. Pozwalają nam dostarczać skomplikowane rozwiązania w skończonym czasie.
+    Nasi dziadkowie mogliby nam pozazdrościć łatwości z jaką udaje nam się budować złożone systemy.
+    Jednak często zapominamy o tym jak wiele zawdzięczamy starożytnym inżynierom. Spróbujmy poznać ich tajemnice, zapisane w manuskryptach.
+    <br /><br />
+    Bazy danych są sercem naszych systemów, gdyż dane są krwiobiegiem naszych organizacji. Zabiorę Was w cudowną i nostalgiczną podróż przez świat architektury baz danych.
+    Rozłożymy bazy danych na poszczególne komponenty by w pełni docenić piękno tych cudów inżynierii.
+    <br /><br />
+    Zaczniemy od szybkiego kursu historii najnowszej, czyli dlaczego i kiedy pojawiła się koncepcja baz danych.
+    By następnie przejść do technik organizacji danych na dysku.
+    Poznać tajniki zarządzanie pamięcią i techniki zapewnienia izolacji zapisów czyli locking protocols.
+    <br /><br />
+    Dowiesz się jak bazy danych zapewniają spójność i trwałość danych z pomocą „transaction logs” i „write-ahead logs”.
+    Nie pominiemy też dyskusji o indeksach (w tym B+tree), wykonywaniu zapytań i optymalizacji planów zapytań.
+    <br /><br />
+    Mam nadzieję, że ta prezentacji pozwoli wam lepiej zrozumieć jak budować aplikacje i optymalizować wydajność systemów.
+    Dzięki zrozumieniu jakie prawa rządzą światem baz danych.
+    <br /><br />
+    Będzie też czas na filozoficzne rozmyślania o sensie istnienia i odpowiedź na pytanie dokąd zmierzamy.
+  speakers: [ 1 ]
+- id: 202
+  title: "Anatomia warunków biznesowych"
+  place: ""
+  subtype: presentation
+  description: >
+    “If” – małe słowo, wielkie konsekwencje. Instrukcje warunkowe są z nami od pierwszych linii kodu, ale to, jak ich używamy, może zadecydować o losach całego projektu.
+    <br /><br />
+    W tej prelekcji Łukasz zabierze Cię w podróż po świecie “ifów” – pokaże, jak je klasyfikować, jak wyciągać na światło dzienne ukryte decyzje i jak użyć DDD, by wprowadzić je w kod bez chaosu.
+  speakers: [ 2 ]
+
+- id: 203
+  title: "Git jakiego nie znacie"
+  place: ""
+  subtype: presentation
+  description: >
+    Commit, push, merge - tyle już znasz. Ale Git ma w zanadrzu o wiele więcej!
+    <br /><br />
+    Masz kod rozrzucony po wielu repozytoriach? Rozmiar projektu zaczyna utrudniać pracę? Git log przestaje wystarczać żeby coś znaleźć?
+    <br /><br />
+    Taki problem to nie problem! Wystarczy że poznasz ze mną kilka gitowych trików, które nie raz ratowały mi skórę - i mogą uratować Twoją.
+    <br /><br />
+    Opowiem o rebase, shallow clone, submodules i bisect. Ogarnij Gita i uwolnij swój potencjał.
+  speakers: [ 3 ]
+
+- id: 204
+  title: "TBD"
+  place: ""
+  subtype: presentation
+  description: >
+    TBD
+  speakers: [ 4 ]
+- id: 205
+  title: "Human-Sized Code"
+  place: ""
+  subtype: presentation
+  description: >
+    As engineers we think it's important to follow so-called best practices. We often rewrite code for modularity and ease of testing.
+    But we tend to forget that our writing is made for someone to actually read.
+    <br /><br />
+    What is readability and how can we make our code more comprehensible to another human?
+  speakers: [ 5 ]
+
+- id: 206
+  title: "Skazani na bycie liderem?"
+  place: ""
+  subtype: presentation
+  description: >
+    Istnieje przekonanie, że oczywistym wyborem dla wybitnych inżynierów jest powierzenie im zarządzania własnym zespołem, w często daremnej próbie „przekazania” ich umiejętności innym.
+    To oczywiście błędne podejście i często staje się obiektem szyderstw doświadczonych inżynierów.
+    “Jest świetnym programistą, więc niech programuje mniej!” — mówimy sarkastycznie z cynicznym uśmiechem na naszych twarzach.
+    <br /><br />
+    Tylko czy to faktycznie złe podejście? Jako inżynierowie chcemy rozwijać nasze talenty, awansować i oczywiście zarabiać więcej.
+    Aby zarabiać więcej, musimy jednak wnieść większą wartość do firmy, w której pracujemy.
+    Jak bardzo jesteśmy w stanie przeskalować nasze umiejętności, żeby faktycznie tą wartość dostarczyć?
+    Będziemy programować 100% szybciej? Szybciej projektować? Czy istnieje w ogóle tutaj droga dla tak zwanego indywidualnego kontrybutora?
+    <br /><br />
+    W tej prezentacji zastanowimy się właśnie nad tym i spróbujemy odpowiedzieć sobie na tytułowe pytanie—czy jesteśmy skazani na bycie liderem?
+  speakers: [ 6 ]
+
+- id: 207
+  title: "Subiektywnie o liderach IT"
+  place: ""
+  subtype: presentation
+  description: >
+    Opowiem Wam o liderach, o tym w jakie pułapki najczęściej wpadają, z jakimi najczęściej trudnościami i błędami mierzą się chcąc sprostać swojej roli.
+    <br /><br />
+    Pracuję z liderami od kilku lat, przeprowadziłam wiele szkoleń liderskich. Łącznie to około 3000 osób, które piastują stanowiska liderskie albo pretendują do tej roli.
+    <br /><br />
+    O błędach liderów powiedziano już wiele. Moja perspektywa, to perspektywa trenera, który spotyka liderów, kierowników, menedżerów z różnym poziomem doświadczenia, słucha ich historii, trudności, bolączek i wspiera ich w zakresie kompetencji miękkich.
+    To także perspektywa psychologa, który dostrzega mechanizmy, jakie się za tymi trudnościami kryją.
+    <br /><br />
+    Podzielę się z Wami moimi osobistymi spostrzeżeniami. Kto wie, może dzięki nim Wy, stając się liderami, popełnicie mniej błędów w przyszłości.
+  speakers: [ 7 ]
+
+- id: 208
+  title: "Czy można pracować inaczej? Prosta droga branży IT do wypalenia"
+  place: ""
+  subtype: presentation
+  description: >
+    Badania pokazują, że nasza kraina mlekiem i miodem płynąca wcale nie jest takim Eldorado jak obiecują organizatorzy bootcampów.
+    Wypalenie jest demokratycznie - płeć, wiek, ilość doświadczenia nie mają dla niego znaczenia (chociaż wypalamy się w inny sposób).
+    <br /><br />
+    Podczas tej prezentacji skupię się na analizie czynników związanych z pracą, które mają istotny wpływ na poziom wypalenia wśród pracowników IT.
+    <br /><br />
+    Prezentacja przedstawi konkretne zagrożenia związane z obciążeniem pracą, długimi godzinami pracy, jednocześnie proponując strategie i praktyki, które mogą przeciwdziałać wypaleniu i promować zdrowie psychiczne w miejscu pracy.
+    Wsparcie teoretyczne prezentacji oparte jest na najnowszych badaniach naukowych, literaturze specjalistycznej oraz praktykach rekomendowanych przez ekspertów w dziedzinie zdrowia psychicznego.
+    <br /><br />
+    Ale podzielę się też historią swojego wypalenia i strategiami, które działają u moich podopiecznych.
+  speakers: [ 8 ]
+
 # # ################################## WORKSHOPS ##################################
 # - id: 301
 #   title: ""

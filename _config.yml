@@ -39,10 +39,10 @@ socialImageSrcFacebook: "/img/seo/craft-it-2023-sharing-fb.png"
 # Navigation
 navigationLinks:
 # - {permalink: "/#schedule", text: "Program"}
-#- {permalink: "/speakers/", text: "Prelegenci"}
+# - {permalink: "/speakers/", text: "Prelegenci"}
 #- {permalink: "/team/", text: "Zespół"}
 #- {permalink: "/logistics/", text: "Logistyka"}
-#- {permalink: "/#rockstar-speakers", text: "Prelegenci"}
+- {permalink: "/#rockstar-speakers", text: "Prelegenci"}
 - {link: "https://2024.craft-it.pl", text: "2024"}
 - {link: "https://2023.craft-it.pl", text: "2023"}
 - {link: "https://2022.craft-it.pl", text: "2022"}
