@@ -120,6 +120,47 @@
     Ale podzielę się też historią swojego wypalenia i strategiami, które działają u moich podopiecznych.
   speakers: [ 8 ]
 
+- id: 209
+  title: "DevOps bez sekretów: Managed Identity i System Assigned Identity w praktyce"
+  place: ""
+  subtype: presentation
+  description: >
+    W tej prezentacji pokażę, jak wykorzystać Managed Identity i System Assigned Identity w Azure, aby budować bezpieczne,
+    skalowalne i bezkluczowe pipeline’y. Na konkretnych przykładach z życia codziennego DevOpsa zobaczymy, jak:
+    <br />
+    - Uwierzytelniać się do usług Azure bez potrzeby zarządzania hasłami czy tokenami.
+    <br />
+    - Konfigurować tożsamości zarządzane dla Azure DevOps, Azure Pipelines i maszyn wirtualnych.
+    <br />
+    - Zapewnić zasobom dostęp zgodny z zasadą najmniejszych uprawnień (Least Privilege).
+    <br />
+    - Monitorować i audytować użycie tożsamości w środowisku chmurowym."
+  speakers: [ 9 ]
+
+- id: 210
+  title: "TBD"
+  place: ""
+  subtype: presentation
+  description: >
+   TBD
+  speakers: [ 10 ]
+
+- id: 211
+  title: "TBD"
+  place: ""
+  subtype: presentation
+  description: >
+   TBD
+  speakers: [ 11 ]
+
+- id: 212
+  title: "TBD"
+  place: ""
+  subtype: presentation
+  description: >
+   TBD
+  speakers: [ 12 ]
+
 # # ################################## WORKSHOPS ##################################
 # - id: 301
 #   title: ""

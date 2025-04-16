@@ -132,3 +132,74 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/akunysz" }
     - { name: "instagram", link: "https://www.instagram.com/olaqnysz" }
+
+- id: 9
+  name: "Michał"
+  surname: "Machniak"
+  thumbnailUrl: michal-machniak.jpg
+  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  bio: >
+    I have been passionate about information technology for over 20 years, it is my hobby and my profession.
+    <br /><br />
+    In those days I work as MCT / SysOps / Architect / DevOps with customers form different sectors like FinTech, E-commerce, Banking, logistics and many more.
+    <br /><br />
+    I am building and implementing solutions based on Microsoft technology when I use: Windows Server, SQL Server,
+    PowerShell, Azure, Office 365, SharePoint, Teams, Azure DevOps, Git … and many other tools that allow me to complete the task and achieve the goal.
+  rockstar: true
+  social:
+    - { name: "site", link: "https://mmachniak.net/about/" }
+
+- id: 10
+  name: "Marcin"
+  surname: "Samsonowski"
+  thumbnailUrl: marcin-samsonowski.jpg
+  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  bio: >
+    "Architect, software engineer, consultant. Eager on learning. Passionate about teaching.
+    <br />
+    Focused on people and processes, quality and effectiveness.
+    <br />
+    Having diverse experiences in multiple roles and sectors and tiny to huge companies.
+    <br />
+    Found his best match in holistic understanding. Chose to keep an eye especially on Enterprise and Solution Architecture.
+    <br />
+    In free time mostly passionate about music (singing, playing, dancing) and sports (from martial arts to snowboarding)."
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/samsonowski/" }
+
+- id: 11
+  name: "Marcin"
+  surname: "Zajączkowski"
+  thumbnailUrl: marcin-zajaczkowski.jpg
+  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  bio: >
+    Doświadczony architekt realizujący projekty charakteryzujące się wysoką jakością i niezawodnością.
+    <br />
+    Silnie zaangażowany w promowanie Software Craftsmanship, Clean Code i Test-Driven Development na konferencjach i szkoleniach.
+    <br />
+    Specjalista w automatyzacji wdrożeń z Continuous Delivery i Continuous Inspection of Code Quality.
+    <br />
+    Entuzjasta szeroko rozumianej współbieżności, wydajności i dostępności. Po godzinach poszukiwacz "dziur" i innych niebezpieczeństw w Internecie.
+    <br /><br />
+    Poza tym autor i kontrybutor projektów open source, bloger (https://blog.solidsoft.pl/) i trener (https://www.solidsoft.pl/training/)."
+  rockstar: true
+  social:
+    - { name: "site", link: "https://blog.solidsoft.pl/" }
+    - { name: "twitter", link: "https://twitter.com/@SolidSoftBlog" }
+
+- id: 12
+  name: "Jakub"
+  surname: "Gutkowski"
+  thumbnailUrl: jakub-gutkowski.jpg
+  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  bio: >
+    Jakub is an independent consultant who works directly with teams on long-running projects.
+    He has worked as a Principal Engineer, Lead Cloud Architect, and Engineering Manager.
+    Jakub has been involved in designing and implementing internal development platforms and SaaS products across different technology stacks.
+    He is a 15th-time Microsoft MVP. When not working, Jakub usually goes outside doing various sports activities alone or with the family.
+  rockstar: true
+  social:
+    - { name: "site", link: "https://bsky.app/profile/gutek.pl" }
+    - { name: "twitter", link: "https://x.com/gutek" }
+    - { name: "linkedin", link: "https://linkedin.com/in/jakubg" }
