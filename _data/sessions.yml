@@ -152,19 +152,34 @@
   speakers: [ 10 ]
 
 - id: 211
-  title: "TBD"
+  title: "Czy hakerzy z Korei Północnej zagrażają także Tobie i Twojej firmie? Jakie techniki stosuje grupa Lazarus*, by przełamać nawet najskuteczniejsze zabezpieczenia?"
   place: ""
   subtype: presentation
   description: >
-   TBD
+   Przerażające statystyki cyberataków na całym świecie nie pozostawiają złudzeń: zagrożenie jest realne, a skala strat liczona jest już w dziesiątkach miliardach dolarów rocznie.
+   Jakie techniki stosują hakerzy, by przekraczać kolejne granice cyberbezpieczeństwa?
+   Jaki aspekt generuje największe ryzyko dla firm?
+   <br /><br />
+   Poznaj techniki i sztuczki używane przez północnokoreańską “państwową” grupę Lazarus* przy atakach, wobec których nie można pozostać obojętnym.
+   W skrócie opowiem oczywiście o ich największych i najbardziej bolesnych akcjach, którymi ofiarami padały instytucje finansowe, firmy medialne, koncerny farmaceutyczne, czy giełdy kryptowalut.
+   Najwięcej uwagi poświęcimy jednak atakom grupy, które mogą stanowić niebezpieczeństwo w 2025 roku zarówno dla MŚP, jak i wielkich korporacji.
+   <br /><br />
+   Celem prezentacji jest zwiększenie świadomości uczestników (bez wchodzenia w niskopoziomowe szczegóły techniczne) na temat skali i natury tych zagrożeń.
+   Jest to pierwszy krok do skutecznego zabezpieczenia Twojej firmy. Przygotuj się, bo jutro celem możesz być Ty.
   speakers: [ 11 ]
 
 - id: 212
-  title: "TBD"
+  title: "The Four R"
   place: ""
   subtype: presentation
   description: >
-   TBD
+    A TDD tool for tackling hard conversations before they happen. As our responsibility grows, our communication starts to matter more.
+    We need to align works across teams or even across whole organisations; we need to talk to stakeholders, CxOs, VPs, Engineers Directors, Product people and Engineers.
+    Not all conversations will be smooth; how can we prepare if we know that the next important meeting with our VP might go sideways?
+    One of the tools that helped me a lot was the Four R's - record, reflect, revise, and roleplay.
+    <br /><br />
+    In the talk, I will walk through the framework, what it is based on, and how to use it effectively.
+
   speakers: [ 12 ]
 
 # # ################################## WORKSHOPS ##################################
