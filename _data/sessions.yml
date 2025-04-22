@@ -144,11 +144,18 @@
   speakers: [ 9 ]
 
 - id: 210
-  title: "TBD"
+  title: "Automate your software design. How far we can get and how the AI changes the game?"
   place: ""
   subtype: presentation
   description: >
-   TBD
+    Creating good software design requires careful thought. It's easy to fall into traps that cause us to stray from the intended solution.
+    Some may avoid the necessary effort, while others might overcomplicate things.
+    Let’s explore how to strike the right balance and find the proper direction in software design by making the most of available possibilities.
+    <br /><br />
+    We will dive into real-life scenarios, identify common problems, and work on finding solutions.
+    Along the way, we’ll discuss topics from the SDLC cycle to architecture.
+    We will start with basic diagrams, then move on to widely used notations like UML and BPMN, incorporating automation tools such as Markdown, Docusaurus, Mermaid, PlantUML, C4 and more.
+    Finally we will let the AI take over.
   speakers: [ 10 ]
 
 - id: 211
