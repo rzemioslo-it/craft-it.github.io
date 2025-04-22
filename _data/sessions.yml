@@ -105,19 +105,25 @@
   speakers: [ 7 ]
 
 - id: 208
-  title: "Czy można pracować inaczej? Prosta droga branży IT do wypalenia"
+  title: "Debugging burnout: jak nie wypalić się w IT i odzyskać satysfakcję z pracy"
   place: ""
   subtype: presentation
   description: >
-    Badania pokazują, że nasza kraina mlekiem i miodem płynąca wcale nie jest takim Eldorado jak obiecują organizatorzy bootcampów.
-    Wypalenie jest demokratycznie - płeć, wiek, ilość doświadczenia nie mają dla niego znaczenia (chociaż wypalamy się w inny sposób).
+    Masz wrażenie, praca przestała dawać Ci satysfakcję, a po godzinach nie masz już ochoty na rozwój?
+    Pracujesz na wysokich obrotach, ale zamiast dumy z dobrze wykonanej pracy czujesz coraz większe zmęczenie?
+    Wypalenie zawodowe w IT to efekt uboczny ciągłego przeciążenia, presji i braku kontroli nad własnym rozwojem.
     <br /><br />
-    Podczas tej prezentacji skupię się na analizie czynników związanych z pracą, które mają istotny wpływ na poziom wypalenia wśród pracowników IT.
+    W tej prezentacji zrobię debugging wypalenia i pokażę, jak:<br />
+    - zidentyfikować pierwsze „logi błędów” sugerujące, że zbliżasz się do krytycznego obciążenia,<br />
+    - przejąć kontrolę nad swoją pracą i rozwojem, zamiast działać w trybie ciągłego gaszenia pożarów,<br />
+    - unikać pułapki perfekcjonizmu i syndromu oszusta, które często prowadzą do prokrastynacji i frustracji,<br />
+    - znaleźć sposoby na skuteczny „refactor” kariery i przywrócenie radości z pracy.
     <br /><br />
-    Prezentacja przedstawi konkretne zagrożenia związane z obciążeniem pracą, długimi godzinami pracy, jednocześnie proponując strategie i praktyki, które mogą przeciwdziałać wypaleniu i promować zdrowie psychiczne w miejscu pracy.
-    Wsparcie teoretyczne prezentacji oparte jest na najnowszych badaniach naukowych, literaturze specjalistycznej oraz praktykach rekomendowanych przez ekspertów w dziedzinie zdrowia psychicznego.
+    Jestem programistką, mentorką i osobą, która kiedyś sama się wypaliła.
+    Wiem, jak to jest czuć, że nigdy nie robi się wystarczająco dużo, a równocześnie nie ma się siły na więcej – i wiem, jak z tego wyjść.
+    Ta prezentacja to nie kolejna teoria o work-life balance, ale konkretne strategie, które możesz wdrożyć od razu.
     <br /><br />
-    Ale podzielę się też historią swojego wypalenia i strategiami, które działają u moich podopiecznych.
+    Jeśli Twój mentalny CPU zaczyna się przegrzewać od nadmiaru tasków i ciągłej presji, przyjdź – pomogę Ci zoptymalizować wydajność, zanim system padnie.
   speakers: [ 8 ]
 
 - id: 209
