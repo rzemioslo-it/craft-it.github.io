@@ -203,3 +203,32 @@
     - { name: "site", link: "https://bsky.app/profile/gutek.pl" }
     - { name: "twitter", link: "https://x.com/gutek" }
     - { name: "linkedin", link: "https://linkedin.com/in/jakubg" }
+
+- id: 13
+  name: "Dariusz"
+  surname: "Pawlukiewicz"
+  thumbnailUrl: dariusz-pawlukiewicz.jpeg
+  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  bio: >
+    Współzałożyciel DevMentors.io, konsultant, inżynier oprogramowania, architekt w EcoVadis.
+    Entuzjasta Domain-Driven Design oraz systemów rozproszonych. Ex-Microsoft MVP.
+  rockstar: true
+  social:
+    - { name: "site", link: "https://devmentors.io" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/dariusz-pawlukiewicz-7ba162a2" }
+    - { name: "github", link: "https://github.com/devmentors" }
+
+- id: 14
+  name: "Jakub"
+  surname: "Koleżyński"
+  thumbnailUrl: jakub-kolezynski.jpg
+  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  bio: >
+    Inżynier oprogramowania i tech lead z backendowymi korzeniami, kwitnącą pasją do frontendu i nieustannym głodem prostych rozwiązań.
+    Z zamiłowaniem rozkłada złożone problemy na czynniki pierwsze, a wyzwania traktuje jak okazję do nauki – swojej i zespołu.
+    Zawodowo pisał kod dla przemysłu ciężkiego, finansów i wszystkiego pomiędzy.
+    <br />
+    Obecnie doskonale bawi się w NewOrbit, gdzie wspiera zespoły, dzieli się doświadczeniem i nie przestaje szlifować rzemiosła programistycznego – technicznego i ludzkiego.
+  rockstar: true
+  social:
+    - { name: "site", link: "https://kolezyn.ski" }

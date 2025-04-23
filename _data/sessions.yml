@@ -186,8 +186,33 @@
     One of the tools that helped me a lot was the Four R's - record, reflect, revise, and roleplay.
     <br /><br />
     In the talk, I will walk through the framework, what it is based on, and how to use it effectively.
-
   speakers: [ 12 ]
+
+- id: 213
+  title: "To co NIE ukryte i tak będzie użyte, czyli architektura w cieniu Hyrum’s Law"
+  place: ""
+  subtype: presentation
+  description: >
+    W świecie złożonych systemów, granica między tym, co "wewnętrzne", a tym, co "publiczne", często bywa iluzoryczna.
+    Hyrum's Law głosi, że „z wystarczająco dużą liczbą użytkowników każda obserwowalna cecha twojego systemu będzie wykorzystywana – niezależnie od tego, czy była częścią publicznego API, czy nie”.
+    <br /><br />
+    W tej prezentacji pokażę, jakie konsekwencje to prawo niesie dla projektowania systemów oraz jak może (i powinno) wpływać na decyzje architektoniczne.
+    Omówimy, dlaczego ukrywanie szczegółów implementacyjnych to za mało, jak radzić sobie ze zmianami bez łamania kontraktów i jak tworzyć systemy odporne na nadmiarowe zależności ze strony użytkowników.
+  speakers: [ 13 ]
+
+- id: 214
+  title: "Biohacking w zespołach zwinnych"
+  place: ""
+  subtype: presentation
+  description: >
+    Agile Team to nie tylko tablica w Jirze i daily o 9:15. To system rozproszony, pełen edge-case’ów, zależności ukrytych w ludziach i niespodziewanych timeoutów w komunikacji.
+    <br /><br />
+    „Biohacking” w tym kontekście to nie suplementy i trackery, ale świadome podejście do najważniejszego — i często najdroższego — zasobu w projekcie: ludzi.
+    <br /><br />
+    Porozmawiamy o tym, jak zwiększyć efektywność zespołu bez zmiany stacku technologicznego czy przebudowy architektury, za to z solidną refaktoryzacją komunikacji.
+    <br /><br />
+    To sesja zarówno dla tych, którzy prowadzą zespoły, jak i dla tych, którzy dopiero zaczynają swoją drogę w IT. Dobre praktyki nie mają seniority.
+  speakers: [ 14 ]
 
 # # ################################## WORKSHOPS ##################################
 # - id: 301
