@@ -222,6 +222,38 @@
     To sesja zarówno dla tych, którzy prowadzą zespoły, jak i dla tych, którzy dopiero zaczynają swoją drogę w IT. Dobre praktyki nie mają seniority.
   speakers: [ 14 ]
 
+- id: 215
+  title: "Architektura MikroFrontendowa - (nieudane) lekcje z produkcji."
+  place: ""
+  subtype: presentation
+  description: >
+    Architektura MikroFrontendowa (MFE) ma na celu zmierzenie się z bardzo konkretnymi wyzwaniami - i wbrew pozorom chodzi bardziej o organizację pracy zespołów, niż o sam kod frontendowy.
+    Jest to też architektura dość niejednorodna, a mnogość rozwiązań niejednego doprowadziła do... błędnej, jak się potem okazało, decyzji.
+    Dodatkowo, MFE współdzieli pewne cechy z Mikro Serwisami, są jednak między nimi dość istotne różnice - w szczególności wynikające z innego środowiska uruchomieniowego.
+    <br /><br />
+    Podczas prelekcji przyjrzymy się projektowaniu, wdrażaniu, uruchamianiu oraz organizowaniu pracy wielo zespołowej
+    wokół architektury MFE - wszystko związane z: modułowością, zarządzaniem stanem, podziałem poziomym i pionowym, praktykami DevOps, topologiami zespołowymi i stosowaniem strategicznego DDD.
+    <br /><br />
+    Przeanalizujemy realne przypadki zarówno sukcesów jak i porażek zastosowania mikro frontendów, budując solidne rozumienie "tradeoff-ów" które za nimi stoją.
+    Zwalczymy przy okazji kilka mitów, które narosły wokół tej architektury, będące skutkiem niezrozumienia konceptu i... nieudanych wdrożeń.
+  speakers: [ 15 ]
+
+- id: 216
+  title: "Zbudujmy własną platformę do strumieniowego przesyłania wiadomości"
+  place: ""
+  subtype: presentation
+  description: >
+    Mechanizm strumieniowania wiadomości nierzadko stanowi nieodzowny element infrastruktury w systemach rozproszonych.
+    Od klasycznej integracji za pomocą zdarzeń (event-driven architecture) w architekturze mikroserwisowej, po zaawansowane systemy tradingowe typu HFT wymagające możliwie niskich opóźnień (low latency).
+    <br /><br />
+    Niezawodna (i możliwie szybka) komunikacja pomiędzy niezależnymi aplikacjami ma krytyczne znaczenie dla poprawnego działania systemu.
+    <br /><br />
+    Jak wygląda message streaming od podstaw? Z jakimi wyzwaniami musi zmierzyć się inżynier oprogramowania rozwijający takie narzędzie?
+    Skąd bierze się przepustowość rzędu milionów wiadomości na sekundę? Jak duży wpływ może mieć kernel Linuxa na wydajność takiego rozwiązania?
+    <br /><br />
+    Chciałbym podzielić się tym, czego nauczyliśmy się przez ostatnie 2 lata, rozwijając od podstaw Apache Iggy — projekt, służący do strumieniowego przesyłania wiadomości."
+  speakers: [ 16 ]
+
 # # ################################## WORKSHOPS ##################################
 # - id: 301
 #   title: ""

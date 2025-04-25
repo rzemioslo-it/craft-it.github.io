@@ -232,3 +232,33 @@
   rockstar: true
   social:
     - { name: "site", link: "https://kolezyn.ski" }
+
+- id: 15
+  name: "Tomasz"
+  surname: "Ducin"
+  thumbnailUrl: tomasz-ducin.jpg
+  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  bio: >
+    Developer, Architect, Consultant. Frontend & Backend. DDD Practitioner.
+    Focused on matching business requirements with software design. Life-long learner.
+    Trainer and Conference Speaker. Ex-theatre Actor.
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://x.com/tomasz_ducin" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/tomasz-ducin-82234a4b/" }
+
+- id: 16
+  name: "Piotr"
+  surname: "Gankiewicz"
+  thumbnailUrl: piotr-gankiewicz.jpg
+  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  bio: >
+    Inżynier oprogramowania z ponad dekadą doświadczenia (wywodzący się z obszaru C# i dotnet), aktualnie używający Rusta w pracy w startupie z zakresu cyberbezpieczeństwa Hugin.io.
+    Kontrybutor OSS, rozwijający platformę do strumieniowego przesyłania wiadomości Apache Iggy.
+    Były Microsoft MVP, trener Bottega IT Minds i współzałożyciel DevMentors.io.
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://x.com/spetzu" }
+    - { name: "github", link: "https://github.com/spetz" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/piotrgankiewicz/" }
+    - { name: "site", link: "https://bsky.app/profile/spetzu.bsky.social" }
