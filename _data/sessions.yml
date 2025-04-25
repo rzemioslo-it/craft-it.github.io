@@ -55,11 +55,19 @@
   speakers: [ 3 ]
 
 - id: 204
-  title: "TBD"
+  title: "Od selfie do AI: Jak nauczyć Stable Diffusion swojej twarzy i nie tylko"
   place: ""
   subtype: presentation
   description: >
-    TBD
+    Na co dzień w social media widzisz obrazki generowane przez AI.
+    <br />
+    Jednak nawet najnowsze np: w stylu studia Ghibli odbiegają znacząco od rzeczywistości.
+    <br />
+    Rodzi się więc pytanie, czy da się wygenerować siebie samego w określonym stylu? A jeżeli tak, to ile to będzie kosztować?
+    <br />
+    Zapraszam Cię na techniczną sesję, w której pokażę, jak nauczyć Stable Diffusion generowania tego, co chcesz na swoim komputerze lub w chmurze.
+    <br />
+    Sesja będzie pełna praktyki ze szczyptą teorii. Gotowi? No to akcja!
   speakers: [ 4 ]
 - id: 205
   title: "Human-Sized Code"
