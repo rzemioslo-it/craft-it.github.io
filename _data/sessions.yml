@@ -254,6 +254,14 @@
     Chciałbym podzielić się tym, czego nauczyliśmy się przez ostatnie 2 lata, rozwijając od podstaw Apache Iggy — projekt, służący do strumieniowego przesyłania wiadomości."
   speakers: [ 16 ]
 
+- id: 217
+  title: "TBD"
+  place: ""
+  subtype: presentation
+  description: >
+    TBD
+  speakers: [ 17 ]
+
 # # ################################## WORKSHOPS ##################################
 # - id: 301
 #   title: ""

@@ -262,3 +262,13 @@
     - { name: "github", link: "https://github.com/spetz" }
     - { name: "linkedin", link: "https://www.linkedin.com/in/piotrgankiewicz/" }
     - { name: "site", link: "https://bsky.app/profile/spetzu.bsky.social" }
+
+- id: 17
+  name: "Krystian"
+  surname: "Zybała"
+  thumbnailUrl: placeholder.png
+  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  bio: >
+    TBD
+  rockstar: true
+  social:
