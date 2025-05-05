@@ -255,7 +255,7 @@
   speakers: [ 16 ]
 
 - id: 217
-  title: "TBD"
+  title: "Nie morduj CPU w biały dzień! Użyj profilera aby znaleźć złodzieja!"
   place: ""
   subtype: presentation
   description: >
