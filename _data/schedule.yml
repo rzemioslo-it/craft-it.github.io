@@ -35,7 +35,7 @@
     }
     - {
       startTime: "10:20",
-      sessionIds: [ 201,215,207 ],
+      sessionIds: [ 201,215,206 ],
       isSession: true
     }
     - {
@@ -62,7 +62,7 @@
     }
     - {
       startTime: "14:45",
-      sessionIds: [ 217,209,206 ],
+      sessionIds: [ 217,209,207 ],
       isSession: true
     }
     - {
