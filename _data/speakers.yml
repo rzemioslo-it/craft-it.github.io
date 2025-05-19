@@ -266,9 +266,13 @@
 - id: 17
   name: "Krystian"
   surname: "Zybała"
-  thumbnailUrl: placeholder.png
+  thumbnailUrl: krystian-zybala.jpeg
   feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
   bio: >
-    TBD
+    Specjalista z ponad 10-letnim doświadczeniem w branży IT, specjalizujący się w optymalizacji wydajności JVM w systemach rozproszonych, szczególnie w sektorze finansowym, gdzie priorytetem są low-latency i throughput.
+    Na co dzień pracuje z JVM, nieustannie benchmarkując granice jego możliwości przy porannej kawie.
+    Z pasją zgłębia tajniki wydajności JVM i chętnie dzieli się wiedzą na temat najlepszych praktyk w zakresie optymalizacji oraz rozwiązań klasy enterprise.
+    Hobbystycznie kontynuuje eksplorację zagadnień Performance Engineering, nieustannie dążąc do wyznaczania nowych standardów w obszarze efektywności systemów.
   rockstar: true
   social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/krystian-zybala/" }

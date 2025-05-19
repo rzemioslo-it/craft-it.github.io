@@ -259,7 +259,18 @@
   place: ""
   subtype: presentation
   description: >
-    TBD
+    Twoja aplikacja wchodzi na 100% CPU jak do siebie? Wątek główny kręci wiatrakiem jak śmigłowiec Apache? Zamiast debugować „na czuja”, załaduj broń masowego profilowania!
+    W trakcie prezentacji:
+    <br />
+    - Odpalimy profiler i zajrzymy pod maskę JVM
+    <br />
+    - Spalimy trochę stosów w flamegraphach (dosłownie)
+    <br />
+    - Namierzymy złodziei cykli CPU jak prawdziwi profilerowi detektywi
+    <br />
+    - Zobaczysz, jak zdiagnozować problemy, które „magicznie” znikają po restarcie… ale wracają w piątki po 17:00
+    <br />
+    Zero nudnej teorii, tylko praktyka i trochę memów. Będzie śmiesznie, będzie merytorycznie, a Twój CPU podziękuje Ci jeszcze dziś.
   speakers: [ 17 ]
 
 # # ################################## WORKSHOPS ##################################
