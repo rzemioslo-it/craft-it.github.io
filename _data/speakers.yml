@@ -17,7 +17,7 @@
     W wolnych chwilach trener w Symentis, autor bloga na http://geekyprimitives.wordpress.com/ oraz samozwańczy dyktator w radach programowych wielu konferencji.
   thumbnailUrl: jarek-palka.jpg
   rockstar: true
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/LdCm9FrnktknS6xA9
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/jpalka/" }
 
@@ -25,7 +25,7 @@
   name: Łukasz
   surname: Reszke
   rockstar: true
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/YBXm7PC9vpbCKP1c8
   thumbnailUrl: lukasz-reszke.jpg
   bio: >
     Pragmatic Software Engineer w Arkency
@@ -37,7 +37,7 @@
   name: "Michał"
   surname: "Borkowski"
   thumbnailUrl: michal-borkowski.jpg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/ZSTxP4X2T3UDk8xB7
   rockstar: true
   bio: >
    Z ponad 10 latami doświadczenia działał już w backendzie, infrastrukturze, architekturze, trochę we frontendzie i prowadzeniu zespołów.
@@ -51,7 +51,7 @@
   name: "Piotr"
   surname: "Stapp"
   thumbnailUrl: piotr-stapp.jpg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/MMfUaLWeZAxFWZae9
   bio: >
     Architekt w firmie Demant za dnia, Microsoft MVP w nocy.
     <br /><br />
@@ -70,7 +70,7 @@
   name: "Chris"
   surname: "Hasiński"
   thumbnailUrl: chris-hasinski.jpeg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/3xEUacznG5nSBTFA6
   bio: >
     A software developer particularly interested in web application performance and AI/ML workflows
   rockstar: true
@@ -83,7 +83,7 @@
   name: "Zbyszko"
   surname: "Papierski"
   thumbnailUrl: zbyszko-papierski.png
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/PTFAPppLJKDbnYQj8
   bio: >
     Architekt (czasem zarządzający ludźmi) z 18-letnim doświadczeniem, którego połowę poświęcił próbom zrozumienia wyzwań z wyszukiwaniem.
     Obecnie prowadzi domenę Search w Brainly i próbuje brzmieć akceptowalnie, grając na perkusji.
@@ -96,7 +96,7 @@
   name: "Anita"
   surname: "Przybył"
   thumbnailUrl: anita-przybyl.png
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/3Gi7NGZ7uXCK9qma7
   bio: >
     Trenerka biznesu z z doświadczeniem na sali szkoleniowej od 2006 roku.
     Uczestniczka wielu szkoleń doskonalących metody pracy z ludźmi oraz wspierających ich rozwój, m.in. Szkoły Coachingu, Szkoły Trenerów Biznesu, Racjonalnej Terapii Zachowań, Terapii Skoncentrowanej na Rozwiązaniach.
@@ -115,7 +115,7 @@
   name: "Ola"
   surname: "Kunysz"
   thumbnailUrl: ola-kunysz.jpg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/Rf3PebZzkzbtSe9c6
   bio: >
     Software engineer, mentorka i autorka treści. W branży IT działa od kilkunastu lat. Doświadczenia zdobywała w Polsce i Stanach Zjednoczonych.
     <br /><br />
@@ -137,7 +137,7 @@
   name: "Michał"
   surname: "Machniak"
   thumbnailUrl: michal-machniak.jpg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/UA8woaJpjVYpcVAn7
   bio: >
     I have been passionate about information technology for over 20 years, it is my hobby and my profession.
     <br /><br />
@@ -153,7 +153,7 @@
   name: "Marcin"
   surname: "Samsonowski"
   thumbnailUrl: marcin-samsonowski.jpg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/ckjG8YLVT7deKhPRA
   bio: >
     "Architect, software engineer, consultant. Eager on learning. Passionate about teaching.
     <br />
@@ -172,7 +172,7 @@
   name: "Marcin"
   surname: "Zajączkowski"
   thumbnailUrl: marcin-zajaczkowski.jpg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/L9Be3QicLxsa4wJa7
   bio: >
     Doświadczony architekt realizujący projekty charakteryzujące się wysoką jakością i niezawodnością.
     <br />
@@ -192,7 +192,7 @@
   name: "Jakub"
   surname: "Gutkowski"
   thumbnailUrl: jakub-gutkowski.jpg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/zqQJ1f5hMEaYAY4RA
   bio: >
     Jakub is an independent consultant who works directly with teams on long-running projects.
     He has worked as a Principal Engineer, Lead Cloud Architect, and Engineering Manager.
@@ -208,7 +208,7 @@
   name: "Dariusz"
   surname: "Pawlukiewicz"
   thumbnailUrl: dariusz-pawlukiewicz.jpeg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/HRzCr55SvzAycXJV6
   bio: >
     Współzałożyciel DevMentors.io, konsultant, inżynier oprogramowania, architekt w EcoVadis.
     Entuzjasta Domain-Driven Design oraz systemów rozproszonych. Ex-Microsoft MVP.
@@ -222,7 +222,7 @@
   name: "Jakub"
   surname: "Koleżyński"
   thumbnailUrl: jakub-kolezynski.jpg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/haz5pcJBCNBsLWhW8
   bio: >
     Inżynier oprogramowania i tech lead z backendowymi korzeniami, kwitnącą pasją do frontendu i nieustannym głodem prostych rozwiązań.
     Z zamiłowaniem rozkłada złożone problemy na czynniki pierwsze, a wyzwania traktuje jak okazję do nauki – swojej i zespołu.
@@ -237,7 +237,7 @@
   name: "Tomasz"
   surname: "Ducin"
   thumbnailUrl: tomasz-ducin.jpg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/FChV8Ka7WbRfrUwM6
   bio: >
     Developer, Architect, Consultant. Frontend & Backend. DDD Practitioner.
     Focused on matching business requirements with software design. Life-long learner.
@@ -251,7 +251,7 @@
   name: "Piotr"
   surname: "Gankiewicz"
   thumbnailUrl: piotr-gankiewicz.jpg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/YyGXLLUdbaoN7neN8
   bio: >
     Inżynier oprogramowania z ponad dekadą doświadczenia (wywodzący się z obszaru C# i dotnet), aktualnie używający Rusta w pracy w startupie z zakresu cyberbezpieczeństwa Hugin.io.
     Kontrybutor OSS, rozwijający platformę do strumieniowego przesyłania wiadomości Apache Iggy.
@@ -267,7 +267,7 @@
   name: "Krystian"
   surname: "Zybała"
   thumbnailUrl: krystian-zybala.jpeg
-  feedback: https://forms.gle/1NWRqTEwcoGXqMkX6
+  feedback: https://forms.gle/f8ipj5CDAmo8MrUY7
   bio: >
     Specjalista z ponad 10-letnim doświadczeniem w branży IT, specjalizujący się w optymalizacji wydajności JVM w systemach rozproszonych, szczególnie w sektorze finansowym, gdzie priorytetem są low-latency i throughput.
     Na co dzień pracuje z JVM, nieustannie benchmarkując granice jego możliwości przy porannej kawie.
