@@ -7,28 +7,16 @@
 
 #   speakers: [  ]
 - id: 201
-  title: "Z manuskryptów starożytnych inżynierów – bazy danych"
+  title: "Skalowanie aplikacji w Kubernetes: od standardowego HPA po własny operator"
   place: ""
   subtype: presentation
   description: >
-    Kolejne warstwy frameworków, abstrakcji i pudru. Pozwalają nam dostarczać skomplikowane rozwiązania w skończonym czasie.
-    Nasi dziadkowie mogliby nam pozazdrościć łatwości z jaką udaje nam się budować złożone systemy.
-    Jednak często zapominamy o tym jak wiele zawdzięczamy starożytnym inżynierom. Spróbujmy poznać ich tajemnice, zapisane w manuskryptach.
+    Podczas prezentacji Bartosz wyjaśni, jak podejść do autoskalowania w Kubernetes na przykładzie realnego wdrożenia Trino.
+    Na wstępie nastąpi krótkie wprowadzenie do tematu i przegląd podstawowych mechanizmów, takich jak Horizontal Pod Autoscaler.
+    Prelegent przedstawi również praktyczne spojrzenie na wyzwania przy skalowaniu klastrów Trino.
+    Całość kończy się omówieniem finalnego rozwiązania opartego na własnym operatorze.
     <br /><br />
-    Bazy danych są sercem naszych systemów, gdyż dane są krwiobiegiem naszych organizacji. Zabiorę Was w cudowną i nostalgiczną podróż przez świat architektury baz danych.
-    Rozłożymy bazy danych na poszczególne komponenty by w pełni docenić piękno tych cudów inżynierii.
-    <br /><br />
-    Zaczniemy od szybkiego kursu historii najnowszej, czyli dlaczego i kiedy pojawiła się koncepcja baz danych.
-    By następnie przejść do technik organizacji danych na dysku.
-    Poznać tajniki zarządzanie pamięcią i techniki zapewnienia izolacji zapisów czyli locking protocols.
-    <br /><br />
-    Dowiesz się jak bazy danych zapewniają spójność i trwałość danych z pomocą „transaction logs” i „write-ahead logs”.
-    Nie pominiemy też dyskusji o indeksach (w tym B+tree), wykonywaniu zapytań i optymalizacji planów zapytań.
-    <br /><br />
-    Mam nadzieję, że ta prezentacji pozwoli wam lepiej zrozumieć jak budować aplikacje i optymalizować wydajność systemów.
-    Dzięki zrozumieniu jakie prawa rządzą światem baz danych.
-    <br /><br />
-    Będzie też czas na filozoficzne rozmyślania o sensie istnienia i odpowiedź na pytanie dokąd zmierzamy.
+    To wszystko na podstawie doświadczeń z zakończonego projektu
   speakers: [ 1 ]
 - id: 202
   title: "Anatomia warunków biznesowych"
