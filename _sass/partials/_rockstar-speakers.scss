@@ -3,16 +3,28 @@ $small-rockstar-image-size: 200px;
 
 .rockstar-speakers {
     background-color: #fafafa;
-    
+
     .rockstar-speaker {
-        width: 331px;
-        height: 522px;
+        width: 100%;
+        max-width: 280px;
+        height: 440px;
         padding: 0 0 14px;
         border-radius: 11px;
         background-color: #fff;
         margin: auto auto 55px;
+
+        @media (max-width: 767px) {
+            margin-bottom: 20px;
+        }
     }
-    
+
+    .rockstar-speakers-item {
+        @media (max-width: 767px) {
+            width: 50% !important;
+            padding: 0 5px;
+        }
+    }
+
     .name {
         font-family: 'Montserrat Bold';
         font-size: 22px;
@@ -20,13 +32,14 @@ $small-rockstar-image-size: 200px;
         line-height: 1.5;
         text-align: center;
         color: #373737;
-        margin-top: 23px;
         word-spacing: 9999999px;
+        padding-top: 23px;
+        padding-bottom: 23px;
         @media (max-width: 767px) {
             font-size: 20px;
         }
     }
-    
+
     .session {
         text-align: center;
         margin: 10px 20px;

@@ -1,0 +1,47 @@
+- id: 202
+  name: "Michał"
+  surname: "Borkowski"
+  thumbnailUrl: michal-borkowski.jpg
+  talkTitle: "Git jakiego nie znacie"
+
+- id: 204
+  name: "Bartosz"
+  surname: "Pałka"
+  thumbnailUrl: bartosz-palka.jpg
+  talkTitle: "Błędy poznawcze w IT"
+
+- id: 203
+  name: "Michał"
+  surname: "Machniak"
+  thumbnailUrl: michal-machniak.jpg
+  talkTitle: "DevOps bez sekretów"
+
+- id: 205
+  name: "Barbara"
+  surname: "Kozioł"
+  thumbnailUrl: barbara-koziol.jpg
+  talkTitle: "Dla kogo my to robimy?"
+
+- id: 206
+  name: "Dorota"
+  surname: "Owczarek"
+  thumbnailUrl: dorota-owczarek.jpg
+  talkTitle: "Web accessibility"
+
+- id: 201
+  name: "Wojtek"
+  surname: "Rząsa"
+  thumbnailUrl: wojciech-rzasa.jpg
+  talkTitle: "Mastering Software Delivery"
+
+- id: 207
+  name: "Maciek"
+  surname: "Kołodziej"
+  thumbnailUrl: maciej-kolodziej.jpg
+  talkTitle: "Po prostu kolejki!"
+
+- id: 208
+  name: "Bartosz"
+  surname: "Rybacki"
+  thumbnailUrl: bartosz-rybacki.jpg
+  talkTitle: "Skalowanie aplikacji w&nbsp;Kubernetes"

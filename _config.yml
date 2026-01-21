@@ -3,6 +3,11 @@ plugins:
 - jekyll-sitemap
 safe: false
 
+# Sass Settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Build Settings
 markdown: kramdown
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hackathon.html', '_posts', 'cod.md']
@@ -38,17 +43,13 @@ socialImageSrcFacebook: "/img/seo/craft-it-2023-sharing-fb.png"
 
 # Navigation
 navigationLinks:
-- {permalink: "/#schedule", text: "Program"}
+# - {permalink: "/#schedule", text: "Program"}
 # - {permalink: "/speakers/", text: "Prelegenci"}
 #- {permalink: "/team/", text: "Zespół"}
 #- {permalink: "/logistics/", text: "Logistyka"}
-- {permalink: "/#rockstar-speakers", text: "Prelegenci"}
-- {link: "https://2024.craft-it.pl", text: "2024"}
-- {link: "https://2023.craft-it.pl", text: "2023"}
-- {link: "https://2022.craft-it.pl", text: "2022"}
-- {link: "https://2019.rzemioslo.it", text: "2019"}
-- {link: "https://2018.rzemioslo.it", text: "2018"}
-- {link: "https://2017.rzemioslo.it", text: "2017"}
+- {permalink: "/#past-speakers", text: "Prelegenci"}
+- {permalink: "/#last-editions2", text: "Relacja"}
+- {permalink: "/#location-map", text: "Lokalizacja"}
 navigationButtons:
  - {permalink: "/#tickets", text: "Kup bilet"}
 bottomNavigationLinks:
@@ -65,9 +66,8 @@ heroImage: "hero.png"
 # About Block
 aboutTitle: "O konferencji"
 aboutText:
- - "Craft-IT.pl to konferencja programistyczna na Podkarpaciu poświęcona tematyce \"Software Craftsmanship\"."
+ - "Craft-IT.pl to konferencja programistyczna na Podkarpaciu poświęcona tematyce <i>Software Craftsmanship</i>."
  - "Nowe technologie pojawiają się i znikają. My wierzymy, że warto inwestować we własne programistyczne rzemiosło, w warsztat, który zawsze będzie aktualny, niezależnie od aktualnych trendów."
- - "Serdecznie zapraszamy: Rzeszów. 31 maja 2025"
  - "Zapewniamy świetne prelekcje techniczne, catering przez cały dzień i after party."
 #aboutBlock:
 # - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
@@ -133,6 +133,33 @@ lastEditionButtons:
    - {link: "https://www.facebook.com/media/set/?vanity=craftitpl&set=a.978042694328201", text: "Relacja fotograficzna"}
    - {link: "https://www.youtube.com/watch?v=DxW_78kBVrQ", text: "Relacja wideo"}
 
+# Why Attend Block
+whyAttendTitle: "Dlaczego warto?"
+whyAttendItems:
+  - {emoji: "🎯", title: "Ucz się z&nbsp;doświadczeń", text: "Prawdziwe historie z&nbsp;projektów. Pytania bez cenzury. Czas na&nbsp;dyskusje."}
+  - {emoji: "🤝", title: "Buduj network", text: "Poznaj ludzi, którzy rozwiązują podobne problemy. Buduj sieć, od&nbsp;której możesz się uczyć."}
+  - {emoji: "💡", title: "Dzień na&nbsp;naukę", text: "Pozwól sobie na&nbsp;dzień z&nbsp;technologią. Programowanie, bazy danych, metodyki. Bez zooma i&nbsp;slacka."}
+  - {emoji: "📐", title: "Następny krok", text: "Konferencja dla developerów, tech leadów i&nbsp;managerów z&nbsp;doświadczeniem. Tutaj znajdziesz inspirację do&nbsp;dalszego rozwoju."}
+
+# Video Testimonials Block
+videoTestimonialsTitle: "Co mówią prelegenci?"
+videoTestimonialsSubtitle: "Craft-IT to miejsce dla doświadczonych inżynierów, którzy szukają inspiracji i konkretów. Zobacz, jak wyglądają nasze konferencje z perspektywy prelegentów."
+# videoTestimonialsYoutubeId: "YOUTUBE_VIDEO_ID"
+
+# Past Speakers Block
+pastSpeakersTitle: "Byli u nas"
+pastSpeakersSubtitle: "Na naszej scenie wystąpili jedni z najlepszych polskich prelegentów technicznych."
+
+# Local Speakers Block
+localSpeakersTitle: "Lokalne talenty"
+localSpeakersSubtitle: "Wspieramy rozwój podkarpackiej społeczności IT. Konferencja to współpraca dwóch meetupów: rg-dev i Rzeszów Ruby User Group."
+
+# Community Block
+communityTitle: "Organizowane przez społeczność"
+communityText: "Craft-IT to konferencja non-profit, organizowana przez Stowarzyszenie CRAFT.IT. Robimy to po godzinach, bo wierzymy, że warto."
+communityImage: "placeholder.png"
+communityButtonText: "Poznaj zespół"
+
 # Tickets Block
 ticketsTitle: "Bilety"
 ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
@@ -160,14 +187,15 @@ footerBlocks:
     - { permalink: "/files/polityka_prywatnosci.pdf", text: "Polityka Prywatności" }
  - title: "Archiwum"
    links:
+    - { link: "https://2025.craft-it.pl", text: "2025" }
     - { link: "https://2024.craft-it.pl", text: "2024" }
     - { link: "https://2023.craft-it.pl", text: "2023" }
     - { link: "https://2022.craft-it.pl", text: "2022" }
     - { link: "https://2019.rzemioslo.it", text: "2019" }
     - { link: "https://2018.rzemioslo.it", text: "2018" }
     - { link: "https://2017.rzemioslo.it", text: "2017" }
-    - {link: "https://www.facebook.com/media/set/?vanity=craftitpl&set=a.978042694328201", text: "Relacja fotograficzna"}
-    - {link: "https://www.youtube.com/watch?v=DxW_78kBVrQ", text: "Relacja wideo"}
+    - {link: "https://www.facebook.com/media/set/?set=a.1268979385234529&type=3", text: "Relacja fotograficzna"}
+    - {link: "https://youtu.be/PqC5TQEZ5UU", text: "Relacja wideo"}
  -
   title: "Social"
   links:

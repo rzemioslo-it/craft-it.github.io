@@ -1,0 +1,25 @@
+<!-- Begin Past Speakers Section -->
+<section id="past-speakers" class="rockstar-speakers image-section lazy">
+	<div class="overlay"></div>
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
+			<h3 id="past-speaker-title" class="rockstar-speaker-title">{{ site.pastSpeakersTitle }}</h3>
+			<p class="section-subtitle">{{ site.pastSpeakersSubtitle }}</p>
+			<div class="clearfix"></div>
+			{% for speaker in site.data.past-speakers %}
+			<div class="col-md-3 col-xs-12 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="0">
+				<div class="rockstar-speaker">
+					<div class="flow-img rockstar-speaker-img lazy" style="background-image: url({{ site.baseurl }}/img/people/{{ speaker.thumbnailUrl }})">
+					</div>
+					<div class="name">{{ speaker.name }} {{ speaker.surname }}</div>
+					<div class="session"><div class="content">{{ speaker.talkTitle }}</div></div>
+				</div>
+			</div>
+			{% if forloop.index == 2 or forloop.index == 4 or forloop.index == 6 or forloop.index == 8 or forloop.index == 10 or forloop.index == 12 %}
+			<div class="clearfix visible-xs"></div>
+			{% endif %}
+			{% endfor %}
+		</div>
+	</div>
+</section>
+<!-- End Past Speakers Section -->

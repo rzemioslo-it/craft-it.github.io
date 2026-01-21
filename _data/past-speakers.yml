@@ -1,0 +1,47 @@
+- id: 101
+  name: "Jarek"
+  surname: "Pałka"
+  thumbnailUrl: jarek-palka.jpg
+  talkTitle: "Testy wydajnościowe i&nbsp;inne kłamstwa"
+
+- id: 103
+  name: "Anita"
+  surname: "Przybył"
+  thumbnailUrl: anita-przybyl.png
+  talkTitle: "Subiektywnie o liderach w&nbsp;IT"
+
+- id: 102
+  name: "Jakub"
+  surname: "Gutkowski"
+  thumbnailUrl: jakub-gutkowski.jpg
+  talkTitle: "4R - o komunikacji w&nbsp;zespole"
+
+- id: 107
+  name: "Łukasz"
+  surname: "Szydło"
+  thumbnailUrl: lukasz-szydlo.jpg
+  talkTitle: "Czysty kod - to nie takie proste"
+
+- id: 105
+  name: "Piotr"
+  surname: "Stapp"
+  thumbnailUrl: piotr-stapp.jpg
+  talkTitle: "Od selfie do AI"
+
+- id: 106
+  name: "Wojtek"
+  surname: "Ptak"
+  thumbnailUrl: wojtek-ptak.jpg
+  talkTitle: "Architecture Uncomplicated"
+
+- id: 104
+  name: "Ola"
+  surname: "Kunysz"
+  thumbnailUrl: ola-kunysz.jpg
+  talkTitle: "Debugging burnout"
+
+- id: 108
+  name: "Jakub"
+  surname: "Nabrdalik"
+  thumbnailUrl: jakub_nabrdalik.jpg
+  talkTitle: "Best practices in practice"

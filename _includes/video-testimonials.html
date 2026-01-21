@@ -1,0 +1,30 @@
+<!-- Video Testimonials Section -->
+<section id="video-testimonials" class="video-testimonials">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.videoTestimonialsTitle }}</h3>
+            <p class="section-subtitle">{{ site.videoTestimonialsSubtitle }}</p>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="video-wrapper animated hiding" data-animation="fadeIn" data-delay="0">
+                        {% if site.videoTestimonialsYoutubeId %}
+                        <div class="video-container">
+                            <iframe
+                                src="https://www.youtube.com/embed/{{ site.videoTestimonialsYoutubeId }}"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen>
+                            </iframe>
+                        </div>
+                        {% else %}
+                        <div class="video-placeholder">
+                            <p>Video coming soon</p>
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Video Testimonials Section -->

@@ -1,0 +1,53 @@
+.video-testimonials {
+    padding: $section-padding-top 0 $section-padding-bottom;
+    background-color: #f5f5f5;
+
+    h3 {
+        margin-bottom: 10px;
+    }
+
+    .section-subtitle {
+        font-size: 22px;
+        line-height: 1.5em;
+        color: #666;
+        margin-bottom: 40px;
+    }
+
+    .video-wrapper {
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container {
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+        overflow: hidden;
+        background: #000;
+        border-radius: 8px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+
+        iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    }
+
+    .video-placeholder {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border-radius: 8px;
+        padding: 80px 40px;
+        text-align: center;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+
+        p {
+            color: white;
+            font-size: 24px;
+            font-family: "Montserrat Bold";
+            margin: 0;
+        }
+    }
+}

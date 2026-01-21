@@ -1,0 +1,14 @@
+<!-- Community Section -->
+<section id="community" class="community image-section parallax lazy" data-bg="url({{ site.baseurl }}/img/sections-background/{{ site.communityImage }})">
+    <div class="overlay solid-overlay"></div>
+    <div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2 animated hiding" data-animation="fadeInUp" data-delay="0">
+            <h3>{{ site.communityTitle }}</h3>
+            <p class="community-text">{{ site.communityText }}</p>
+            {% if site.communityButtonText %}
+            <a href="{{ site.baseurl }}/team/" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.communityButtonText }}</a>
+            {% endif %}
+        </div>
+    </div>
+</section>
+<!-- End Community Section -->

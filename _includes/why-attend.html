@@ -1,0 +1,20 @@
+<!-- Why Attend Section -->
+<section id="why-attend" class="why-attend">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.whyAttendTitle }}</h3>
+            <div class="why-attend-tiles">
+                {% for item in site.whyAttendItems %}
+                <div class="why-attend-tile animated hiding" data-animation="fadeInUp" data-delay="0">
+                    <div class="why-attend-header">
+                        <div class="why-attend-icon">{{ item.emoji }}</div>
+                        <h4>{{ item.title }}</h4>
+                    </div>
+                    <p>{{ item.text }}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Why Attend Section -->

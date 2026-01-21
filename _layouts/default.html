@@ -40,13 +40,7 @@ layout: compress
     }
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
-    <script>
-        if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyBhH8BoDfgUZ-ky18n5ycNX_5TzGH6mbMc"><\/script>')
-        }
-    </script>
-    {% elsif page.permalink == '/logistics/' %}
+    {% if page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry&key=AIzaSyBhH8BoDfgUZ-ky18n5ycNX_5TzGH6mbMc"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
@@ -55,22 +49,6 @@ layout: compress
     <script>
         Waves.displayEffect();
         {% if  page.permalink == '/' or page.permalink == '/feedback/' %}
-            {% if page.permalink == '/' %}
-                if ($(window).width() > 767) {
-                    var googleMaps = 'index',
-                        eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
-                        centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates | replace:' ','' }}),
-                        mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates | replace:' ','' }}),
-                        icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-                } else {
-                   var staticGoogleMaps = true,
-                    eventPlaceCoordinates = '{{ site.eventPlaceCoordinates | replace:' ','' }}',
-                    centerMapCoordinates = '{{ site.mapCenterCoordinates | replace:' ','' }}',
-                    mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
-                    icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
-                }
-                var twitterFeedUrl = '{{ site.twitterFeed }}';
-            {% endif %}
             $(document).ready(function () {
                 var rockstarSpeakers = [
                     {% for speaker in site.data.speakers %}
@@ -94,7 +72,7 @@ layout: compress
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
                         count = Math.min({{ site.rockstarSpeakersCount }}, rockstarSpeakers.length),
-                        colWidth = 4;
+                        colWidth = 3;
                     for(i=0; i<count; i++) {
                         var clearfix = '<div class="clearfix visible-xs"></div>';
                         if ((i)%2 != 0) {
@@ -110,10 +88,6 @@ layout: compress
                                     '</div>' +
                                     '<div class="name">' + rockstarSpeakers[i].name + '</div>' +
                                     '<div class="session"><div class="content">' + rockstarSpeakers[i].session + '</div></div>' +
-                                    '<div class="more" ' +
-                                        'data-toggle="modal" ' +
-                                        'data-target="#speakerDetail-' + rockstarSpeakers[i].id + '" ' +
-                                    '>dowiedz się więcej</div>' +
                                 '</div></div>' + clearfix);
                         {% else %}
                             $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-12 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'">' +
@@ -124,8 +98,6 @@ layout: compress
                                     '</div>' +
                                     '<div class="name">' + rockstarSpeakers[i].name + '</div>' +
                                     '<div class="session"><div class="content">' + rockstarSpeakers[i].session + '</div></div>' +
-                                    '<div class="more" ' +
-                                '>zostaw feedback  </div>  '+
                                 '</div></a></div>' + clearfix);
                         {% endif %}
                             animationDelay -= 500;
@@ -155,7 +127,7 @@ layout: compress
 
         {% endif %}
     </script>
-    <script src="{{ "/js/scripts.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/scripts.js" | prepend: site.baseurl }}" defer></script>
     {% if page.permalink == '/schedule/' %}
         <script type="text/javascript">
             $(document).ready(function () {
@@ -167,30 +139,52 @@ layout: compress
         </script>
     {% endif %}
 
-    <!--script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script-->
-    <script type="text/javascript" src="https://app.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
+    <!-- Lazy-load Evenea iframe when tickets section comes into view -->
     <script type="text/javascript">
-     $(window).load(function() {
-       var f = document.createElement('iframe');
-       f.src = "https://app.evenea.pl/event/craft-it-2025/?out=1&source=event_iframe";
-       f.width = '100%';
-       f.height = '600px';
-       f.scrolling = 'no';
-       f.style = 'border: 0';
-       f.id = 'evenea-frame';
-       f.name = 'evenea-frame';
-       f.onload = function(){
-           console.log("evenea?", window.frames["evenea-frame"].document.getElementById('voucher_code_access_field'));
-       };
-       $('#tickets-placeholder').append(f);
-       $('iframe').iFrameResize([{}]);
-     });
+      (function() {
+        var ticketsLoaded = false;
+        var ticketsSection = document.getElementById('tickets');
+
+        if (!ticketsSection) return;
+
+        var observer = new IntersectionObserver(function(entries) {
+          if (entries[0].isIntersecting && !ticketsLoaded) {
+            ticketsLoaded = true;
+
+            // Load iframeResizer script
+            var resizer = document.createElement('script');
+            resizer.src = 'https://app.evenea.pl/js/iframe/new/iframeResizer2.js';
+            resizer.onload = function() {
+              // Create iframe after resizer loads
+              var f = document.createElement('iframe');
+              f.src = 'https://app.evenea.pl/event/craft-it-2025/?out=1&source=event_iframe';
+              f.width = '100%';
+              f.height = '600px';
+              f.scrolling = 'no';
+              f.style = 'border: 0';
+              f.id = 'evenea-frame';
+              f.name = 'evenea-frame';
+              document.getElementById('tickets-placeholder').appendChild(f);
+              if (typeof iFrameResize === 'function') {
+                iFrameResize({}, '#evenea-frame');
+              }
+            };
+            document.body.appendChild(resizer);
+
+            observer.disconnect();
+          }
+        }, { rootMargin: '200px' });
+
+        observer.observe(ticketsSection);
+      })();
     </script>
 
-    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@11.0.6/dist/lazyload.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@11.0.6/dist/lazyload.min.js" defer></script>
     <script type="text/javascript">
-      var lazyLoadInstance = new LazyLoad({
-        elements_selector: ".lazy"
+      document.addEventListener('DOMContentLoaded', function() {
+        var lazyLoadInstance = new LazyLoad({
+          elements_selector: ".lazy"
+        });
       });
     </script>
 
