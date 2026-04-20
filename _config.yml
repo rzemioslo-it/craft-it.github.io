@@ -49,11 +49,11 @@ navigationLinks:
 #- {permalink: "/logistics/", text: "Logistyka"}
 - {permalink: "/#past-speakers", text: "Prelegenci"}
 - {permalink: "/#last-editions2", text: "Relacja"}
-- {permalink: "/#location-map", text: "Lokalizacja"}
+  # - {permalink: "/#location-map", text: "Lokalizacja"}
 navigationButtons:
- - {permalink: "/#tickets", text: "Kup bilet"}
+  # - {permalink: "/#tickets", text: "Kup bilet"}
 bottomNavigationLinks:
- - {permalink: "/#tickets", text: "Kup bilet"}
+  # - {permalink: "/#tickets", text: "Kup bilet"}
 #rightNavigationButtons:
 # - {link: "#tickets", text: "Kup bilet"}
 
@@ -128,7 +128,7 @@ partnersC4sponsorsButton: "Zostań sponsorem"
 
 # Last edition Block
 lastEditionImage: "edition2022.jpg"
-lastEditionTitle: "Jak było w 2024 roku?"
+lastEditionTitle: "Jak było w 2025 roku?"
 lastEditionButtons:
    - {link: "https://www.facebook.com/media/set/?vanity=craftitpl&set=a.978042694328201", text: "Relacja fotograficzna"}
    - {link: "https://www.youtube.com/watch?v=DxW_78kBVrQ", text: "Relacja wideo"}
